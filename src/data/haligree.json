@@ -1,0 +1,618 @@
+{
+  "id": "haligtree-and-endgame-prep",
+  "area": "Haligtree, Mountaintops & Forge of the Giants",
+  "description": "Complete walkthrough covering missed Ancient Dragon Smithing Stones, Legendary Ashen Remains, Haligtree exploration, Dung Eater quest completion, Millicent's quest and important choice, Malenia boss, Fire Giant, and burning the Erdtree at the Forge of the Giants.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=XmLKNHBX7pA&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=7&t=",
+  "phases": [
+    {
+      "id": "phase-1-roderika-final",
+      "title": "Stormveil Castle – Roderika's Final Step",
+      "steps": [
+        {
+          "id": "crimson-hood-roderika",
+          "title": "Pick Up Crimson Hood at Chrysalid's Memento Location",
+          "tag": ["quest", "item"],
+          "description": "After Roderika gains spirit tuning, return to where the Chrysalid's Memento was in Stormveil Castle. A new item, the Crimson Hood, is there. Boosts Vigor by 1.",
+          "mapGenieId": null,
+          "timestamp": 43
+        }
+      ]
+    },
+    {
+      "id": "phase-2-missed-smithing-stones",
+      "title": "Mohgwyn Palace & Consecrated Snowfield – Missed Smithing Stones",
+      "steps": [
+        {
+          "id": "somber-stone-mohgwyn",
+          "title": "Pick Up Somber Ancient Dragon Smithing Stone (Mohgwyn Palace)",
+          "tag": ["item"],
+          "description": "Southeast of the Dynasty Mausoleum Midpoint grace, find a chest guarded by several enemies. Use Assassin's Gambit to sneak in and grab the Somber Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 85
+        },
+        {
+          "id": "ancient-stone-forlorn-cave",
+          "title": "Pick Up Ancient Dragon Smithing Stone (East of Cave of the Forlorn)",
+          "tag": ["item"],
+          "description": "A short distance east of the Cave of the Forlorn dungeon, guarded by a Magma Wyrm. Run past, grab the stone, and run away.",
+          "mapGenieId": null,
+          "timestamp": 110
+        },
+        {
+          "id": "nights-cavalry-caravan",
+          "title": "Defeat Two Night's Cavalry at Snowfield Caravan – Armor Set & Smithing Stone",
+          "tag": ["boss", "item"],
+          "description": "West of the Inner Consecrated Snowfield grace, find an enemy caravan. Pass time until nightfall for two Night's Cavalry to appear. Defeat both in a single life for the Night's Cavalry Armor Set and an Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 136
+        },
+        {
+          "id": "ancient-stone-yelough-anix",
+          "title": "Pick Up Ancient Dragon Smithing Stone (Yelough Anix Tunnel)",
+          "tag": ["item"],
+          "description": "Enter the Yelough Anix Tunnel near the southwest cliffs of the snowfields. The stone is easy to reach without fighting difficult enemies.",
+          "mapGenieId": null,
+          "timestamp": 171
+        }
+      ]
+    },
+    {
+      "id": "phase-3-great-jar-caelid",
+      "title": "Caelid – Great-Jar's Trial & Ashes of War",
+      "steps": [
+        {
+          "id": "siofra-lift-caelid",
+          "title": "Take Lift from Northeast Siofra to Caelid",
+          "tag": ["location"],
+          "description": "At the far northeast edge of Siofra River, take the lift up to a secluded area in Caelid.",
+          "mapGenieId": null,
+          "timestamp": 207
+        },
+        {
+          "id": "great-jar-trial",
+          "title": "Complete Great-Jar's Trial – Defeat 3 Adversaries",
+          "tag": ["quest"],
+          "description": "To the northwest, find a colosseum and a massive Warrior Jar. Speak with the Giant Jar. Summon and defeat all 3 Red Sign adversaries in a single life. Start with the hardest one.",
+          "mapGenieId": null,
+          "timestamp": 220
+        },
+        {
+          "id": "great-jars-arsenal",
+          "title": "Speak with Warrior Jar – Great-Jar's Arsenal Talisman",
+          "tag": ["quest"],
+          "description": "After defeating all 3, speak with the Warrior Jar to receive the Great-Jar's Arsenal Talisman (best Arsenal-style talisman).",
+          "mapGenieId": null,
+          "timestamp": 239
+        },
+        {
+          "id": "flame-of-redmanes",
+          "title": "Defeat Invisible Scarab – Flame of the Redmanes Ash of War",
+          "tag": ["item"],
+          "description": "Southeast of the Fort Gael North grace, defeat an invisible treasure scarab for the Flame of the Redmanes Ash of War. Extremely useful later.",
+          "mapGenieId": null,
+          "timestamp": 250
+        },
+        {
+          "id": "bloodhounds-step",
+          "title": "Defeat Night's Cavalry – Bloodhound's Step Ash of War",
+          "tag": ["boss", "item"],
+          "description": "At nighttime, travel southeast from Beastial Sanctum to the bridge leading to Lenne's Rise. Defeat the Night's Cavalry for Bloodhound's Step.",
+          "mapGenieId": null,
+          "timestamp": 270
+        },
+        {
+          "id": "bell-bearing-hunter-dragonbarrow",
+          "title": "Defeat Bell Bearing Hunter at Dragonbarrow Isolated Merchant's Shack",
+          "tag": ["boss"],
+          "description": "At the Isolated Merchant's Shack in Dragonbarrow, pass time to night, rest at grace. The Hunter spawns — this is the hardest version. Drops Gravity Stone Peddler's Bell Bearing.",
+          "mapGenieId": null,
+          "timestamp": 290
+        }
+      ]
+    },
+    {
+      "id": "phase-4-war-dead-catacombs",
+      "title": "Caelid – War-Dead Catacombs",
+      "steps": [
+        {
+          "id": "war-dead-catacombs-enter",
+          "title": "Enter War-Dead Catacombs (North of Radahn Grace)",
+          "tag": ["dungeon"],
+          "description": "Travel far north from the Starscourge Radahn grace. Near the coastline, find modest doors leading down into the War-Dead Catacombs.",
+          "mapGenieId": null,
+          "timestamp": 315
+        },
+        {
+          "id": "collapsing-stars-sorcery",
+          "title": "Pick Up Collapsing Stars Sorcery (Beneath Initial Platform)",
+          "tag": ["item"],
+          "description": "Beneath the initial platform in the dungeon, find a chest with the Collapsing Stars Sorcery.",
+          "mapGenieId": null,
+          "timestamp": 346
+        },
+        {
+          "id": "war-dead-lever",
+          "title": "Navigate to Lever and Pull It",
+          "tag": ["dungeon"],
+          "description": "Slip past Spectral Knight Archers (Assassin's Gambit helps greatly). Jump through windows to the elevated platform with the lever. Pull it and return to rest.",
+          "mapGenieId": null,
+          "timestamp": 352
+        },
+        {
+          "id": "putrid-tree-spirit",
+          "title": "Defeat Putrid Tree Spirit – Redmane Knight Ogha (Legendary Ashes)",
+          "tag": ["boss", "legendary-spirit-summon"],
+          "description": "Head straight across the initial chamber to the boss room. Defeat the Putrid Tree Spirit for the legendary Redmane Knight Ogha spirit summons.",
+          "mapGenieId": null,
+          "timestamp": 391
+        }
+      ]
+    },
+    {
+      "id": "phase-5-tombsward-catacombs",
+      "title": "Weeping Peninsula – Tombsward Catacombs",
+      "steps": [
+        {
+          "id": "tombsward-catacombs-enter",
+          "title": "Enter Tombsward Catacombs (South of Church of Pilgrimage)",
+          "tag": ["dungeon"],
+          "description": "The entrance is a short distance south of the Church of Pilgrimage, tucked in a hillside behind some ruins.",
+          "mapGenieId": null,
+          "timestamp": 408
+        },
+        {
+          "id": "tombsward-lever",
+          "title": "Ride Flamethrower Trap to Upper Level and Pull Lever",
+          "tag": ["dungeon"],
+          "description": "Navigate through the dungeon. Ride a flamethrower trap to reach an upper level. Pull the lever.",
+          "mapGenieId": null,
+          "timestamp": 434
+        },
+        {
+          "id": "lhutel-the-headless",
+          "title": "Defeat Shade Boss – Lhutel the Headless (Legendary Ashes)",
+          "tag": ["boss", "legendary-spirit-summon"],
+          "description": "Head to the boss room near the dungeon entrance. Defeat the Shade enemy for the legendary Lhutel the Headless spirit summons.",
+          "mapGenieId": null,
+          "timestamp": 486
+        }
+      ]
+    },
+    {
+      "id": "phase-6-sainted-heros-grave",
+      "title": "Altus Plateau – Sainted Hero's Grave",
+      "steps": [
+        {
+          "id": "sainted-heros-grave-enter",
+          "title": "Enter Sainted Hero's Grave",
+          "tag": ["dungeon"],
+          "description": "Enter the Sainted Hero's Grave in Altus Plateau. Enemies coated in darkness are immune until brought into golden circles of light.",
+          "mapGenieId": null,
+          "timestamp": 495
+        },
+        {
+          "id": "leyndell-soldier-ashes",
+          "title": "Pick Up Leyndell Soldier Spirit Ashes",
+          "tag": ["item"],
+          "description": "Walk around a collapsing floor to grab the Leyndell Soldier Spirit Ashes, then step on the trap floor to continue.",
+          "mapGenieId": null,
+          "timestamp": 536
+        },
+        {
+          "id": "kite-duelist-to-light",
+          "title": "Kite Darkness-Coated Duelist to Circle of Light",
+          "tag": ["dungeon"],
+          "description": "Past guillotine traps, climb ladder to upper level. Deal with the Revenant behind first, then kite the darkness-coated Grave Warden Duelist all the way to the room with the lever to remove its coating. Defeat it to open the boss door.",
+          "mapGenieId": null,
+          "timestamp": 575
+        },
+        {
+          "id": "ancient-hero-zamor",
+          "title": "Defeat Ancient Hero of Zamor – Ancient Dragon Knight Kristoff (Legendary Ashes)",
+          "tag": ["boss", "legendary-spirit-summon"],
+          "description": "Enter the boss room at the end of the guillotine hallway. Defeat the Ancient Hero of Zamor for the legendary Ancient Dragon Knight Kristoff spirit summons.",
+          "mapGenieId": null,
+          "timestamp": 642
+        }
+      ]
+    },
+    {
+      "id": "phase-7-haligtree-canopy-town",
+      "title": "Miquella's Haligtree – Canopy to Town",
+      "steps": [
+        {
+          "id": "haligtree-canopy-descent",
+          "title": "Descend from Haligtree Canopy",
+          "tag": ["dungeon"],
+          "description": "Fast travel to Haligtree Canopy grace. Begin making your way down. Use Assassin's Gambit to pass the Large Oracle Envoy sentry undetected.",
+          "mapGenieId": null,
+          "timestamp": 662
+        },
+        {
+          "id": "haligtree-town-stone",
+          "title": "Pick Up Ancient Dragon Smithing Stone (Haligtree Town)",
+          "tag": ["item"],
+          "description": "On the way to the Town Plaza, pick up the Ancient Dragon Smithing Stone guarded by a Misbegotten Warrior. Assassin's Gambit lets you grab it and keep moving.",
+          "mapGenieId": null,
+          "timestamp": 721
+        },
+        {
+          "id": "haligtree-town-shortcut",
+          "title": "Activate Shortcut Lift to Haligtree Town Grace",
+          "tag": ["location"],
+          "description": "Use Assassin's Gambit to avoid the Spiritcaller Snail. Reach the bridge, leap left, and take the birdcage lift to unlock a shortcut back to the Haligtree Town grace.",
+          "mapGenieId": null,
+          "timestamp": 767
+        },
+        {
+          "id": "loretta-haligtree",
+          "title": "Defeat Loretta, Knight of the Haligtree",
+          "tag": ["boss"],
+          "description": "Return to the bottom of the lift and pass through the fog wall. Defeat Loretta for Loretta's War Sickle and Loretta's Mastery spell.",
+          "mapGenieId": null,
+          "timestamp": 810
+        },
+        {
+          "id": "loretta-grace",
+          "title": "Discover Post-Loretta Site of Grace",
+          "tag": ["location"],
+          "description": "Find and activate the new site of grace (interaction point may be slightly offset from visual).",
+          "mapGenieId": null,
+          "timestamp": 825
+        },
+        {
+          "id": "haligtree-promenade-stone",
+          "title": "Pick Up Ancient Dragon Smithing Stone (Rooftop Chest)",
+          "tag": ["item"],
+          "description": "Slide down the tall ladder. Notice a chest on the rooftop below. Head up the staircase and open it for another Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 833
+        }
+      ]
+    },
+    {
+      "id": "phase-8-millicent-prayer-room",
+      "title": "Miquella's Haligtree – Prayer Room & Millicent",
+      "steps": [
+        {
+          "id": "cleanrot-knight-before-millicent",
+          "title": "Defeat Cleanrot Knight Before Reaching Millicent",
+          "tag": ["enemy"],
+          "description": "After descending from the rooftop, take the lift down. Defeat the Cleanrot Knight before proceeding — it could endanger Millicent.",
+          "mapGenieId": null,
+          "timestamp": 854
+        },
+        {
+          "id": "millicent-prayer-room",
+          "title": "Speak with Millicent at the Prayer Room",
+          "tag": ["quest"],
+          "description": "Find Millicent in the Prayer Room. If she's not there, check back at the Ancient Snow Valley Ruins. Speak through all dialogue.",
+          "mapGenieId": null,
+          "timestamp": 860
+        },
+        {
+          "id": "gowry-optional-dialogue",
+          "title": "Return to Gowry for New Dialogue",
+          "tag": ["dialogue", "optional"],
+          "description": "Optionally return to Gowry's Shack for new dialogue about Millicent.",
+          "mapGenieId": null,
+          "timestamp": 893
+        }
+      ]
+    },
+    {
+      "id": "phase-9-haligtree-legendaries",
+      "title": "Miquella's Haligtree – Marika's Soreseal & Seedbed Curses",
+      "steps": [
+        {
+          "id": "somber-stone-walkway",
+          "title": "Pick Up Somber Ancient Dragon Smithing Stone (Outer Walkway)",
+          "tag": ["item"],
+          "description": "Head north out of the Prayer Room. Jump to the first archway and walk along it to the outer ringed walkway (evading the Erdtree Avatar). Grab the Somber Ancient Dragon Smithing Stone near the end.",
+          "mapGenieId": null,
+          "timestamp": 894
+        },
+        {
+          "id": "marikas-soreseal",
+          "title": "Pick Up Marika's Soreseal (Legendary Talisman)",
+          "tag": ["legendary-talisman"],
+          "description": "Drop safely to the pit below to bypass Revenants. Open the Stonesword Key room to find Marika's Soreseal.",
+          "mapGenieId": null,
+          "timestamp": 932
+        },
+        {
+          "id": "seedbed-curse-4-haligtree",
+          "title": "Pick Up Seedbed Curse (Hidden Doorway)",
+          "tag": ["key-item"],
+          "description": "Return to Prayer Room. Head north, descend staircases. Leap over railing to platform below. Enter a hidden doorway to find the Seedbed Curse.",
+          "mapGenieId": null,
+          "timestamp": 943
+        },
+        {
+          "id": "cleanrot-knight-finlay",
+          "title": "Pick Up Cleanrot Knight Finlay Ashes (Legendary)",
+          "tag": ["legendary-spirit-summon"],
+          "description": "From Prayer Room, head along upper levels, platform to a garden of Scarabs. In the southwest room, open the chest (guarded by Cleanrot Knight) for the legendary Cleanrot Knight Finlay ashes.",
+          "mapGenieId": null,
+          "timestamp": 979
+        },
+        {
+          "id": "somber-stone-elevated",
+          "title": "Pick Up Somber Ancient Dragon Smithing Stone (Elevated Area)",
+          "tag": ["item"],
+          "description": "Continue northwest. Leap to an archway and ascend. Grab the Somber Ancient Dragon Smithing Stone on your left.",
+          "mapGenieId": null,
+          "timestamp": 1028
+        },
+        {
+          "id": "seedbed-curse-5-haligtree",
+          "title": "Pick Up Final Seedbed Curse",
+          "tag": ["key-item"],
+          "description": "Proceed forward to find the final Seedbed Curse.",
+          "mapGenieId": null,
+          "timestamp": 1041
+        }
+      ]
+    },
+    {
+      "id": "phase-10-dung-eater-completion",
+      "title": "Leyndell Sewers – Completing Dung Eater's Quest",
+      "steps": [
+        {
+          "id": "haligtree-continue-to-inner-wall",
+          "title": "Continue to Elphael Inner Wall Grace",
+          "tag": ["location"],
+          "description": "Drop to arches, scale the outer walkway, run up stairs west, grab Haligtree Soldier Ashes, scale another arch, sprint-jump to a platform. Discover the Elphael Inner Wall grace.",
+          "mapGenieId": null,
+          "timestamp": 1059
+        },
+        {
+          "id": "dung-eater-give-curses",
+          "title": "Give Dung Eater 5 Seedbed Curses – Mending Rune of the Fell Curse",
+          "tag": ["quest-end"],
+          "description": "Fast travel to Underground Roadside in Leyndell Sewers. Return to Dung Eater's Sewer-Gaol. Give him 5 total Seedbed Curses. After the cutscene, pick up the Mending Rune of the Fell Curse (unlocks Blessing of Despair ending option).",
+          "mapGenieId": null,
+          "timestamp": 1078
+        },
+        {
+          "id": "omen-armor-set",
+          "title": "Reload – Pick Up Omen Armor Set",
+          "tag": ["item"],
+          "description": "Reload the game. Find the Omen Armor Set near Dung Eater's body.",
+          "mapGenieId": null,
+          "timestamp": 1138
+        }
+      ]
+    },
+    {
+      "id": "phase-11-haligtree-drainage",
+      "title": "Miquella's Haligtree – Drainage Channel & Millicent's Choice",
+      "steps": [
+        {
+          "id": "drainage-channel",
+          "title": "Navigate to Drainage Channel Grace",
+          "tag": ["dungeon"],
+          "description": "Return to Elphael Inner Wall. Make your way to the Drainage Channel. Use Bloodhound's Step to cross Scarlet Rot areas.",
+          "mapGenieId": null,
+          "timestamp": 1145
+        },
+        {
+          "id": "great-grave-glovewort-island",
+          "title": "Reach Scarlet Rot Island with Great Grave Glovewort",
+          "tag": ["dungeon"],
+          "description": "From the Drainage Channel, head out west exit, climb the ladder. Cross branches to a small island with a Scarlet Rot pit containing a Great Grave Glovewort.",
+          "mapGenieId": null,
+          "timestamp": 1230
+        },
+        {
+          "id": "putrid-tree-spirit-haligtree",
+          "title": "Defeat Putrid Ulcerated Tree Spirit",
+          "tag": ["boss"],
+          "description": "Entering the pit spawns a Scarlet Rot Ulcerated Tree Spirit. Use Flame of the Redmanes Ash of War to stun it every 3 hits for critical strikes. Defeating it progresses Millicent's quest.",
+          "mapGenieId": null,
+          "timestamp": 1243
+        },
+        {
+          "id": "gowry-crying-dialogue",
+          "title": "Visit Gowry for Unique Dialogue Before Choosing",
+          "tag": ["dialogue", "optional"],
+          "description": "After defeating the Tree Spirit, two summoning signs appear. Before using either, visit Gowry's Shack for unique 'Why are you crying?' dialogue that gives context to Millicent's choice.",
+          "mapGenieId": null,
+          "timestamp": 1275
+        },
+        {
+          "id": "millicent-choice-explained",
+          "title": "Read About Millicent's Fate Before Choosing",
+          "tag": ["important-choice"],
+          "description": "Assist (Gold Sign): Rotten Winged Sword Insignia talisman, Unalloyed Gold Needle back (needed for Miquella's Needle to subdue Frenzied Flame). Challenge (Red Sign): Millicent's Prosthesis talisman, Millicent lives as a flower, but NO Miquella's Needle. Miquella's Needle is required to escape the Lord of Frenzied Flame ending if you inherited the flame.",
+          "mapGenieId": null,
+          "timestamp": 1300
+        },
+        {
+          "id": "millicent-pick-sign",
+          "title": "Pick Gold or Red Summoning Sign and Complete Encounter",
+          "tag": ["quest"],
+          "description": "Pick Gold to assist Millicent or Red to challenge her. Complete the encounter to receive the corresponding talisman.",
+          "mapGenieId": null,
+          "timestamp": 1523
+        },
+        {
+          "id": "millicent-assist-needle",
+          "title": "If Assisted: Speak with Millicent, Reload for Unalloyed Gold Needle",
+          "tag": ["quest"],
+          "description": "If you assisted Millicent, find her nearby. Speak through all dialogue. Reload the game to pick up the Unalloyed Gold Needle from her body.",
+          "mapGenieId": null,
+          "timestamp": 1541
+        },
+        {
+          "id": "gowry-quest-ending",
+          "title": "Visit Gowry – Quest Ending",
+          "tag": ["quest-end"],
+          "description": "If you challenged Millicent: Gowry is dead — pick up Bell Bearing and Flock's Canvas Talisman. If you assisted: Gowry is alive but in despair. One hit kills him permanently (drops same items). Consider holding off.",
+          "mapGenieId": null,
+          "timestamp": 1551
+        }
+      ]
+    },
+    {
+      "id": "phase-12-haligtree-to-malenia",
+      "title": "Miquella's Haligtree – To Malenia",
+      "steps": [
+        {
+          "id": "dragoncrest-greatshield",
+          "title": "Pick Up Dragoncrest Greatshield Talisman (Legendary)",
+          "tag": ["legendary-talisman"],
+          "description": "From Drainage Channel, head east across roots and arches to the cathedral rooftop. Drop onto Pest enemies (Assassin's Gambit helps). Open the chest for the legendary Dragoncrest Greatshield Talisman.",
+          "mapGenieId": null,
+          "timestamp": 1590
+        },
+        {
+          "id": "ghost-glovewort-bell-3",
+          "title": "Pick Up Ghost Glovewort Picker's Bell Bearing [3]",
+          "tag": ["item"],
+          "description": "Run out the cathedral's main entrance, down the hill west. Use Assassin's Gambit to grab the Ghost Glovewort Picker's Bell Bearing [3] before doubling back.",
+          "mapGenieId": null,
+          "timestamp": 1638
+        },
+        {
+          "id": "travelers-armor",
+          "title": "Pick Up Traveler's (Millicent's) Armor Set",
+          "tag": ["item"],
+          "description": "Take the lift down to the Haligtree Roots. In a southeast room with a scarlet blossom, find the Traveler's Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 1681
+        },
+        {
+          "id": "malenia-boss",
+          "title": "Defeat Malenia, Blade of Miquella",
+          "tag": ["boss"],
+          "description": "Face Malenia. Extremely difficult. Suggested strategy: physical defense talismans, Black Knife Tiche +10 summon, Godslayer's Greatsword +10 for staggering, heavy/jump attacks into critical hits followed by weapon skill.",
+          "mapGenieId": null,
+          "timestamp": 1695
+        },
+        {
+          "id": "miquellas-needle",
+          "title": "If Assisted Millicent: Use Unalloyed Gold Needle on Scarlet Flower",
+          "tag": ["quest-end"],
+          "description": "After defeating Malenia, reload the game. A Scarlet Flower appears in the boss room. Return the Unalloyed Gold Needle to it. Receive Miquella's Needle and a Somber Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 1751
+        }
+      ]
+    },
+    {
+      "id": "phase-13-fire-giant",
+      "title": "Mountaintops of the Giants – Fire Giant",
+      "steps": [
+        {
+          "id": "ancient-stone-church-repose",
+          "title": "Pick Up Ancient Dragon Smithing Stone (Giant Skull Near Church of Repose)",
+          "tag": ["item"],
+          "description": "Near the Church of Repose, grab the Ancient Dragon Smithing Stone from inside the jaw of a giant skull.",
+          "mapGenieId": null,
+          "timestamp": 1770
+        },
+        {
+          "id": "foot-of-forge-grace",
+          "title": "Discover Foot of the Forge Grace",
+          "tag": ["location"],
+          "description": "Head east from the Church of Repose to discover the Foot of the Forge site of grace.",
+          "mapGenieId": null,
+          "timestamp": 1789
+        },
+        {
+          "id": "alexander-summon-fire-giant",
+          "title": "Summon Alexander for Fire Giant Fight",
+          "tag": ["quest", "optional"],
+          "description": "Cross the nearby chain. Look for Alexander's Gold Summoning Sign (if his quest hasn't bugged). Summon him as a precaution.",
+          "mapGenieId": null,
+          "timestamp": 1797
+        },
+        {
+          "id": "fire-giant-boss",
+          "title": "Defeat the Fire Giant",
+          "tag": ["boss"],
+          "description": "Defeat the Fire Giant. If you beat Malenia and the Scarlet Rot Tree Spirit, this should be manageable.",
+          "mapGenieId": null,
+          "timestamp": 1811
+        },
+        {
+          "id": "fire-giant-grace",
+          "title": "Discover Post-Fire Giant Site of Grace",
+          "tag": ["location"],
+          "description": "After defeating the Fire Giant, discover the new site of grace.",
+          "mapGenieId": null,
+          "timestamp": 1822
+        }
+      ]
+    },
+    {
+      "id": "phase-14-forge-of-giants",
+      "title": "Forge of the Giants – Burning the Erdtree",
+      "steps": [
+        {
+          "id": "forge-of-giants-grace",
+          "title": "Ascend Chain to Forge of the Giants Grace",
+          "tag": ["location"],
+          "description": "Ascend the enormous chain to the northeast. Loop clockwise around the rim of the forge to reach the site of grace.",
+          "mapGenieId": null,
+          "timestamp": 1830
+        },
+        {
+          "id": "frenzied-flame-last-chance",
+          "title": "Last Chance: Inherit Frenzied Flame to Spare Melina",
+          "tag": ["important-choice"],
+          "description": "If you want to spare Melina, inherit the Frenzied Flame at the Proscription beneath Leyndell BEFORE burning the Erdtree. This locks you into the Lord of Frenzied Flame ending UNLESS you have Miquella's Needle.",
+          "mapGenieId": null,
+          "timestamp": 1852
+        },
+        {
+          "id": "hyetta-quest-if-inheriting",
+          "title": "If Inheriting Now: Complete Hyetta's Quest and Get Ronin's Armor",
+          "tag": ["quest", "optional"],
+          "description": "If inheriting the Frenzied Flame now, speak with Hyetta after for the Frenzied Flame Seal. Shabriri vanishes from Zamor Ruins leaving the Ronin's Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 1869
+        },
+        {
+          "id": "burn-erdtree",
+          "title": "Burn the Erdtree at the Forge",
+          "tag": ["quest"],
+          "description": "Rest at the Forge grace. Without Frenzied Flame: 'Talk to Melina'. With Frenzied Flame: 'Listen to the Sounds of Flame'. Both transport you to the Crumbling Farum Azula.",
+          "mapGenieId": null,
+          "timestamp": 1887
+        },
+        {
+          "id": "farum-azula-first-grace",
+          "title": "Reach First Site of Grace in Crumbling Farum Azula",
+          "tag": ["location"],
+          "description": "You cannot fast travel until you find and rest at the first site of grace. Follow the walkthrough path to reach it.",
+          "mapGenieId": null,
+          "timestamp": 1911
+        }
+      ]
+    },
+    {
+      "id": "phase-15-warnings",
+      "title": "Crumbling Farum Azula – Before Part 8",
+      "steps": [
+        {
+          "id": "avoid-godskin-duo",
+          "title": "Do Not Progress Past Godskin Duo Yet",
+          "tag": ["warning"],
+          "description": "Feel free to explore but hold off on defeating and advancing past the Godskin Duo boss.",
+          "mapGenieId": null,
+          "timestamp": 1918
+        },
+        {
+          "id": "avoid-maliketh",
+          "title": "Do NOT Defeat Maliketh",
+          "tag": ["warning"],
+          "description": "Do NOT defeat Maliketh, the final boss of Crumbling Farum Azula. Doing so drastically changes the game world.",
+          "mapGenieId": null,
+          "timestamp": 1930
+        }
+      ]
+    }
+  ]
+}

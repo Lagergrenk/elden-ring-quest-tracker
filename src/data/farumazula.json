@@ -1,0 +1,880 @@
+{
+  "id": "farum-azula-and-endgame",
+  "area": "Crumbling Farum Azula, Leyndell Capital of Ash & Endgame",
+  "description": "Complete walkthrough covering all 9 Deathroots for Gurranq, Gideon's quest completion, Crumbling Farum Azula exploration, Alexander's quest ending, Jar Bairn and Diallos quests, Bernahl's quest ending, Miquella's Needle usage, Maliketh, Capital of Ash, Goldmask/Corhyn endings, final legendary items, and all game endings.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=ZT7Q1bewwg0&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=8&t=",
+  "phases": [
+    {
+      "id": "phase-1-deathroots-1-2",
+      "title": "Limgrave – Deathroot #1 & #2",
+      "steps": [
+        {
+          "id": "deathtouched-catacombs",
+          "title": "Enter Deathtouched Catacombs (Northeast of Saintsbridge)",
+          "tag": ["dungeon"],
+          "description": "Travel to the Deathtouched Catacombs northeast of the Saintsbridge grace. Run to the end and pull the lever.",
+          "mapGenieId": null,
+          "timestamp": 35
+        },
+        {
+          "id": "deathtouched-boss",
+          "title": "Defeat Black Knife Assassin – Assassin's Crimson Dagger",
+          "tag": ["boss"],
+          "description": "Return to the boss room near the entrance. Defeat the weakened Black Knife Assassin for the Assassin's Crimson Dagger.",
+          "mapGenieId": null,
+          "timestamp": 35
+        },
+        {
+          "id": "deathroot-2",
+          "title": "Pick Up Deathroot #2 from Chest",
+          "tag": ["key-item"],
+          "description": "Loot the Deathroot from the chest near the boss. Deathroot #1 was obtained earlier from the Tibia Mariner at Summonwater Village.",
+          "mapGenieId": null,
+          "timestamp": 35
+        }
+      ]
+    },
+    {
+      "id": "phase-2-deathroot-3",
+      "title": "Liurnia – Deathroot #3",
+      "steps": [
+        {
+          "id": "tibia-mariner-liurnia",
+          "title": "Defeat Tibia Mariner Near Jarburg Cliffs – Deathroot #3",
+          "tag": ["boss", "key-item"],
+          "description": "Find the Tibia Mariner near the cliffside tombstones leading down to Jarburg. Defeat it for the Skeletal Bandit Ashes and Deathroot #3.",
+          "mapGenieId": null,
+          "timestamp": 98
+        }
+      ]
+    },
+    {
+      "id": "phase-3-deathroot-4",
+      "title": "Liurnia – Black Knife Catacombs (Deathroot #4)",
+      "steps": [
+        {
+          "id": "black-knife-catacombs-return",
+          "title": "Return to Black Knife Catacombs – Navigate to Second Boss",
+          "tag": ["dungeon"],
+          "description": "Return to the Black Knife Catacombs. Retrace steps to the guillotine traps area. Find the chute on the right side behind the skeleton archer. Drop down to the lever for the second boss door.",
+          "mapGenieId": null,
+          "timestamp": 118
+        },
+        {
+          "id": "cemetery-shade-black-knife",
+          "title": "Defeat Cemetery Shade – Twinsage Sorcerer Ashes",
+          "tag": ["boss"],
+          "description": "Make your way to the second boss room. Defeat the weak Cemetery Shade for the Twinsage Sorcerer Ashes.",
+          "mapGenieId": null,
+          "timestamp": 118
+        },
+        {
+          "id": "deathroot-4",
+          "title": "Pick Up Deathroot #4 from Chest",
+          "tag": ["key-item"],
+          "description": "Pick up the fourth Deathroot from the nearby chest.",
+          "mapGenieId": null,
+          "timestamp": 118
+        }
+      ]
+    },
+    {
+      "id": "phase-4-deathroot-5",
+      "title": "Altus Plateau – Deathroot #5",
+      "steps": [
+        {
+          "id": "tibia-mariner-wyndham",
+          "title": "Defeat Tibia Mariner Near Wyndham Ruins – Deathroot #5",
+          "tag": ["boss", "key-item"],
+          "description": "Find the Tibia Mariner southeast of the Seethewater River in the lower area of Wyndham Ruins. Defeat it for Tibia's Summons sorcery and Deathroot #5.",
+          "mapGenieId": null,
+          "timestamp": 185
+        }
+      ]
+    },
+    {
+      "id": "phase-5-deathroot-6",
+      "title": "Mt. Gelmir – Gelmir Hero's Grave (Deathroot #6)",
+      "steps": [
+        {
+          "id": "gelmir-heros-grave-enter",
+          "title": "Enter Gelmir Hero's Grave",
+          "tag": ["dungeon"],
+          "description": "Travel west from the First Mt. Gelmir Campsite, past the siege tower, then south to the dungeon entrance. Use Bloodhound's Step for the chariots and lava.",
+          "mapGenieId": null,
+          "timestamp": 207
+        },
+        {
+          "id": "ringed-finger",
+          "title": "Pick Up Ringed Finger Weapon",
+          "tag": ["item"],
+          "description": "In a chamber to the south at the bottom of the ramp, grab the Ringed Finger weapon.",
+          "mapGenieId": null,
+          "timestamp": 259
+        },
+        {
+          "id": "red-wolf-champion",
+          "title": "Defeat Red Wolf of the Champion – Bloodhound Knight Floh Ashes",
+          "tag": ["boss"],
+          "description": "Dash across lava to a secret chute, drop down, push open boss doors. Defeat the Red Wolf of the Champion for the Bloodhound Knight Floh Ashes.",
+          "mapGenieId": null,
+          "timestamp": 280
+        },
+        {
+          "id": "deathroot-6",
+          "title": "Pick Up Deathroot #6 from Chest",
+          "tag": ["key-item"],
+          "description": "Grab the Deathroot from the chest. Don't teleport out yet — double back to the boss room entrance.",
+          "mapGenieId": null,
+          "timestamp": 291
+        },
+        {
+          "id": "ride-chariot-up",
+          "title": "Sprint-Jump onto Chariot to Ride to Top",
+          "tag": ["dungeon"],
+          "description": "On the nearby ramp, sprint-jump to land on a chariot and ride it to the top.",
+          "mapGenieId": null,
+          "timestamp": 299
+        },
+        {
+          "id": "mantis-blade",
+          "title": "Defeat Cemetery Shade – Mantis Blade",
+          "tag": ["item"],
+          "description": "The nearby Cemetery Shade drops the Mantis Blade when first defeated.",
+          "mapGenieId": null,
+          "timestamp": 314
+        },
+        {
+          "id": "bloodhound-knight-armor",
+          "title": "Defeat Bloodhound Knight – Bloodhound Knight Armor Set",
+          "tag": ["item"],
+          "description": "Drop to a hidden area nearby. Defeat the Bloodhound Knight for the Bloodhound Knight Armor Set. Also pick up the Gelmir Knight Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 322
+        }
+      ]
+    },
+    {
+      "id": "phase-6-deathroot-7",
+      "title": "Mountaintops – Giant's Mountaintop Catacombs (Deathroot #7)",
+      "steps": [
+        {
+          "id": "giants-mountaintop-catacombs",
+          "title": "Enter Giant's Mountaintop Catacombs",
+          "tag": ["dungeon"],
+          "description": "From Zamor Ruins, head north to the enormous bridge. Instead of crossing, turn southeast to find a path to the catacombs.",
+          "mapGenieId": null,
+          "timestamp": 343
+        },
+        {
+          "id": "giants-catacombs-navigate",
+          "title": "Navigate to the Lever (Confusing Layout)",
+          "tag": ["dungeon"],
+          "description": "Head south from the second lift, turn west at the first juncture, then east after explosive jar enemies. Past poison enemies, drop through a chute west of a pressure plate. Find a new lift, activate it and step off. Drop beneath it, go south to the lever.",
+          "mapGenieId": null,
+          "timestamp": 363
+        },
+        {
+          "id": "ulcerated-tree-spirit-giants",
+          "title": "Defeat Ulcerated Tree Spirit – Glovewort Picker's Bell Bearing [2]",
+          "tag": ["boss"],
+          "description": "Return to the original lift, take it back to the now-open boss doors. Defeat the Ulcerated Tree Spirit for the Glovewort Picker's Bell Bearing [2].",
+          "mapGenieId": null,
+          "timestamp": 479
+        },
+        {
+          "id": "deathroot-7",
+          "title": "Pick Up Deathroot #7 from Chest",
+          "tag": ["key-item"],
+          "description": "Pick up the seventh Deathroot from the chest nearby.",
+          "mapGenieId": null,
+          "timestamp": 488
+        }
+      ]
+    },
+    {
+      "id": "phase-7-deathroot-8",
+      "title": "Mountaintops – Deathroot #8",
+      "steps": [
+        {
+          "id": "tibia-mariner-snow-valley",
+          "title": "Defeat Tibia Mariner Near Snow Valley Ruins Overlook – Deathroot #8",
+          "tag": ["boss", "key-item"],
+          "description": "Find the Tibia Mariner on a ledge northwest of the Snow Valley Ruins Overlook. Defeat it for Helphen's Steeple and Deathroot #8.",
+          "mapGenieId": null,
+          "timestamp": 488
+        }
+      ]
+    },
+    {
+      "id": "phase-8-deathroot-9",
+      "title": "Hidden Path to the Haligtree (Deathroot #9)",
+      "steps": [
+        {
+          "id": "hidden-path-invisible-walkway",
+          "title": "Walk Off Broken Ledge to Invisible Pathway",
+          "tag": ["dungeon"],
+          "description": "Travel to the Grand Lift of Rold, use the secret medallion. In the Hidden Path dungeon, find a broken ledge and carefully walk off to an invisible pathway below.",
+          "mapGenieId": null,
+          "timestamp": 514
+        },
+        {
+          "id": "silver-scarab",
+          "title": "Pick Up Silver Scarab Talisman (False Wall)",
+          "tag": ["item"],
+          "description": "Immediately south on the invisible path is a hallway. At the end, roll into a false wall to find the Silver Scarab Talisman.",
+          "mapGenieId": null,
+          "timestamp": 547
+        },
+        {
+          "id": "hidden-path-lever",
+          "title": "Navigate Invisible Walkway to Lever",
+          "tag": ["dungeon"],
+          "description": "Return to the invisible walkway. Line up with the opposite opening, then turn west to another chamber opening. Leap to the platform. Go through a window and pull the lever quickly.",
+          "mapGenieId": null,
+          "timestamp": 552
+        },
+        {
+          "id": "stray-mimic-tear",
+          "title": "Defeat Stray Mimic Tear – Blackflame Monk Amon Ashes",
+          "tag": ["boss"],
+          "description": "Through the boss doors, defeat the Stray Mimic Tear for the Blackflame Monk Amon Ashes.",
+          "mapGenieId": null,
+          "timestamp": 587
+        },
+        {
+          "id": "deathroot-9",
+          "title": "Pick Up Deathroot #9 from Chest",
+          "tag": ["key-item"],
+          "description": "Grab the final Deathroot from the chest. Don't fast travel yet.",
+          "mapGenieId": null,
+          "timestamp": 596
+        },
+        {
+          "id": "spelldrake-talisman-2",
+          "title": "Pick Up Spelldrake Talisman +2",
+          "tag": ["item"],
+          "description": "Head down the hallway west and ascend the lift to find the Spelldrake Talisman +2 and the site of grace.",
+          "mapGenieId": null,
+          "timestamp": 617
+        }
+      ]
+    },
+    {
+      "id": "phase-9-gurranq-gideon",
+      "title": "Beastial Sanctum & Roundtable Hold – Gurranq & Gideon",
+      "steps": [
+        {
+          "id": "gurranq-turn-in-roots",
+          "title": "Turn In All 9 Deathroots to Gurranq",
+          "tag": ["quest"],
+          "description": "Travel to the Beastial Sanctum. Turn in Deathroots one at a time. After the 4th, Gurranq turns hostile on reload — hit him 3 times and he surrenders. Reload and continue feeding roots.",
+          "mapGenieId": null,
+          "timestamp": 624
+        },
+        {
+          "id": "gurranq-rewards",
+          "title": "Receive All Gurranq Rewards – Ancient Dragon Smithing Stone",
+          "tag": ["quest-end"],
+          "description": "Rewards include many Bestial Incantations, Beast Claw Great Hammer, and an Ancient Dragon Smithing Stone. After all 9 roots, Gurranq vanishes.",
+          "mapGenieId": null,
+          "timestamp": 656
+        },
+        {
+          "id": "gideon-quest-complete",
+          "title": "Inform Gideon of Your Discoveries – Complete His Quest",
+          "tag": ["quest-end"],
+          "description": "Return to Roundtable Hold. Speak with Gideon, informing him of your various discoveries. Rewards include multiple spells culminating in the Law of Causality incantation.",
+          "mapGenieId": null,
+          "timestamp": 663
+        }
+      ]
+    },
+    {
+      "id": "phase-10-farum-azula-start",
+      "title": "Crumbling Farum Azula – First Stretch",
+      "steps": [
+        {
+          "id": "azula-dragon-stone",
+          "title": "Defeat Dragon on First Ruins Span – Ancient Dragon Smithing Stone",
+          "tag": ["boss", "item"],
+          "description": "While moving across the first large span of ruins, a dragon attacks. Defeat it for an Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 680
+        },
+        {
+          "id": "ancient-dragon-prayerbook",
+          "title": "Pick Up Ancient Dragon Prayerbook",
+          "tag": ["item"],
+          "description": "Grab the Ancient Dragon Prayerbook along the way to the next grace.",
+          "mapGenieId": null,
+          "timestamp": 716
+        },
+        {
+          "id": "somberstone-bell-4",
+          "title": "Pick Up Somberstone Miner's Bell Bearing [4]",
+          "tag": ["item"],
+          "description": "Pick up the Somberstone Miner's Bell Bearing [4] at the Tempest-Facing Balcony area.",
+          "mapGenieId": null,
+          "timestamp": 740
+        },
+        {
+          "id": "dragon-temple-grace",
+          "title": "Reach Dragon Temple Site of Grace",
+          "tag": ["location"],
+          "description": "Make your way down to the Dragon Temple site of grace.",
+          "mapGenieId": null,
+          "timestamp": 782
+        }
+      ]
+    },
+    {
+      "id": "phase-11-godskin-duo",
+      "title": "Crumbling Farum Azula – Godskin Duo",
+      "steps": [
+        {
+          "id": "dragon-temple-transept",
+          "title": "Navigate to Dragon Temple Transept (Avoid Triggering Duo)",
+          "tag": ["dungeon"],
+          "description": "From the Dragon Temple, stick to the sides of the main chamber to avoid triggering the Godskin Duo fight. Reach the Dragon Temple Transept grace.",
+          "mapGenieId": null,
+          "timestamp": 786
+        },
+        {
+          "id": "bernahl-summon-duo",
+          "title": "Find Bernahl's Summoning Sign Near Godskin Duo Chamber",
+          "tag": ["quest"],
+          "description": "Bernahl's summon sign should be near the Godskin Duo boss chamber. If not, quit to main menu and reload.",
+          "mapGenieId": null,
+          "timestamp": 812
+        },
+        {
+          "id": "godskin-duo",
+          "title": "Defeat Godskin Duo",
+          "tag": ["boss"],
+          "description": "With Bernahl and a strong spirit summons, defeat the Godskin Duo. Drops Smithing-Stone Miner's Bell Bearing [4] and Black Flame Tornado Ash of War.",
+          "mapGenieId": null,
+          "timestamp": 830
+        }
+      ]
+    },
+    {
+      "id": "phase-12-farum-azula-lift",
+      "title": "Crumbling Farum Azula – Dragon Temple Lift",
+      "steps": [
+        {
+          "id": "dragon-temple-lift",
+          "title": "Access Dragon Temple Lift (2 Stonesword Keys)",
+          "tag": ["location"],
+          "description": "Head out the northeast exit. Jump through a window near rabid dogs. Walk up the spiral staircase past dragon statues. Continue ahead to the lift (requires 2 Stonesword Keys).",
+          "mapGenieId": null,
+          "timestamp": 841
+        },
+        {
+          "id": "dragon-temple-lift-grace",
+          "title": "Discover Dragon Temple Lift Site of Grace",
+          "tag": ["location"],
+          "description": "Discover the site of grace at the top of the lift.",
+          "mapGenieId": null,
+          "timestamp": 892
+        },
+        {
+          "id": "ancient-stone-secluded",
+          "title": "Pick Up Ancient Dragon Smithing Stone (Secluded Column Area)",
+          "tag": ["item"],
+          "description": "Return down the lift. Instead of going down the spiral staircase, turn south and scale a column to a secluded area with an Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 902
+        }
+      ]
+    },
+    {
+      "id": "phase-13-alexander-quest-end",
+      "title": "Crumbling Farum Azula – Alexander's Quest Ending",
+      "steps": [
+        {
+          "id": "alexander-location-azula",
+          "title": "Platform to Alexander's Isolated Area",
+          "tag": ["quest"],
+          "description": "From the Dragon Temple Lift, travel south. Near the Erdtree Sapling, turn west and platform to an isolated area where Alexander is located.",
+          "mapGenieId": null,
+          "timestamp": 911
+        },
+        {
+          "id": "alexander-dialogue-final",
+          "title": "Speak with Alexander Through All Dialogue",
+          "tag": ["dialogue"],
+          "description": "Speak through all of Alexander's dialogue.",
+          "mapGenieId": null,
+          "timestamp": 949
+        },
+        {
+          "id": "alexander-duel",
+          "title": "Defeat Alexander – Shard of Alexander & Alexander's Innards",
+          "tag": ["quest-end"],
+          "description": "Give Alexander the honorable battle he wants. Defeat him and speak with him afterwards. Receive the Shard of Alexander talisman and Alexander's Innards key item.",
+          "mapGenieId": null,
+          "timestamp": 956
+        }
+      ]
+    },
+    {
+      "id": "phase-14-jar-bairn",
+      "title": "Jarburg – Jar Bairn & Diallos Quests",
+      "steps": [
+        {
+          "id": "jarburg-reach",
+          "title": "Travel to Jarburg",
+          "tag": ["location"],
+          "description": "Near the cliffs above the Carian Study Hall, find cliffside tombstones to platform down to Jarburg. Do not attack any jars.",
+          "mapGenieId": null,
+          "timestamp": 963
+        },
+        {
+          "id": "jar-bairn-potentate-test",
+          "title": "Speak with Jar Bairn – Pass Potentate Test",
+          "tag": ["quest-start"],
+          "description": "Find Jar Bairn near the Jarburg grace. Go through all dialogue and submit to the potentate test. Reload.",
+          "mapGenieId": null,
+          "timestamp": 989
+        },
+        {
+          "id": "jar-bairn-flowers",
+          "title": "Reload and Speak with Jar Bairn About Flowers",
+          "tag": ["quest"],
+          "description": "Speak with Jar Bairn again. He asks you to pick rare flowers (optional). Gather cracked pots and ritual pots (2 of each) scattered through Jarburg.",
+          "mapGenieId": null,
+          "timestamp": 1005
+        },
+        {
+          "id": "jar-bairn-about-alexander",
+          "title": "Reload and Speak About Alexander",
+          "tag": ["quest"],
+          "description": "Reload the game and speak with Jar Bairn about Alexander, whom he knew personally.",
+          "mapGenieId": null,
+          "timestamp": 1020
+        },
+        {
+          "id": "jar-bairn-poachers",
+          "title": "Reload – Jar Bairn Talks About Poachers",
+          "tag": ["quest"],
+          "description": "Reload again. Jar Bairn tells you about sinister poachers.",
+          "mapGenieId": null,
+          "timestamp": 1027
+        },
+        {
+          "id": "jar-bairn-diallos-arrives",
+          "title": "Reload – Diallos Arrives as New Potentate",
+          "tag": ["quest"],
+          "description": "Reload again. Jar Bairn announces a new potentate — Diallos. Find Diallos tending to a jar at the north end of Jarburg.",
+          "mapGenieId": null,
+          "timestamp": 1034
+        },
+        {
+          "id": "diallos-speak-jarburg",
+          "title": "Speak with Diallos Through All Dialogue",
+          "tag": ["dialogue"],
+          "description": "Speak through all of Diallos's dialogue. Rest at the grace.",
+          "mapGenieId": null,
+          "timestamp": 1040
+        },
+        {
+          "id": "jar-bairn-trigger-next-phase",
+          "title": "Rest Multiple Times Until Jar Bairn Moves",
+          "tag": ["quest"],
+          "description": "Pass time until night, then keep resting until Jar Bairn leaves his normal spot. Find him standing to the northeast.",
+          "mapGenieId": null,
+          "timestamp": 1054
+        },
+        {
+          "id": "diallos-death",
+          "title": "Speak with Jar Bairn, Then Find Diallos Dying",
+          "tag": ["quest"],
+          "description": "Speak with Jar Bairn. Find Diallos on the ground ahead. He asks if he defended the jars — your answer doesn't matter. Diallos dies.",
+          "mapGenieId": null,
+          "timestamp": 1079
+        },
+        {
+          "id": "jar-bairn-over-diallos",
+          "title": "Reload – Speak with Jar Bairn Over Diallos's Body",
+          "tag": ["quest"],
+          "description": "Reload the game. Jar Bairn stands over Diallos's body. Speak with him.",
+          "mapGenieId": null,
+          "timestamp": 1099
+        },
+        {
+          "id": "diallos-items",
+          "title": "Reload – Pick Up Diallos's Items",
+          "tag": ["item"],
+          "description": "Reload again. Jar Bairn returns to his spot. Pick up Diallos's drops: Petal Whip, Numen's Rune, and Diallos's Mask.",
+          "mapGenieId": null,
+          "timestamp": 1105
+        },
+        {
+          "id": "jar-bairn-give-innards",
+          "title": "Give Jar Bairn Alexander's Innards",
+          "tag": ["quest"],
+          "description": "Speak with Jar Bairn. Give him Alexander's Innards. Speak through remaining dialogue.",
+          "mapGenieId": null,
+          "timestamp": 1114
+        },
+        {
+          "id": "companion-jar-talisman",
+          "title": "Reload – Pick Up Companion Jar Talisman",
+          "tag": ["quest-end"],
+          "description": "Reload the game. Jar Bairn is gone. In his place, find the Companion Jar Talisman.",
+          "mapGenieId": null,
+          "timestamp": 1124
+        }
+      ]
+    },
+    {
+      "id": "phase-15-black-flame-tangent",
+      "title": "Stormveil Castle – Black Flame Incantation",
+      "steps": [
+        {
+          "id": "godskin-prayerbook",
+          "title": "Pick Up Godskin Prayerbook and Godslayer's Seal",
+          "tag": ["item", "optional"],
+          "description": "From the Liftside Chamber in Stormveil, head east, south across the courtyard, down to a fog wall. Use a Stonesword Key. Inside: Godslayer's Seal and Godskin Prayerbook. Give the book to Miriel to learn the Black Flame incantation.",
+          "mapGenieId": null,
+          "timestamp": 1135
+        }
+      ]
+    },
+    {
+      "id": "phase-16-farum-azula-rooftop",
+      "title": "Crumbling Farum Azula – Rooftop & Beyond",
+      "steps": [
+        {
+          "id": "dragon-temple-rooftop",
+          "title": "Navigate to Dragon Temple Rooftop Grace",
+          "tag": ["dungeon"],
+          "description": "From the Dragon Temple Altar grace, retrace a similar path but head down a descending path east before the spiral staircase to reach the Dragon Temple Rooftop grace.",
+          "mapGenieId": null,
+          "timestamp": 1187
+        },
+        {
+          "id": "injured-dragon-stones",
+          "title": "Defeat Injured Dragon – Ancient Dragon Smithing Stone",
+          "tag": ["boss", "item"],
+          "description": "Use Bloodhound's Step past the birds to a severely injured dragon to the south. Defeat it for an Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 1239
+        },
+        {
+          "id": "somber-stone-gazebo",
+          "title": "Pick Up Somber Ancient Dragon Smithing Stone (Gazebo)",
+          "tag": ["item"],
+          "description": "Nearby in a gazebo, find a Somber Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 1284
+        },
+        {
+          "id": "somberstone-bell-5",
+          "title": "Pick Up Somberstone Miner's Bell Bearing [5]",
+          "tag": ["item"],
+          "description": "Head southwest up a spiral path. In the following building, grab the Somberstone Miner's Bell Bearing [5] from beneath a Beastman.",
+          "mapGenieId": null,
+          "timestamp": 1296
+        },
+        {
+          "id": "beside-great-bridge-grace",
+          "title": "Discover Beside the Great Bridge Site of Grace",
+          "tag": ["location"],
+          "description": "Take the lift up to the site of grace beside the Great Bridge.",
+          "mapGenieId": null,
+          "timestamp": 1347
+        }
+      ]
+    },
+    {
+      "id": "phase-17-miquellas-needle-choice",
+      "title": "Crumbling Farum Azula – Miquella's Needle & Dragonlord",
+      "steps": [
+        {
+          "id": "hidden-path-dragonlord",
+          "title": "Find Hidden Path to Dragonlord Placidusax Arena",
+          "tag": ["location"],
+          "description": "Return down the lift from the Great Bridge. Backtrack out of the temple to find a hidden path leading to a secret location.",
+          "mapGenieId": null,
+          "timestamp": 1352
+        },
+        {
+          "id": "lay-down-prompt",
+          "title": "Lay Down at Depression to Enter Dragonlord Arena",
+          "tag": ["location"],
+          "description": "At the bottom of the path, find a depression in the ground. Lay down to be transported to the Dragonlord Placidusax arena.",
+          "mapGenieId": null,
+          "timestamp": 1396
+        },
+        {
+          "id": "miquellas-needle-choice",
+          "title": "Use Miquella's Needle Here (If You Want to Escape Frenzied Flame Ending)",
+          "tag": ["important-choice"],
+          "description": "This is the ONLY place Miquella's Needle can be used to subdue the Frenzied Flame. Use it to escape the Lord of Frenzied Flame ending. Don't use it if you WANT that ending. If you didn't inherit the Frenzied Flame, the needle has no effect.",
+          "mapGenieId": null,
+          "timestamp": 1406
+        },
+        {
+          "id": "dragonlord-placidusax",
+          "title": "Defeat Dragonlord Placidusax (Can Be Done Anytime)",
+          "tag": ["boss", "optional"],
+          "description": "Fight the Dragonlord. Very difficult. Can return anytime including after beating the game. Discover the grace at center of arena before leaving.",
+          "mapGenieId": null,
+          "timestamp": 1442
+        }
+      ]
+    },
+    {
+      "id": "phase-18-bernahl-quest-end",
+      "title": "Crumbling Farum Azula – Bernahl's Quest Ending",
+      "steps": [
+        {
+          "id": "bernahl-invasion-bridge",
+          "title": "Defeat Bernahl on the Great Bridge – Devourer's Scepter (Legendary)",
+          "tag": ["invasion", "legendary-armament"],
+          "description": "From Beside the Great Bridge, run north along the bridge. Bernahl invades. Defeat him for the Beast Champion Armor Set, Blasphemous Claw, and Devourer's Scepter (last legendary armament).",
+          "mapGenieId": null,
+          "timestamp": 1469
+        },
+        {
+          "id": "old-lords-talisman",
+          "title": "Pick Up Old Lord's Talisman (Legendary)",
+          "tag": ["legendary-talisman"],
+          "description": "Continue forward. Clear Beastmen from the next chamber. Open the chest for the Old Lord's Talisman (second to last legendary talisman).",
+          "mapGenieId": null,
+          "timestamp": 1531
+        }
+      ]
+    },
+    {
+      "id": "phase-19-maliketh",
+      "title": "Crumbling Farum Azula – Maliketh",
+      "steps": [
+        {
+          "id": "draconic-tree-sentinel-azula",
+          "title": "Defeat Draconic Tree Sentinel – Malformed Dragon Armor Set",
+          "tag": ["boss"],
+          "description": "Return to the Great Bridge and head southeast. Defeat the Draconic Tree Sentinel for the Malformed Dragon Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 1554
+        },
+        {
+          "id": "maliketh-point-of-no-return",
+          "title": "Defeating Maliketh Removes Access to Leyndell Royal Capital",
+          "tag": ["warning"],
+          "description": "Once Maliketh is defeated, Leyndell Royal Capital's surface becomes permanently inaccessible. Farm any remaining items and speak with Finger Reader Enia first.",
+          "mapGenieId": null,
+          "timestamp": 1571
+        },
+        {
+          "id": "maliketh-boss",
+          "title": "Defeat Maliketh, the Black Blade",
+          "tag": ["boss"],
+          "description": "Enter the arena. If you completed Gurranq's quest, the Beast Clergyman will recognize you. Defeat Maliketh. Watch for burn damage. Drops Remembrance of the Black Blade.",
+          "mapGenieId": null,
+          "timestamp": 1594
+        }
+      ]
+    },
+    {
+      "id": "phase-20-capital-of-ash",
+      "title": "Leyndell, Capital of Ash – Items & Quest Endings",
+      "steps": [
+        {
+          "id": "capital-ash-grace",
+          "title": "Discover Capital of Ash Site of Grace",
+          "tag": ["location"],
+          "description": "After the cutscene, you're transported to Leyndell, Capital of Ash. Discover the nearby grace.",
+          "mapGenieId": null,
+          "timestamp": 1639
+        },
+        {
+          "id": "somber-stone-capital-ash",
+          "title": "Pick Up Somber Ancient Dragon Smithing Stone",
+          "tag": ["item"],
+          "description": "Travel west past the giant dragon's wing. Climb ramparts southeast. Find the Somber Ancient Dragon Smithing Stone (guarded by a gargoyle that only drops runes).",
+          "mapGenieId": null,
+          "timestamp": 1639
+        },
+        {
+          "id": "crimson-amber-medallion-2",
+          "title": "Pick Up Crimson Amber Medallion +2",
+          "tag": ["item"],
+          "description": "Head south from the grace to find a new entrance to the subterranean shunning grounds. Reach a previously inaccessible area with the Crimson Amber Medallion +2 (vastly increases max HP).",
+          "mapGenieId": null,
+          "timestamp": 1692
+        },
+        {
+          "id": "corhyn-no-tonic",
+          "title": "If No Tonic Given: Find Corhyn in Capital of Ash",
+          "tag": ["quest"],
+          "description": "If you did NOT give Corhyn the Tonic of Forgetfulness, find him near the curved staircase. Speak with him. Reload to get his item set and Bell Bearing.",
+          "mapGenieId": null,
+          "timestamp": 1725
+        },
+        {
+          "id": "goldmask-final",
+          "title": "Find Goldmask – Mending Rune of Perfect Order",
+          "tag": ["quest-end"],
+          "description": "Travel west of the curved staircase, across a bridge. Find Goldmask with the Mending Rune of Perfect Order (unlocks Age of Order ending option).",
+          "mapGenieId": null,
+          "timestamp": 1760
+        },
+        {
+          "id": "goldmask-armor",
+          "title": "Reload – Pick Up Goldmask's Armor Set",
+          "tag": ["item"],
+          "description": "Reload the game. Pick up Goldmask's armor set from his body (sans the actual Gold Mask).",
+          "mapGenieId": null,
+          "timestamp": 1798
+        },
+        {
+          "id": "radiant-gold-mask",
+          "title": "Pick Up Radiant Gold Mask",
+          "tag": ["item"],
+          "description": "Southeast of the Road of Iniquity Side Path, leap to a broken bridge. The Radiant Gold Mask is practically hanging off the edge.",
+          "mapGenieId": null,
+          "timestamp": 1805
+        },
+        {
+          "id": "corhyn-tonic-location",
+          "title": "If Tonic Given: Find Corhyn at Stargazer's Ruins Bridge",
+          "tag": ["quest"],
+          "description": "If you gave Corhyn the Tonic of Forgetfulness, find him at his previous location on the snowy bridge near Stargazer's Ruins. Speak with him, then reload for his items.",
+          "mapGenieId": null,
+          "timestamp": 1834
+        }
+      ]
+    },
+    {
+      "id": "phase-21-erdtrees-favor-2",
+      "title": "Leyndell, Capital of Ash – Erdtree's Favor +2",
+      "steps": [
+        {
+          "id": "erdtrees-favor-plus-2",
+          "title": "Pick Up Erdtree's Favor +2 (Legendary Talisman)",
+          "tag": ["legendary-talisman"],
+          "description": "From Forbidden Lands grace, backtrack into the capital. Take the first lift up, exit west, continue to a second lift down. In a large ash field with 3 Ulcerated Tree Spirits, find the Erdtree's Favor +2 on a dead tree at the far southwest. Use Bloodhound's Step to grab it.",
+          "mapGenieId": null,
+          "timestamp": 1852
+        }
+      ]
+    },
+    {
+      "id": "phase-22-roundtable-hold",
+      "title": "Roundtable Hold – Roderika & Hewg Final Dialogue",
+      "steps": [
+        {
+          "id": "roderika-hewg-final",
+          "title": "Speak Between Roderika and Hewg to Resolve Their Stories",
+          "tag": ["dialogue"],
+          "description": "Return to Roundtable Hold. Gideon is gone and Roderika stands near the round table. Speak back and forth between her and Hewg until Roderika returns to her previous spot. No major choices — just story.",
+          "mapGenieId": null,
+          "timestamp": 1937
+        }
+      ]
+    },
+    {
+      "id": "phase-23-final-bosses",
+      "title": "Leyndell, Capital of Ash – Final Bosses",
+      "steps": [
+        {
+          "id": "gideon-boss",
+          "title": "Defeat Sir Gideon Ofnir, the All-Knowing",
+          "tag": ["boss"],
+          "description": "Return to Capital of Ash. Ascend the curved staircase. Let Gideon monologue before attacking. Defeat him for the All-Knowing Scepter and Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 1964
+        },
+        {
+          "id": "erdtree-heal",
+          "title": "Pick Up Erdtree Heal Incantation",
+          "tag": ["item"],
+          "description": "Ascend roots northeast, retread the path to the Queen's Bedchamber. Find Erdtree Heal on the bed — the most potent healing spell in the game.",
+          "mapGenieId": null,
+          "timestamp": 1985
+        },
+        {
+          "id": "nepheli-summon-godfrey",
+          "title": "Summon Nepheli Loux for Godfrey/Hoarah Loux Fight",
+          "tag": ["quest"],
+          "description": "Find the gold summoning sign outside the Elden Throne. Because Nepheli's quest was completed, she can help fight Godfrey/Hoarah Loux.",
+          "mapGenieId": null,
+          "timestamp": 2005
+        },
+        {
+          "id": "godfrey-hoarah-loux",
+          "title": "Defeat Godfrey, First Elden Lord / Hoarah Loux",
+          "tag": ["boss"],
+          "description": "Defeat Godfrey/Hoarah Loux. Spend earned runes on leveling before proceeding.",
+          "mapGenieId": null,
+          "timestamp": 2027
+        },
+        {
+          "id": "radagon-elden-beast",
+          "title": "Defeat Radagon of the Erdtree & Elden Beast",
+          "tag": ["boss"],
+          "description": "Enter the Erdtree. Two bosses in a row: Radagon then Elden Beast. Use Golden Vow and Lord's Divine Fortification buffs. Black Flame for Radagon, Pest Threads for Elden Beast. Black Knife Tiche is excellent for both. Defeating the Elden Beast rewards the Elden Remembrance.",
+          "mapGenieId": null,
+          "timestamp": 2040
+        }
+      ]
+    },
+    {
+      "id": "phase-24-game-endings",
+      "title": "Choosing Your Game Ending",
+      "steps": [
+        {
+          "id": "discover-final-grace",
+          "title": "Discover the Final Site of Grace",
+          "tag": ["location"],
+          "description": "You appear on a stone platform. Discover the nearby site of grace.",
+          "mapGenieId": null,
+          "timestamp": 2088
+        },
+        {
+          "id": "ending-frenzied-flame",
+          "title": "If Frenzied Flame Not Subdued: Lord of Frenzied Flame Ending",
+          "tag": ["important-choice"],
+          "description": "If you inherited and did NOT subdue the Frenzied Flame, the only option at the Fractured Marika is becoming the Lord of Frenzied Flame. Unlocks the Lord of Frenzied Flame achievement.",
+          "mapGenieId": null,
+          "timestamp": 2088
+        },
+        {
+          "id": "ending-age-of-stars",
+          "title": "Blue Summoning Sign: Age of the Stars Ending (No Confirmation)",
+          "tag": ["important-choice"],
+          "description": "If the Frenzied Flame was not inherited or was subdued: interacting with Ranni's blue summoning sign immediately triggers the Age of the Stars ending with NO confirmation prompt.",
+          "mapGenieId": null,
+          "timestamp": 2113
+        },
+        {
+          "id": "ending-elden-lord",
+          "title": "Fractured Marika: Elden Lord Ending (Standard or With Mending Rune)",
+          "tag": ["important-choice"],
+          "description": "Approaching the Fractured Marika gives the option to mend the Elden Ring normally, or use a Mending Rune: Perfect Order (Goldmask), Death-Prince (Fia), or Fell Curse (Dung Eater). All three variants unlock the Elden Lord achievement.",
+          "mapGenieId": null,
+          "timestamp": 2139
+        },
+        {
+          "id": "ending-final-warning",
+          "title": "Your Ending Choice Is Final and Cannot Be Reversed",
+          "tag": ["warning"],
+          "description": "Once you pick an ending it is final. You cannot return after credits to choose differently. Multiple endings from one save requires cloud backups (risky).",
+          "mapGenieId": null,
+          "timestamp": 2160
+        },
+        {
+          "id": "dont-start-ng-plus-yet",
+          "title": "Choose 'No' When Asked to Begin New Journey",
+          "tag": ["tip"],
+          "description": "After credits, choose 'No' when asked to begin a new journey. You can start NG+ later from Roundtable Hold after completing remaining tasks covered in Part 9.",
+          "mapGenieId": null,
+          "timestamp": 2196
+        }
+      ]
+    }
+  ]
+}

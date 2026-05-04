@@ -1,0 +1,1560 @@
+{
+  "id": "limgrave",
+  "area": "Limgrave",
+  "description": "Complete walkthrough of Limgrave covering all NPC interactions, quests, invaders, and important items in proper order. Includes Varre, Melina, Ranni, Roderika, Bernahl, Alexander, D, Blaidd, Kenneth Haight, Boc, Sellen, Irina, Edgar, Yura, Patches, Rogier, Nepheli, Gostoc, Fia, and more.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=uJh0LLO8QEA&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=1&t=",
+  "phases": [
+    {
+      "id": "phase-1-intro-and-start",
+      "title": "Intro & Starting Area",
+      "steps": [
+        {
+          "id": "grafted-scion",
+          "title": "Grafted Scion Boss",
+          "tag": [
+            "boss",
+            "optional"
+          ],
+          "description": "You can win or lose the fight with the Grafted Scion at the start — it doesn't matter. You can return to fight it later.",
+          "mapGenieId": 164433,
+          "timestamp": 35
+        },
+        {
+          "id": "strength-gesture",
+          "title": "Pick Up 'Strength!' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "In the Cave of Knowledge tutorial route, pick up the 'Strength!' gesture near a ledge after defeating the Soldier of Godrick miniboss.",
+          "mapGenieId": 164435,
+          "timestamp": 60
+        }
+      ]
+    },
+    {
+      "id": "phase-2-first-step-to-gatefront",
+      "title": "First Step to Gatefront Ruins",
+      "steps": [
+        {
+          "id": "varre-first-step",
+          "title": "Speak with White Mask Varre at the First Step",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Speak with Varre to gain background on your situation. Avoid his advice for now.",
+          "mapGenieId": 164440,
+          "timestamp": 74
+        },
+        {
+          "id": "church-of-elleh-grace",
+          "title": "Discover Church of Elleh Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head north around the Tree Sentinel and discover the site of grace at the Church of Elleh.",
+          "mapGenieId": 163934,
+          "timestamp": 74
+        },
+        {
+          "id": "kale-crafting-kit",
+          "title": "Buy Crafting Kit from Kale",
+          "tag": [
+            "item"
+          ],
+          "description": "Speak with Kale the Merchant at the Church of Elleh and purchase the Crafting Kit.",
+          "mapGenieId": 170394,
+          "timestamp": 74
+        },
+        {
+          "id": "gatefront-whetstone-knife",
+          "title": "Pick Up Whetstone Knife at Gatefront Ruins",
+          "tag": [
+            "item"
+          ],
+          "description": "At the Gatefront Ruins, descend the stairs in the southeast quadrant. Open the chest to find an Ash of War and the Whetstone Knife (needed to apply Ashes of War to weapons).",
+          "mapGenieId": 164087,
+          "timestamp": 74
+        },
+        {
+          "id": "gatefront-map-fragment",
+          "title": "Pick Up Limgrave West Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Grab the Map Fragment in the center of the Gatefront Ruins.",
+          "mapGenieId": 163927,
+          "timestamp": 74
+        },
+        {
+          "id": "gatefront-grace",
+          "title": "Discover Gatefront Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Sit at the Gatefront site of grace to the northwest of the ruins.",
+          "mapGenieId": 163926,
+          "timestamp": 74
+        }
+      ]
+    },
+    {
+      "id": "phase-3-melina-ranni",
+      "title": "Meeting Melina & Ranni",
+      "steps": [
+        {
+          "id": "melina-accord",
+          "title": "Accept Melina's Accord",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Resting at the Gatefront site of grace triggers Melina's introduction. Accept her accord to unlock leveling up and receive Torrent the Spectral Steed.",
+          "mapGenieId": 309690,
+          "timestamp": 106
+        },
+        {
+          "id": "ranni-spirit-calling-bell",
+          "title": "Get Spirit Calling Bell from Ranni at Church of Elleh",
+          "tag": [
+            "item"
+          ],
+          "description": "Return to the Church of Elleh. Meet Ranni (going by 'Renna'). Tell her you have Torrent to receive the Spirit Calling Bell and Lone Wolf Ashes.",
+          "mapGenieId": 167799,
+          "timestamp": 106
+        }
+      ]
+    },
+    {
+      "id": "phase-4-stormhill-roderika-bernahl",
+      "title": "Stormhill Shack, Roderika & Bernahl",
+      "steps": [
+        {
+          "id": "stormhill-golden-seed",
+          "title": "Pick Up Golden Seed at Stormhill Shack",
+          "tag": [
+            "item"
+          ],
+          "description": "Head northwest from Gatefront to Stormhill Shack. Grab the Golden Seed near the Erdtree sapling before entering.",
+          "mapGenieId": 163957,
+          "timestamp": 155
+        },
+        {
+          "id": "roderika-sitting-sideways",
+          "title": "Get 'Sitting Sideways' Gesture from Roderika",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Meet Roderika inside Stormhill Shack. Speak with her multiple times to receive the 'Sitting Sideways' gesture.",
+          "mapGenieId": 164125,
+          "timestamp": 155
+        },
+        {
+          "id": "roderika-jellyfish-ashes",
+          "title": "Get Jellyfish Spirit Ashes from Roderika",
+          "tag": [
+            "spirit-summon"
+          ],
+          "description": "Continue speaking with Roderika to receive the Jellyfish Spirit Ashes.",
+          "mapGenieId": 165103,
+          "timestamp": 155
+        },
+        {
+          "id": "roderika-chrysalid-quest",
+          "title": "Accept Roderika's Quest to Retrieve Chrysalid's Memento",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Roderika asks you to retrieve the Chrysalid's Memento from Stormveil Castle. We'll do this later.",
+          "mapGenieId": 163950,
+          "timestamp": 155
+        },
+        {
+          "id": "bernahl-warmaster-shack",
+          "title": "Meet Bernahl at Warmaster's Shack",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Head northeast to the Warmaster's Shack and meet Bernahl. He sells various Ashes of War. Do NOT attack him — he has an important questline later.",
+          "mapGenieId": 164727,
+          "timestamp": 186
+        }
+      ]
+    },
+    {
+      "id": "phase-5-henricus-alexander",
+      "title": "Recusant Henricus & Alexander",
+      "steps": [
+        {
+          "id": "recusant-henricus",
+          "title": "Defeat Recusant Henricus Invader",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Follow the trail northwest from Warmaster's Shack towards the Limgrave Arena. Henricus will invade — the most easily missed invader. Defeat him for the Hammer Talisman.",
+          "mapGenieId": 165607,
+          "timestamp": 229
+        },
+        {
+          "id": "saintsbridge-grace",
+          "title": "Discover Saintsbridge Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head along the road northeast from Warmaster's Shack and discover the Saintsbridge site of grace.",
+          "mapGenieId": 164062,
+          "timestamp": 250
+        },
+        {
+          "id": "alexander-free",
+          "title": "Free Alexander from the Ground",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Head southwest up the hillside from Saintsbridge. Find Iron Fist Alexander stuck in the ground. Agree to help and use charged weapon attacks (hold R2/RT) to free him.",
+          "mapGenieId": 170547,
+          "timestamp": 250
+        },
+        {
+          "id": "alexander-triumphant-delight",
+          "title": "Get 'Triumphant Delight' Gesture from Alexander",
+          "tag": [
+            "gesture"
+          ],
+          "description": "After freeing Alexander, receive the 'Triumphant Delight' gesture.",
+          "mapGenieId": 164118,
+          "timestamp": 250
+        },
+        {
+          "id": "alexander-dialogue",
+          "title": "Speak Through All of Alexander's Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Alexander to get Exalted Flesh and information on where he's headed.",
+          "mapGenieId": 170547,
+          "timestamp": 250
+        },
+        {
+          "id": "east-limgrave-map",
+          "title": "Pick Up Eastern Limgrave Map Fragment (Mistwood Ruins)",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "The map fragment for eastern Limgrave can be found near the Mistwood Ruins.",
+          "mapGenieId": 164377,
+          "timestamp": 281
+        }
+      ]
+    },
+    {
+      "id": "phase-6-d-and-tibia-mariner",
+      "title": "D, Hunter of the Dead & Tibia Mariner",
+      "steps": [
+        {
+          "id": "d-hunter-intro",
+          "title": "Speak with D, Hunter of the Dead at Saintsbridge",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Continue along the Saintsbridge to find D, Hunter of the Dead. Speak with him but do not heed his warning.",
+          "mapGenieId": 167218,
+          "timestamp": 291
+        },
+        {
+          "id": "summonwater-grace",
+          "title": "Discover Summonwater Village Outskirts Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the Summonwater Village Outskirts site of grace before entering the village.",
+          "mapGenieId": 164018,
+          "timestamp": 291
+        },
+        {
+          "id": "tibia-mariner",
+          "title": "Defeat Tibia Mariner Boss",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Tibia Mariner in Summonwater Village — one of the easiest bosses. Rewards runes, Skeletal Militiaman Ashes, and a Deathroot.",
+          "mapGenieId": 164859,
+          "timestamp": 291
+        },
+        {
+          "id": "d-show-deathroot",
+          "title": "Show D the Deathroot",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find D near the west entrance of the village. Show him the Deathroot. He marks coordinates on your map for a transporter near the Third Church of Marika and instructs you to meet Gurranq.",
+          "mapGenieId": 165684,
+          "timestamp": 291
+        }
+      ]
+    },
+    {
+      "id": "phase-7-caelid-detour",
+      "title": "Caelid Detour – Anastasia Invader",
+      "steps": [
+        {
+          "id": "smoldering-church-grace",
+          "title": "Discover Smoldering Church Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head northeast to the Smoldering Church in Caelid. Race to discover the site of grace first, as an invader will spawn.",
+          "mapGenieId": 164374,
+          "timestamp": 341
+        },
+        {
+          "id": "anastasia-invader",
+          "title": "Defeat Anastasia Tarnished-Eater Invader",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Anastasia invades at the Smoldering Church. She's beefy but has a limited moveset. Defeat her for the Sacred Scorpion Charm Talisman (boosts holy damage, lowers defense).",
+          "mapGenieId": 165194,
+          "timestamp": 341
+        }
+      ]
+    },
+    {
+      "id": "phase-8-roundtable-hold",
+      "title": "Roundtable Hold – Meet All NPCs",
+      "steps": [
+        {
+          "id": "roundtable-hold-unlock",
+          "title": "Travel to Roundtable Hold via Melina",
+          "tag": [
+            "location"
+          ],
+          "description": "Resting at the Smoldering Church site of grace triggers Melina to take you to Roundtable Hold.",
+          "mapGenieId": 164374,
+          "timestamp": 379
+        },
+        {
+          "id": "speak-gideon",
+          "title": "Speak with Gideon at Roundtable Hold",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Gideon multiple times until he has nothing new to say.",
+          "mapGenieId": 169061,
+          "timestamp": 379
+        },
+        {
+          "id": "speak-diallos",
+          "title": "Speak with Diallos at Roundtable Hold",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Diallos multiple times until he has nothing new to say.",
+          "mapGenieId": 167783,
+          "timestamp": 379
+        },
+        {
+          "id": "speak-d-roundtable",
+          "title": "Speak with D at Roundtable Hold",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with D multiple times until he has nothing new to say.",
+          "mapGenieId": 167782,
+          "timestamp": 379
+        },
+        {
+          "id": "speak-corhyn-prayer",
+          "title": "Speak with Corhyn – Get 'Prayer' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Speak with Corhyn for the first time to receive the 'Prayer' gesture. Continue speaking until he has nothing new to say.",
+          "mapGenieId": 182165,
+          "timestamp": 401
+        },
+        {
+          "id": "fia-held",
+          "title": "Allow Fia to Hold You",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Fia and allow her to hold you.",
+          "mapGenieId": 167503,
+          "timestamp": 401
+        },
+        {
+          "id": "ensha-gesture",
+          "title": "Get 'What Do You Want?' Gesture from Ensha",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Interact with Ensha (he won't speak) to receive the 'What Do You Want?' gesture.",
+          "mapGenieId": 167786,
+          "timestamp": 401
+        },
+        {
+          "id": "hewg-intro",
+          "title": "Speak with Hewg the Blacksmith",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Hewg. He upgrades armaments with smithing stones and runes, and can duplicate Ashes of War.",
+          "mapGenieId": 167788,
+          "timestamp": 401
+        },
+        {
+          "id": "mad-tongue-alberich",
+          "title": "Mad Tongue Alberich Invader – 'Reverential Bow' Gesture",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Jump over the balcony in Roundtable Hold to trigger Alberich's invasion. Wait a moment after he invades to unlock the 'Reverential Bow' gesture. Consider waiting until higher level, or spend all runes before fighting — dying risks losing runes with no easy recovery.",
+          "mapGenieId": 168679,
+          "timestamp": 443
+        }
+      ]
+    },
+    {
+      "id": "phase-9-gael-tunnel",
+      "title": "Gael Tunnel – Alexander's Second Location",
+      "steps": [
+        {
+          "id": "gael-tunnel-enter",
+          "title": "Enter Gael Tunnel from Smoldering Church",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Travel back to the Smoldering Church. Make your way to the entrance of Gael Tunnel without fighting enemies. Drop down ledges to reach the site of grace inside.",
+          "mapGenieId": 164414,
+          "timestamp": 480
+        },
+        {
+          "id": "gael-tunnel-traverse",
+          "title": "Traverse Gael Tunnel to the Rear Exit",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Jog through the tunnel to the other side. Avoid opening the boss room door — it's nearly unfair at lower levels. Open the smaller door nearby instead (only openable from this side).",
+          "mapGenieId": 164414,
+          "timestamp": 480
+        },
+        {
+          "id": "alexander-gael-tunnel",
+          "title": "Speak with Alexander at Rear Gael Tunnel",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Alexander and the Rear Gael Tunnel Entrance site of grace. Speak through all of Alexander's dialogue.",
+          "mapGenieId": 165129,
+          "timestamp": 480
+        },
+        {
+          "id": "gael-tunnel-exit",
+          "title": "Exit Gael Tunnel Back into Limgrave",
+          "tag": [
+            "location"
+          ],
+          "description": "Proceed out the back exit of Gael Tunnel into Limgrave.",
+          "mapGenieId": 164857,
+          "timestamp": 480
+        }
+      ]
+    },
+    {
+      "id": "phase-10-third-church-gurranq",
+      "title": "Third Church of Marika & Gurranq",
+      "steps": [
+        {
+          "id": "spirit-springs-south",
+          "title": "Ride Spirit Springs South to Third Church of Marika",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way south via spirit springs on Torrent. The final spring drops you near the Third Church of Marika.",
+          "mapGenieId": 164016,
+          "timestamp": 585
+        },
+        {
+          "id": "sacred-blade-scarab",
+          "title": "Defeat Scarab for Sacred Blade Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "Defeat the treasure scarab near the Third Church to get the Sacred Blade Ash of War.",
+          "mapGenieId": 165618,
+          "timestamp": 585
+        },
+        {
+          "id": "wondrous-physick",
+          "title": "Pick Up Wondrous Physick Flask",
+          "tag": [
+            "item"
+          ],
+          "description": "Inside the Third Church of Marika, find the Wondrous Physick Flask and Crimson Crystal Tear.",
+          "mapGenieId": 164723,
+          "timestamp": 585
+        },
+        {
+          "id": "third-church-sacred-tear",
+          "title": "Pick Up Sacred Tear at Third Church of Marika",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Grab the Sacred Tear inside the Third Church of Marika.",
+          "mapGenieId": 164140,
+          "timestamp": 585
+        },
+        {
+          "id": "third-church-grace",
+          "title": "Discover Third Church of Marika Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover and rest at the site of grace inside the church.",
+          "timestamp": 585
+        },
+        {
+          "id": "melina-third-church",
+          "title": "Speak with Melina about Echoes of Queen Marika",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "When resting at the Third Church, speak with Melina to learn about the Echoes of Queen Marika.",
+          "mapGenieId": 164015,
+          "timestamp": 621
+        },
+        {
+          "id": "transporter-to-sanctum",
+          "title": "Use Transporter to Beastial Sanctum",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel to the transporter that D marked on your map (north behind the Third Church). Use it to be transported to the Beastial Sanctum.",
+          "mapGenieId": 165596,
+          "timestamp": 621
+        },
+        {
+          "id": "beastial-sanctum-grace",
+          "title": "Discover Beastial Sanctum Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the site of grace at the Beastial Sanctum but don't rest at it yet.",
+          "mapGenieId": 164396,
+          "timestamp": 621
+        },
+        {
+          "id": "gurranq-deathroot",
+          "title": "Give Gurranq the Deathroot",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Gurranq at the back of the sanctum. Give him the Deathroot to receive the Beast Eye key item and Clawmark Seal (for casting incantations).",
+          "mapGenieId": 177161,
+          "timestamp": 621
+        },
+        {
+          "id": "d-quest-complete",
+          "title": "Tell D You've Met Gurranq – Golden Order Incantations",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Return to Roundtable Hold and tell D you've met with Gurranq. This grants access to his Golden Order incantations. This is essentially the end of D's short questline.",
+          "mapGenieId": 167782,
+          "timestamp": 660
+        }
+      ]
+    },
+    {
+      "id": "phase-11-kenneth-blaidd",
+      "title": "Kenneth Haight & Blaidd Quests",
+      "steps": [
+        {
+          "id": "kenneth-haight-start",
+          "title": "Speak with Kenneth Haight – Agree to Take Back Fort Haight",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "From the Third Church of Marika, head southwest to find Kenneth Haight on top of some ruins. Speak with him and agree to take back Fort Haight.",
+          "mapGenieId": 164854,
+          "timestamp": 674
+        },
+        {
+          "id": "mistwood-howling",
+          "title": "Listen for Howling Wolf at Mistwood Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Travel southeast through the Mistwood towards Fort Haight. As you pass the Mistwood Ruins, listen for a howling wolf.",
+          "mapGenieId": 164003,
+          "timestamp": 674
+        },
+        {
+          "id": "fort-haight-grace",
+          "title": "Discover Fort Haight Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way to Fort Haight and discover the nearby site of grace.",
+          "mapGenieId": 164013,
+          "timestamp": 699
+        },
+        {
+          "id": "fort-haight-bloody-slash",
+          "title": "Defeat Armored Knight for Bloody Slash Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "Fight through Fort Haight and defeat the Armored Knight near the end. He drops the Bloody Slash Ash of War (very strong early game).",
+          "mapGenieId": 164497,
+          "timestamp": 699
+        },
+        {
+          "id": "dectus-medallion-left",
+          "title": "Pick Up Left Half of Dectus Medallion",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Climb the ladder in the nearby tower at Fort Haight to retrieve the Left Half of the Dectus Medallion.",
+          "mapGenieId": 164496,
+          "timestamp": 699
+        },
+        {
+          "id": "kale-finger-snap",
+          "title": "Ask Kale about Howling – Get 'Finger Snap' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Fast travel to the Church of Elleh. Ask Kale about the howling near the Mistwood Ruins to unlock the 'Finger Snap' gesture.",
+          "mapGenieId": 167512,
+          "timestamp": 719
+        },
+        {
+          "id": "blaidd-finger-snap",
+          "title": "Use Finger Snap at Mistwood Ruins to Meet Blaidd",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Return to the Mistwood Ruins. Use the Finger Snap gesture within the ruins' boundaries. Blaidd drops down to introduce himself.",
+          "mapGenieId": 165205,
+          "timestamp": 719
+        },
+        {
+          "id": "blaidd-dialogue-mistwood",
+          "title": "Speak Through All of Blaidd's Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak through all of Blaidd's dialogue at the Mistwood Ruins.",
+          "mapGenieId": 165206,
+          "timestamp": 719
+        },
+        {
+          "id": "kenneth-haight-reward",
+          "title": "Return to Kenneth Haight – Erdsteel Dagger Reward",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head north back to Kenneth Haight. He rewards you with an Erdsteel Dagger for liberating Fort Haight.",
+          "mapGenieId": 164854,
+          "timestamp": 744
+        },
+        {
+          "id": "kenneth-enter-service",
+          "title": "Agree to Enter Kenneth Haight's Service",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Kenneth several more times and agree to enter his service. Reload the game — he should be gone. We'll catch up with him later.",
+          "mapGenieId": 164854,
+          "timestamp": 744
+        }
+      ]
+    },
+    {
+      "id": "phase-12-boc-sellen",
+      "title": "Boc the Seamster & Sellen",
+      "steps": [
+        {
+          "id": "agheel-lake-north-grace",
+          "title": "Discover Agheel Lake North Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Fast travel to Gatefront and head southeast. Discover the Agheel Lake North site of grace.",
+          "mapGenieId": 164026,
+          "timestamp": 762
+        },
+        {
+          "id": "boc-talking-tree",
+          "title": "Free Boc from the Tree",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Find a talking tree southeast of the grace, a short distance from the beaten path. Strike it once and only once to reveal Boc the Seamster.",
+          "mapGenieId": 165122,
+          "timestamp": 762
+        },
+        {
+          "id": "boc-dialogue-limgrave",
+          "title": "Speak Through All of Boc's Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Boc gives you mushrooms as thanks for freeing him. Speak through all of his dialogue before moving on.",
+          "mapGenieId": 165122,
+          "timestamp": 762
+        },
+        {
+          "id": "limgrave-tunnels-tip",
+          "title": "Limgrave Tunnels for Smithing Stone [1]",
+          "tag": [
+            "farming"
+          ],
+          "description": "If you need Smithing Stone [1], the Limgrave Tunnels are easily reached from the Agheel Lake North site of grace.",
+          "mapGenieId": 164025,
+          "timestamp": 789
+        },
+        {
+          "id": "waypoint-ruins-pumpkin-head",
+          "title": "Defeat Pumpkin Head at Waypoint Ruins",
+          "tag": [
+            "boss"
+          ],
+          "description": "Continue along the path past a bridge. Find the Waypoint Ruins on the east side of the road. Descend the staircase and defeat the Pumpkin Head miniboss.",
+          "mapGenieId": 164490,
+          "timestamp": 800
+        },
+        {
+          "id": "sellen-tutelage",
+          "title": "Begin Tutelage Under Sellen – 'Thoughtful Nod' Gesture",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "In the room beyond the Pumpkin Head, find Sorceress Sellen. Begin tutelage to receive the 'Thoughtful Nod' gesture and access to novice-level glintstone sorceries.",
+          "mapGenieId": 164621,
+          "timestamp": 800
+        }
+      ]
+    },
+    {
+      "id": "phase-13-darriwil-blaidd",
+      "title": "Bloodhound Knight Darriwil & Blaidd",
+      "steps": [
+        {
+          "id": "agheel-lake-south-grace",
+          "title": "Discover Agheel Lake South Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue south and discover the Agheel Lake South site of grace.",
+          "mapGenieId": 164626,
+          "timestamp": 836
+        },
+        {
+          "id": "darriwil-evergaol",
+          "title": "Defeat Bloodhound Knight Darriwil with Blaidd",
+          "tag": [
+            "boss"
+          ],
+          "description": "Head to the Forlorn Hound Evergaol on the nearby hill. Inside, use Blaidd's gold summoning sign. Defeat Darriwil to receive the Bloodhound's Fang.",
+          "mapGenieId": 164486,
+          "timestamp": 836
+        },
+        {
+          "id": "blaidd-somber-stone",
+          "title": "Speak with Blaidd Outside Evergaol – Somber Smithing Stone [2]",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Blaidd outside the evergaol to receive a Somber Smithing Stone [2].",
+          "mapGenieId": 170964,
+          "timestamp": 836
+        },
+        {
+          "id": "blaidd-iji-info",
+          "title": "Continue Speaking with Blaidd – Learn About Iji",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Keep speaking with Blaidd to learn about a smithee named Iji in northwest Liurnia. This makes a unique talisman available from Iji later.",
+          "mapGenieId": 170964,
+          "timestamp": 836
+        }
+      ]
+    },
+    {
+      "id": "phase-14-irina-weeping-peninsula",
+      "title": "Irina & Weeping Peninsula",
+      "steps": [
+        {
+          "id": "bridge-of-sacrifice",
+          "title": "Cross Bridge of Sacrifice into Weeping Peninsula",
+          "tag": [
+            "location"
+          ],
+          "description": "Head south along the main road and cross the Bridge of Sacrifice into the Weeping Peninsula.",
+          "mapGenieId": 163963,
+          "timestamp": 870
+        },
+        {
+          "id": "irina-quest-start",
+          "title": "Speak with Irina – Accept Her Letter",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Find Irina a short distance from the Bridge of Sacrifice grace. Speak through all dialogue and agree to take her letter to her father.",
+          "mapGenieId": 164638,
+          "timestamp": 870
+        },
+        {
+          "id": "weeping-peninsula-map",
+          "title": "Pick Up Weeping Peninsula Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Pick up the Map Fragment on your way towards Castle Morne.",
+          "mapGenieId": 164643,
+          "timestamp": 870
+        },
+        {
+          "id": "castle-morne-lift",
+          "title": "Discover Castle Morne Lift",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way south past the Castle Morne Rampart towards Castle Morne. Discover the Castle Morne Lift.",
+          "mapGenieId": 163949,
+          "timestamp": 895
+        },
+        {
+          "id": "sacred-tear-callu",
+          "title": "Pick Up Sacred Tear at Callu Baptismal Church",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "From the Castle Morne Ramparts, head southwest up the hill into the Ailing Village. Stop at the Callu Baptismal Church to find a Sacred Tear.",
+          "mapGenieId": 164844,
+          "timestamp": 895
+        },
+        {
+          "id": "ailing-village-grace",
+          "title": "Discover Ailing Village Outskirts Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head north to discover the Ailing Village Outskirts site of grace.",
+          "mapGenieId": 165581,
+          "timestamp": 895
+        },
+        {
+          "id": "sacred-tear-pilgrimage",
+          "title": "Pick Up Sacred Tear at Church of Pilgrimage",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Make your way to the Church of Pilgrimage to find another Sacred Tear.",
+          "mapGenieId": 165431,
+          "timestamp": 895
+        },
+        {
+          "id": "minor-erdtree",
+          "title": "Defeat the Minor Erdtree for Opaline Bubbletear",
+          "tag": [
+            "boss"
+          ],
+          "description": "Continue southwest to the Minor Erdtree. Defeat it to receive the Opaline Bubbletear, which can be used to boost magic attack power when added to your Flask of Wondrous Physick.",
+          "mapGenieId": 165321,
+          "timestamp": 895
+        },
+        {
+          "id": "melina-pilgrimage",
+          "title": "Speak with Melina at Church of Pilgrimage",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Resting at the Church of Pilgrimage site of grace gives the option to speak with Melina.",
+          "mapGenieId": 163995,
+          "timestamp": 926
+        },
+        {
+          "id": "sacred-tear-fourth-church",
+          "title": "Pick Up Sacred Tear at Fourth Church of Marika",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Continue southwest to the Fourth Church of Marika to find another Sacred Tear. These 3 tears dramatically improve flask potency.",
+          "mapGenieId": 165408,
+          "timestamp": 926
+        },
+        {
+          "id": "lantern-purchase",
+          "title": "Buy Lantern from Isolated Merchant",
+          "tag": [
+            "item"
+          ],
+          "description": "At the southwest edge of the peninsula, find the Isolated Merchant's Shack. Purchase a Lantern for 1,800 runes (lights surroundings hands-free).",
+          "mapGenieId": 179329,
+          "timestamp": 926
+        }
+      ]
+    },
+    {
+      "id": "phase-15-castle-morne",
+      "title": "Castle Morne – Edgar & Leonine Misbegotten",
+      "steps": [
+        {
+          "id": "castle-morne-start",
+          "title": "Begin Castle Morne Walkthrough",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Return to the Castle Morne Lift and begin making your way through the castle to find Irina's father.",
+          "mapGenieId": 163951,
+          "timestamp": 980
+        },
+        {
+          "id": "edgar-irinas-letter",
+          "title": "Give Edgar Irina's Letter",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Edgar at the top of the east castle tower. Hand over Irina's letter. Speak through all of his dialogue. Edgar needs to ensure the legendary sword doesn't fall into enemy hands.",
+          "mapGenieId": 164794,
+          "timestamp": 980
+        },
+        {
+          "id": "castle-morne-rampart-gaol",
+          "title": "Reach Rampart Gaol Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Double back and make your way through the rest of the castle until discovering the site of grace beside the Rampart Gaol.",
+          "mapGenieId": 163946,
+          "timestamp": 1047
+        },
+        {
+          "id": "leonine-misbegotten",
+          "title": "Defeat Leonine Misbegotten – Grafted Blade Greatsword",
+          "tag": [
+            "boss"
+          ],
+          "description": "Head down from the Rampart Gaol to the Morne Moangrave. Defeat the Leonine Misbegotten to get the Grafted Blade Greatsword (legendary armament).",
+          "mapGenieId": 164812,
+          "timestamp": 1047
+        },
+        {
+          "id": "edgar-leaves-castle",
+          "title": "Tell Edgar the Sword Is Secured",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Edgar at the east tower. With the legendary sword secured, he leaves to reunite with Irina. Reload the game — he should be gone.",
+          "mapGenieId": 164794,
+          "timestamp": 1047
+        }
+      ]
+    },
+    {
+      "id": "phase-16-irina-death",
+      "title": "Irina's Death",
+      "steps": [
+        {
+          "id": "irina-death",
+          "title": "Discover Irina's Body at Bridge of Sacrifice",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to the Bridge of Sacrifice to find Irina's bloody body with Edgar weeping over her.",
+          "mapGenieId": 164638,
+          "timestamp": 1165
+        },
+        {
+          "id": "edgar-vow",
+          "title": "Speak with Edgar – He Vows Revenge",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Edgar. He vows to hunt down whoever did this to his daughter. Full resolution requires reaching Liurnia.",
+          "mapGenieId": 164638,
+          "timestamp": 1165
+        }
+      ]
+    },
+    {
+      "id": "phase-17-yura-agheel",
+      "title": "Yura & Flying Dragon Agheel",
+      "steps": [
+        {
+          "id": "seaside-ruins-grace",
+          "title": "Discover Seaside Ruins Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head back into Limgrave northeast and discover the Seaside Ruins site of grace.",
+          "mapGenieId": 163998,
+          "timestamp": 1196
+        },
+        {
+          "id": "yura-intro",
+          "title": "Speak with Yura Beneath the Underpass",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Find Yura beneath the nearby underpass. He warns you about Flying Dragon Agheel.",
+          "mapGenieId": 170973,
+          "timestamp": 1196
+        },
+        {
+          "id": "flying-dragon-agheel",
+          "title": "Defeat Flying Dragon Agheel",
+          "tag": [
+            "boss",
+            "optional"
+          ],
+          "description": "Flying Dragon Agheel swoops in when you approach the group of worshippers near a large pyre northwest of the Dragon-Burnt Ruins. Defeat Agheel if you can.",
+          "mapGenieId": 164484,
+          "timestamp": 1196
+        },
+        {
+          "id": "yura-after-agheel",
+          "title": "Tell Yura About Defeating Agheel",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Yura and share the news of defeating Agheel. He tells you about the Church of Dragon Communion off the west coast of Limgrave.",
+          "mapGenieId": 164632,
+          "timestamp": 1196
+        }
+      ]
+    },
+    {
+      "id": "phase-18-boc-coastal-cave",
+      "title": "Boc Quest & Church of Dragon Communion",
+      "steps": [
+        {
+          "id": "coastal-cave-enter",
+          "title": "Enter Coastal Cave",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Find the entrance to the Coastal Cave west of the First Step site of grace.",
+          "mapGenieId": 164031,
+          "timestamp": 1230
+        },
+        {
+          "id": "boc-injured-coastal-cave",
+          "title": "Speak with Injured Boc in Coastal Cave",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find injured Boc inside the cave. Speak through all of his dialogue.",
+          "mapGenieId": 165130,
+          "timestamp": 1230
+        },
+        {
+          "id": "coastal-cave-bosses",
+          "title": "Defeat Demi-Human Chiefs in Coastal Cave",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the two Demi-Human Chiefs in the boss room (fight them one at a time by avoiding venturing too far in). They drop the Sewing Needle and Tailoring Tools.",
+          "mapGenieId": 164457,
+          "timestamp": 1230
+        },
+        {
+          "id": "church-dragon-communion",
+          "title": "Exit to Church of Dragon Communion",
+          "tag": [
+            "location"
+          ],
+          "description": "Head out the south exit of the cave to emerge near the Church of Dragon Communion, where dragon hearts can be exchanged for dragon communion incantations.",
+          "mapGenieId": 163996,
+          "timestamp": 1230
+        },
+        {
+          "id": "boc-give-sewing-needle",
+          "title": "Give Boc the Sewing Needle",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to the Coastal Cave and give Boc the Sewing Needle. Speak through all of his dialogue.",
+          "mapGenieId": 165130,
+          "timestamp": 1230
+        }
+      ]
+    },
+    {
+      "id": "phase-19-yura-nerijus-patches",
+      "title": "Yura, Nerijus & Patches",
+      "steps": [
+        {
+          "id": "murkwater-nerijus",
+          "title": "Defeat Bloody Finger Nerijus Invader",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Travel back to Agheel Lake and head north through the river. When approaching Murkwater Cave, Bloody Finger Nerijus invades. Yura is summoned as a hunter to help. Nerijus drops the Reduvia Dagger.",
+          "mapGenieId": 164492,
+          "timestamp": 1286
+        },
+        {
+          "id": "yura-murkwater-north",
+          "title": "Speak with Yura North of Murkwater Cave",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Yura at his new location a short distance north of Murkwater Cave. Speak with him to learn more about his backstory and mission.",
+          "mapGenieId": 165104,
+          "timestamp": 1286
+        },
+        {
+          "id": "patches-chest-fight",
+          "title": "Find Patches in Murkwater Cave – Let Him Surrender",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Enter Murkwater Cave and loot the chest. Patches attacks you. Reduce him to half health and he will surrender. Use a weak weapon to avoid killing him. Unlock the 'Grovel for Mercy' gesture.",
+          "mapGenieId": 166248,
+          "timestamp": 1317
+        },
+        {
+          "id": "patches-dialogue",
+          "title": "Speak Through All of Patches' Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "After the fight, speak with Patches and go through all of his dialogue. Reload the game and he opens his shop.",
+          "mapGenieId": 166248,
+          "timestamp": 1317
+        },
+        {
+          "id": "patches-trap-chest",
+          "title": "Open Patches' Trap Chest – Get 'Calm Down!' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Open the second chest in Patches' Hovel — it's a transportation trap. Return to Patches after triggering the trap and speak with him to get the 'Calm Down!' gesture.",
+          "mapGenieId": 168630,
+          "timestamp": 1345
+        }
+      ]
+    },
+    {
+      "id": "phase-20-margit-stormveil",
+      "title": "Margit & Stormveil Castle",
+      "steps": [
+        {
+          "id": "rogier-margit-summon",
+          "title": "Find Rogier's Summoning Sign Near Margit's Boss Room",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "From Stormhill Shack, head northeast to Castleward Tunnel. Near the boss room, find a summoning sign for Sorcerer Rogier. He assists in the fight against Margit.",
+          "mapGenieId": 164640,
+          "timestamp": 1382
+        },
+        {
+          "id": "margit-boss",
+          "title": "Defeat Margit, the Fell Omen",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Margit. This unlocks a second slot for equipping talismans.",
+          "mapGenieId": 163938,
+          "timestamp": 1382
+        },
+        {
+          "id": "gostoc-main-gate",
+          "title": "Speak with Gatekeeper Gostoc",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Near the Stormveil Main Gate, find Gatekeeper Gostoc. Do NOT attack him. Choose to go through the main gate or the secret side entrance. The main gate is quicker.",
+          "mapGenieId": 164761,
+          "timestamp": 1403
+        },
+        {
+          "id": "stormveil-main-gate-run",
+          "title": "Race Through the Main Gate to Limgrave Tower Bridge Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Dodge-roll past the enemy ballistas and race towards the Limgrave Tower Bridge site of grace.",
+          "mapGenieId": 170478,
+          "timestamp": 1420
+        },
+        {
+          "id": "guardian-lion",
+          "title": "Defeat the Guardian Lion",
+          "tag": [
+            "boss"
+          ],
+          "description": "Double back from the grace and defeat the Guardian Lion.",
+          "mapGenieId": 165142,
+          "timestamp": 1420
+        },
+        {
+          "id": "liftside-chamber",
+          "title": "Reach Liftside Chamber Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Proceed north through the castle until reaching the Liftside Chamber site of grace.",
+          "mapGenieId": 164047,
+          "timestamp": 1420
+        }
+      ]
+    },
+    {
+      "id": "phase-21-rogier-stormveil",
+      "title": "Rogier & Chrysalid's Memento in Stormveil",
+      "steps": [
+        {
+          "id": "chrysalids-memento",
+          "title": "Pick Up Chrysalid's Memento",
+          "tag": [
+            "quest"
+          ],
+          "description": "From the Liftside Chamber, head out the east exit, move south across the courtyard and into a large tower. Past the Grafted Scion (fight or run), go through the doorway to find the Chrysalid's Memento on a pile of corpses.",
+          "mapGenieId": 164740,
+          "timestamp": 1508
+        },
+        {
+          "id": "crimson-hood",
+          "title": "Pick Up Crimson Hood",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "Explore the area to find a Mimic's Veil and a Crimson Hood (identical to Roderika's, increases Vigor by 1).",
+          "mapGenieId": 168288,
+          "timestamp": 1508
+        },
+        {
+          "id": "rogier-stormveil-church",
+          "title": "Speak with Rogier in Stormveil Church",
+          "tag": [
+            "quest"
+          ],
+          "description": "Defeat the Banished Knights outside the church-like structure to avoid them following you inside. Find Rogier inside. Speak with him about his goals and purchase his spellblade Ashes of War for additional dialogue.",
+          "mapGenieId": 169102,
+          "timestamp": 1508
+        },
+        {
+          "id": "gostoc-creeping",
+          "title": "Spot Gostoc Creeping on the Rooftop Above Rogier",
+          "tag": [
+            "quest",
+            "optional"
+          ],
+          "description": "If you spoke with Gostoc earlier, you may find him creeping on the rooftop right above Rogier's position.",
+          "timestamp": 1508
+        }
+      ]
+    },
+    {
+      "id": "phase-22-roderika-completion",
+      "title": "Completing Roderika's Quest",
+      "steps": [
+        {
+          "id": "roderika-give-memento",
+          "title": "Give Roderika the Chrysalid's Memento at Stormhill Shack",
+          "tag": [
+            "quest"
+          ],
+          "description": "Travel to Stormhill Shack. Speak with Roderika and give her the Chrysalid's Memento. Go through all dialogue — she'll head to Roundtable Hold.",
+          "mapGenieId": 163950,
+          "timestamp": 1640
+        },
+        {
+          "id": "roderika-roundtable-golden-seed",
+          "title": "Speak with Roderika at Roundtable Hold – Golden Seed",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go to Roundtable Hold and speak with Roderika a few times. You'll get a Golden Seed.",
+          "mapGenieId": 170232,
+          "timestamp": 1640
+        },
+        {
+          "id": "roderika-hewg-mediation",
+          "title": "Mediate Between Roderika and Hewg",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak back and forth between Roderika and Hewg until Hewg agrees to hone Roderika's skills as a spirit tuner.",
+          "mapGenieId": 167788,
+          "timestamp": 1640
+        },
+        {
+          "id": "roderika-spirit-tuning",
+          "title": "Roderika Unlocks Spirit Tuning",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Reload the area. Roderika should be in a new location with the ability to upgrade spirit summons.",
+          "mapGenieId": 170232,
+          "timestamp": 1640
+        }
+      ]
+    },
+    {
+      "id": "phase-23-nepheli-godrick",
+      "title": "Nepheli & Godrick the Grafted",
+      "steps": [
+        {
+          "id": "nepheli-stormveil",
+          "title": "Find and Speak with Nepheli in Stormveil Castle",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "From the Liftside Chamber, take the lift up. Head south from the Secluded Cell, past the Troll and Banished Knights. Near the Erdtree sapling, find Nepheli inside a room. Speak through all dialogue — she insists you summon her against Godrick.",
+          "mapGenieId": 169124,
+          "timestamp": 1672
+        },
+        {
+          "id": "godrick-boss",
+          "title": "Defeat Godrick the Grafted",
+          "tag": [
+            "boss"
+          ],
+          "description": "Find Nepheli's summoning sign outside the Godrick boss room (optional). Enter and defeat Godrick the Grafted. Receive the Remembrance of the Grafted and Godrick's Great Rune.",
+          "mapGenieId": 164421,
+          "timestamp": 1701
+        },
+        {
+          "id": "gostoc-after-godrick",
+          "title": "Speak with Gostoc After Godrick",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Gatekeeper Gostoc near the new site of grace. He has items for sale but nothing impressive. Do NOT attack him — he'll have an Ancient Dragon Smithing Stone later.",
+          "mapGenieId": 169116,
+          "timestamp": 1701
+        },
+        {
+          "id": "activate-great-rune",
+          "title": "Activate Godrick's Great Rune at Divine Tower",
+          "tag": [
+            "quest",
+            "optional"
+          ],
+          "description": "Optionally go activate Godrick's Great Rune at the Divine Tower.",
+          "mapGenieId": 164074,
+          "timestamp": 1736
+        }
+      ]
+    },
+    {
+      "id": "phase-24-roundtable-post-godrick",
+      "title": "Roundtable Hold – Post Godrick",
+      "steps": [
+        {
+          "id": "nepheli-roundtable-arsenal-charm",
+          "title": "Speak with Nepheli – Arsenal Charm",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold and find Nepheli. Speak through all dialogue. She gives you the Arsenal Charm (if you spoke with her before defeating Godrick). If you can't find Nepheli, you may need to speak with Gideon more near the main table first.",
+          "mapGenieId": 171950,
+          "timestamp": 1744
+        },
+        {
+          "id": "nepheli-leaving",
+          "title": "Speak with Nepheli Until She Announces Leaving",
+          "tag": [
+            "quest"
+          ],
+          "description": "After speaking with Nepheli multiple times, she'll inform you that she is leaving Roundtable Hold to continue her journey.",
+          "mapGenieId": 171950,
+          "timestamp": 1744
+        },
+        {
+          "id": "finger-reader-enia",
+          "title": "Speak with Finger Reader Enia – Remembrance Exchange",
+          "tag": [
+            "shop"
+          ],
+          "description": "Speak with Finger Reader Enia. She exchanges unique rewards for remembrances. This also causes Gideon to open his personal chamber doors.",
+          "mapGenieId": 170553,
+          "timestamp": 1768
+        },
+        {
+          "id": "rogier-rapier",
+          "title": "Tell Rogier You Defeated Godrick – Rogier's Rapier +8",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Rogier sitting by the balcony. Tell him you defeated Godrick to receive Rogier's Rapier +8.",
+          "mapGenieId": 174929,
+          "timestamp": 1783
+        }
+      ]
+    },
+    {
+      "id": "phase-25-varre-bravo",
+      "title": "Varre's Message & Bravo Gesture",
+      "steps": [
+        {
+          "id": "varre-bravo-gesture",
+          "title": "Read Varre's Message – 'Bravo!' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Go to the First Step site of grace. Find a message where Varre used to stand. Reading it unlocks the 'Bravo!' gesture. We won't find Varre again until Liurnia.",
+          "mapGenieId": 166196,
+          "timestamp": 1798
+        }
+      ]
+    },
+    {
+      "id": "phase-26-rogier-corpse-under-stormveil",
+      "title": "Rogier's Quest – Corpse Under Stormveil Castle",
+      "steps": [
+        {
+          "id": "hidden-path-liftside",
+          "title": "Take Hidden Path from Liftside Chamber",
+          "tag": [
+            "location"
+          ],
+          "description": "From the Liftside Chamber, take the lift up, then follow a somewhat hidden path.",
+          "mapGenieId": 164047,
+          "timestamp": 1804
+        },
+        {
+          "id": "shortcut-door",
+          "title": "Open Shortcut Door Back to Liftside Chamber",
+          "tag": [
+            "location"
+          ],
+          "description": "Once you reach a gold message on the ground, turn south and make your way down. Open the shortcut door to the east leading back to the Liftside Chamber.",
+          "timestamp": 1804
+        },
+        {
+          "id": "platforming-to-pit",
+          "title": "Navigate Platforming Section to Rat Pit",
+          "tag": [
+            "location"
+          ],
+          "description": "Carefully make your way down through a platforming section to reach a pit area infested with giant rats.",
+          "timestamp": 1804
+        },
+        {
+          "id": "rancorcall-sorcery",
+          "title": "Defeat Scarab for Rancorcall Sorcery",
+          "tag": [
+            "item"
+          ],
+          "description": "Head south in the pit and defeat the treasure scarab to obtain the Rancorcall Sorcery.",
+          "mapGenieId": 165163,
+          "timestamp": 1804
+        },
+        {
+          "id": "ulcerated-tree-spirit",
+          "title": "Defeat Ulcerated Tree Spirit for Golden Seed",
+          "tag": [
+            "boss",
+            "optional"
+          ],
+          "description": "Drop down to a lower pit. Defeat the Ulcerated Tree Spirit for a Golden Seed. Pick up the Stonesword Key in this area.",
+          "mapGenieId": 165164,
+          "timestamp": 1804
+        },
+        {
+          "id": "witness-grotesque-face",
+          "title": "Witness the Grotesque Face Under Stormveil",
+          "tag": [
+            "quest"
+          ],
+          "description": "Run south down the tunnel to find a grotesque looking face. Witnessing it may be required for Rogier's quest.",
+          "mapGenieId": 169102,
+          "timestamp": 1804
+        },
+        {
+          "id": "prince-of-death-pustule",
+          "title": "Pick Up Prince of Death's Pustule Talisman",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Prince of Death's Pustule Talisman nearby the grotesque face.",
+          "mapGenieId": 165169,
+          "timestamp": 1804
+        },
+        {
+          "id": "rogier-bloodstain",
+          "title": "View Rogier's Blood Stain",
+          "tag": [
+            "quest",
+            "optional"
+          ],
+          "description": "There is a blood stain nearby that reveals how Rogier ended up in his current state at Roundtable Hold.",
+          "mapGenieId": 169102,
+          "timestamp": 1804
+        }
+      ]
+    },
+    {
+      "id": "phase-27-rogier-fia-knifeprint",
+      "title": "Rogier & Fia – Knifeprint Clue",
+      "steps": [
+        {
+          "id": "rogier-ask-corpse",
+          "title": "Ask Rogier About the Corpse Under Stormveil",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Rogier at Roundtable Hold and ask him about the corpse under Stormveil Castle.",
+          "mapGenieId": 168232,
+          "timestamp": 1951
+        },
+        {
+          "id": "rogier-ask-about-d",
+          "title": "Ask Rogier About D",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "Optionally ask Rogier about D, Hunter of the Dead, and vice versa.",
+          "mapGenieId": 168232,
+          "timestamp": 1951
+        },
+        {
+          "id": "fia-knifeprint-clue",
+          "title": "Speak with Fia in Secret – Knifeprint Clue",
+          "tag": [
+            "quest"
+          ],
+          "description": "After asking Rogier about the corpse, go to Fia. Agree to be held, then speak in secret with her. Go through dialogue choices about a Black Knifeprint. She gives you a drawn map showing its location (Black Knife Catacombs in Liurnia).",
+          "mapGenieId": 170981,
+          "timestamp": 1967
+        }
+      ]
+    },
+    {
+      "id": "phase-28-shabriri-grape-liurnia",
+      "title": "Shabriri Grape & Entering Liurnia",
+      "steps": [
+        {
+          "id": "shabriri-grape-stormveil",
+          "title": "Pick Up Shabriri Grape in Stormveil Throne Room",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Travel to the Godrick the Grafted site of grace. Make your way through the throne room and pick up the Shabriri Grape.",
+          "mapGenieId": 165154,
+          "timestamp": 1990
+        },
+        {
+          "id": "enter-liurnia",
+          "title": "Exit North into Liurnia",
+          "tag": [
+            "location"
+          ],
+          "description": "Head out the north exit of the throne room to step foot in Liurnia.",
+          "mapGenieId": 164145,
+          "timestamp": 1990
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1279 @@
+{
+  "id": "mt-gelmir-sellen-ranni",
+  "area": "Mt. Gelmir",
+  "description": "Complete walkthrough covering Bell Bearing Hunters, Altus Plateau legendary items, Mt. Gelmir exploration, Alexander, Patches, Sellen's full questline, Boc's quest completion, and Ranni's full questline including Nokstella, Lake of Rot, Moonlight Altar, and all associated legendary items.",
+  "youtubeUrl": "https://youtu.be/aQjsaTkP2uo?si=lzLL0GDTnpBt2x9S&t=",
+  "phases": [
+    {
+      "id": "phase-1-bell-bearing-hunters",
+      "title": "Bell Bearing Hunters",
+      "steps": [
+        {
+          "id": "warmaster-shack-nightfall",
+          "title": "Wait Until Nightfall at Warmaster's Shack",
+          "tag": [
+            "info"
+          ],
+          "description": "Travel to Warmaster's Shack in Limgrave. Sit at the site of grace and wait until nightfall. Get up and sit back down to reload the game.",
+          "mapGenieId": 164059,
+          "timestamp": 27
+        },
+        {
+          "id": "bell-bearing-hunter-warmaster",
+          "title": "Defeat Bell Bearing Hunter – Bone Peddler's Bell Bearing",
+          "tag": [
+            "boss"
+          ],
+          "description": "Bernahl should disappear from the shack. Enter and the Bell Bearing Hunter appears. If Bernahl is still there, speak through his dialogue and buy an Ash of War first. Defeat the Hunter for the Bone Peddler's Bell Bearing.",
+          "mapGenieId": 180831,
+          "timestamp": 27
+        },
+        {
+          "id": "church-of-vows-nightfall",
+          "title": "Wait Until Nightfall at Church of Vows",
+          "tag": [
+            "info"
+          ],
+          "description": "Travel to the Church of Vows. Speak through Miriel's dialogue. Pass time until night, then reload by getting up and resting again.",
+          "mapGenieId": 165501,
+          "timestamp": 68
+        },
+        {
+          "id": "bell-bearing-hunter-vows",
+          "title": "Defeat Bell Bearing Hunter – Meat Peddler's Bell Bearing",
+          "tag": [
+            "boss"
+          ],
+          "description": "Miriel should be gone. The Bell Bearing Hunter appears near the Absolution fountain. Defeat the Hunter for the Meat Peddler's Bell Bearing.",
+          "mapGenieId": 174474,
+          "timestamp": 68
+        }
+      ]
+    },
+    {
+      "id": "phase-2-godfrey-icon",
+      "title": "Godfrey Icon",
+      "steps": [
+        {
+          "id": "golden-lineage-evergaol",
+          "title": "Travel to Golden Lineage Evergaol Near Grand Lift of Dectus",
+          "tag": [
+            "location",
+            "item"
+          ],
+          "description": "From the top platform of the Grand Lift of Dectus, travel south to find a descending path to the Golden Lineage Evergaol. Requires a Stonesword Key to access.",
+          "mapGenieId": 165889,
+          "timestamp": 95
+        },
+        {
+          "id": "godfrey-icon",
+          "title": "Defeat Godfrey the Grafted – Godfrey Icon Talisman",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Godfrey the Grafted inside the evergaol to get the legendary Godfrey Icon Talisman (boosts charged weapon skills and spells).",
+          "mapGenieId": 167645,
+          "timestamp": 95
+        }
+      ]
+    },
+    {
+      "id": "phase-3-corhyn-yura",
+      "title": "Corhyn/Goldmask & Yura Quests",
+      "steps": [
+        {
+          "id": "corhyn-altus-highway",
+          "title": "Speak with Corhyn North of Altus Highway Junction",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Corhyn a short distance north of the Altus Highway Junction. Speak through all of his dialogue.",
+          "mapGenieId": 167661,
+          "timestamp": 130
+        },
+        {
+          "id": "second-church-sacred-tear",
+          "title": "Pick Up Sacred Tear at Second Church of Marika",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Head to the Second Church of Marika and pick up the Sacred Tear.",
+          "mapGenieId": 166524,
+          "timestamp": 140
+        },
+        {
+          "id": "yura-second-church",
+          "title": "Speak with Yura at Second Church of Marika",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Yura laying on the ground at the Second Church. Eliminate the two dogs out front first. Speak with Yura.",
+          "mapGenieId": 168052,
+          "timestamp": 140
+        },
+        {
+          "id": "yura-nagakiba",
+          "title": "Pick Up the Nagakiba from Yura",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Nagakiba that Yura drops.",
+          "mapGenieId": 168075,
+          "timestamp": 155
+        },
+        {
+          "id": "eleanora-invader",
+          "title": "Defeat Violet Bloody Finger Eleanora",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Eleanora invades moments after speaking with Yura. Be aggressive. Defeating her rewards Eleanora's Poleblade and the Purifying Crystal Tear.",
+          "mapGenieId": 168051,
+          "timestamp": 160
+        },
+        {
+          "id": "yura-quest-note",
+          "title": "Last Missable Step in Yura's Questline",
+          "tag": [
+            "info"
+          ],
+          "description": "This is the last missable step in Yura's questline. His story resolves at the Mountaintops of the Giants.",
+          "timestamp": 175
+        }
+      ]
+    },
+    {
+      "id": "phase-4-altus-tunnel-goldmask",
+      "title": "Altus Tunnel & Goldmask Quest",
+      "steps": [
+        {
+          "id": "altus-tunnel",
+          "title": "Altus Tunnel for Somberstone Miner's Bell Bearing [2]",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "Continue north to the Forest-Spanning Greatbridge. Head down the broken bridge to the forest, then southeast to the Altus Tunnel for Smithing Stones [5] and Somberstone Miner's Bell Bearing [2].",
+          "mapGenieId": 164409,
+          "timestamp": 182
+        },
+        {
+          "id": "goldmask-location",
+          "title": "Find and Interact with Goldmask",
+          "tag": [
+            "quest"
+          ],
+          "description": "Use the transporter near the Greatbridge site of grace to cross the forest. Turn south to find Goldmask a short distance away. Interact with him.",
+          "mapGenieId": 168529,
+          "timestamp": 201
+        },
+        {
+          "id": "corhyn-inform-goldmask",
+          "title": "Return to Corhyn – Inform Him of Goldmask's Location",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Corhyn and inform him of Goldmask's whereabouts.",
+          "mapGenieId": 167661,
+          "timestamp": 220
+        },
+        {
+          "id": "corhyn-goldmask-bridge",
+          "title": "Find Corhyn and Goldmask at the Broken Bridge",
+          "tag": [
+            "quest"
+          ],
+          "description": "Corhyn moves to alongside Goldmask by the broken bridge. He now sells stronger incantations including Great Heal.",
+          "mapGenieId": 168530,
+          "timestamp": 228
+        },
+        {
+          "id": "speak-corhyn-goldmask",
+          "title": "Speak with Both Corhyn and Goldmask",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with both Corhyn and Goldmask. We'll continue this questline later in Leyndell.",
+          "timestamp": 230
+        }
+      ]
+    },
+    {
+      "id": "phase-5-black-knife-stormcaller",
+      "title": "Black Knife Dagger & Stormcaller Church",
+      "steps": [
+        {
+          "id": "black-knife-dagger",
+          "title": "Defeat Black Knife Assassin – Black Knife Dagger",
+          "tag": [
+            "boss",
+            "item"
+          ],
+          "description": "Head southeast along the path to the Sainted Hero's Grave. Outside, defeat the Black Knife Assassin for the legendary Black Knife Dagger.",
+          "mapGenieId": 167676,
+          "timestamp": 239
+        },
+        {
+          "id": "stormcaller-church-tear",
+          "title": "Pick Up Sacred Tear at Stormcaller Church",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "A little further south is the Stormcaller Church. Pick up the Sacred Tear.",
+          "mapGenieId": 167659,
+          "timestamp": 255
+        },
+        {
+          "id": "stormcaller-church-incantation",
+          "title": "Pick Up Incantation in Stormcaller Church Chest",
+          "tag": [
+            "item"
+          ],
+          "description": "Find the incantation in a chest hiding in the corner of the church.",
+          "mapGenieId": 167673,
+          "timestamp": 260
+        }
+      ]
+    },
+    {
+      "id": "phase-6-mt-gelmir-anastasia",
+      "title": "Mt. Gelmir – Anastasia & Patches",
+      "steps": [
+        {
+          "id": "bridge-of-iniquity-grace",
+          "title": "Discover Bridge of Iniquity Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head west towards Mt. Gelmir and discover the Bridge of Iniquity site of grace.",
+          "mapGenieId": 165482,
+          "timestamp": 268
+        },
+        {
+          "id": "anastasia-corpse-stench",
+          "title": "Defeat Anastasia Tarnished-Eater – Sacred Butchering Knife",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Continue to the Corpse-Stench Shack. Anastasia invades for the second time. Defeat her for the Sacred Butchering Knife.",
+          "mapGenieId": 166625,
+          "timestamp": 268
+        },
+        {
+          "id": "golden-vow-incantation",
+          "title": "Pick Up Golden Vow Incantation",
+          "tag": [
+            "item"
+          ],
+          "description": "Inside the Corpse-Stench Shack, find Golden Vow — one of the best buff incantations for melee builds.",
+          "mapGenieId": 167805,
+          "timestamp": 286
+        },
+        {
+          "id": "first-mt-gelmir-campsite",
+          "title": "Climb Hidden Ladder to First Mt. Gelmir Campsite",
+          "tag": [
+            "location"
+          ],
+          "description": "Double back towards the Bridge of Iniquity. Spot an easy-to-miss ladder on the cliff wall to the south. Climb up to the First Mt. Gelmir Campsite.",
+          "mapGenieId": 165883,
+          "timestamp": 291
+        },
+        {
+          "id": "patches-rainbow-stones",
+          "title": "Find Patches' Message About Rainbow Stones",
+          "tag": [
+            "quest"
+          ],
+          "description": "West past the siege tower and Pumpkin Head, find a message from Patches: 'Rainbow stones lead the way to riches.'",
+          "timestamp": 304
+        },
+        {
+          "id": "patches-speak-crouching",
+          "title": "Speak with Patches (Crouching Nearby)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Follow the Rainbow Stone trail south but look east — find Patches crouching nearby. Speak with him if you want.",
+          "mapGenieId": 169057,
+          "timestamp": 319
+        },
+        {
+          "id": "patches-kick-cutscene",
+          "title": "Follow Rainbow Stones to Last One – Patches Kicks You",
+          "tag": [
+            "quest"
+          ],
+          "description": "Follow the trail to the last Rainbow Stone. A cutscene triggers where Patches kicks you down near Seethewater Cave.",
+          "timestamp": 331
+        },
+        {
+          "id": "patches-calm-down-gesture",
+          "title": "Return to Patches – 'Calm Down!' Gesture (If Not Already Obtained)",
+          "tag": ["gesture"],
+          "description": "Go back and speak with Patches near the kick-off point to get the 'Calm Down!' gesture if you don't already have it.",
+          "mapGenieId": 169057,
+          "timestamp": 351
+        }
+      ]
+    },
+    {
+      "id": "phase-7-seethewater-alexander",
+      "title": "Seethewater & Alexander in Mt. Gelmir",
+      "steps": [
+        {
+          "id": "seethewater-alternate-route",
+          "title": "Alternative Route: Erdtree Gazing Hill to Seethewater River",
+          "tag": [
+            "tip"
+          ],
+          "description": "A simpler route: from Erdtree Gazing Hill, travel northeast up the rocky path to Wyndham Ruins, then northwest to the Seethewater River site of grace.",
+          "timestamp": 360
+        },
+        {
+          "id": "magma-wyrm-lava-lake",
+          "title": "Defeat Magma Wyrm at Lava Lake",
+          "tag": [
+            "boss"
+          ],
+          "description": "Travel west then south from Seethewater Terminus to arrive at a lake of lava. Defeat the Magma Wyrm.",
+          "mapGenieId": 167377,
+          "timestamp": 404
+        },
+        {
+          "id": "alexander-lava-lake",
+          "title": "Speak with Alexander in the Lava Lake – Jar Helm",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head into the lava lake and stand on a large rock jutting out. Speak with Alexander. He gives you the Jar Helm and hints at his next destination (Mountaintops of the Giants).",
+          "mapGenieId": 167816,
+          "timestamp": 423
+        },
+        {
+          "id": "alexander-full-dialogue-gelmir",
+          "title": "Speak Through All of Alexander's Dialogue",
+          "tag": ["dialogue"],
+          "description": "Make sure to go through all of Alexander's dialogue before moving on.",
+          "mapGenieId": 167816,
+          "timestamp": 433
+        }
+      ]
+    },
+    {
+      "id": "phase-8-hermit-village-azur",
+      "title": "Hermit Village & Comet Azur",
+      "steps": [
+        {
+          "id": "craftmans-shack-grace",
+          "title": "Discover Craftsman's Shack Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue southeast around Mt. Gelmir, past the Hermit's Shack. Discover the Craftsman's Shack site of grace.",
+          "mapGenieId": 166759,
+          "timestamp": 436
+        },
+        {
+          "id": "youre-beautiful-pate",
+          "title": "Pick Up 'You're Beautiful' Prattling Pate",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Travel northeast into the Hermit Village. Find the 'You're Beautiful' Prattling Pate on a corpse. Needed later for Boc's quest.",
+          "mapGenieId": 167215,
+          "timestamp": 447
+        },
+        {
+          "id": "primeval-sorcerer-azur-grace",
+          "title": "Reach Primeval Sorcerer Azur Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head north out of the village, past Demi-Human Queen Maggie, to reach the Primeval Sorcerer Azur site of grace.",
+          "mapGenieId": 166777,
+          "timestamp": 460
+        },
+        {
+          "id": "comet-azur",
+          "title": "Interact with Sorcerer Azur – Comet Azur Legendary Sorcery",
+          "tag": [
+            "item"
+          ],
+          "description": "Find the Primeval Sorcerer nearby (green glintstone). Interact to obtain the Comet Azur legendary sorcery.",
+          "mapGenieId": 167814,
+          "timestamp": 477
+        }
+      ]
+    },
+    {
+      "id": "phase-9-sellen-quest",
+      "title": "Sellen's Questline",
+      "steps": [
+        {
+          "id": "sellen-show-comet-azur",
+          "title": "Show Sellen the Comet Azur Sorcery",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Sorceress Sellen at Waypoint Ruins. A new dialogue option lets you show her the sorcery.",
+          "mapGenieId": 164616,
+          "timestamp": 485
+        },
+        {
+          "id": "sellen-journey-together",
+          "title": "Choose 'Let Us Journey Together'",
+          "tag": ["quest"],
+          "description": "Go through the 'Tell me your story' dialogue and choose 'Let us journey together' in response.",
+          "mapGenieId": 164616,
+          "timestamp": 493
+        },
+        {
+          "id": "sellen-seek-lusat",
+          "title": "Accept Task to Seek Out Lusat – Receive Sellian Sealbreaker",
+          "tag": ["quest"],
+          "description": "A new dialogue option appears where Sellen tasks you with seeking out Primeval Sorcerer Lusat. She gives you the Sellian Sealbreaker.",
+          "mapGenieId": 164616,
+          "timestamp": 505
+        },
+        {
+          "id": "sellia-hideaway-entrance",
+          "title": "Find Sellia Hideaway Entrance",
+          "tag": [
+            "location"
+          ],
+          "description": "Start at the Church of the Plague in Caelid. Travel north to a large tombstone with a sorcerer. Behind him is a false boulder in the mountainside — strike it to reveal the entrance to Sellia Hideaway.",
+          "mapGenieId": 167197,
+          "timestamp": 512
+        },
+        {
+          "id": "sellia-hideaway-navigate",
+          "title": "Navigate Through Sellia Hideaway to Lusat",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Make your way through false walls, then drop down to the pit using a giant crystal. At the bottom, defeat the sorcerer guarding the magic seal.",
+          "mapGenieId": 169049,
+          "timestamp": 539
+        },
+        {
+          "id": "lusat-sealbreaker",
+          "title": "Use Sellian Sealbreaker to Reach Lusat",
+          "tag": [
+            "quest"
+          ],
+          "description": "Use the Sealbreaker to dispel the barrier.",
+          "timestamp": 580
+        },
+        {
+          "id": "lusat-stars-of-ruin",
+          "title": "Meet Lusat – Stars of Ruin Legendary Sorcery",
+          "tag": [
+            "item"
+          ],
+          "description": "Inside, meet Primeval Sorcerer Lusat and acquire the Stars of Ruin legendary sorcery.",
+          "timestamp": 598
+        },
+        {
+          "id": "sellia-hideaway-exit",
+          "title": "Exit Sellia Hideaway",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Head south, hop over a crystal ledge, ascend the small tunnel to the right quickly (avoid the revenant), then retrace steps to the exit.",
+          "timestamp": 609
+        },
+        {
+          "id": "sellen-about-request",
+          "title": "Tell Sellen About Lusat – She Reveals Witchbane Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Sellen at Waypoint Ruins. Choose 'About the Request' — she reveals her real body is trapped in Witchbane Ruins.",
+          "mapGenieId": 164616,
+          "timestamp": 636
+        },
+        {
+          "id": "sellen-agree-request",
+          "title": "Agree to Sellen's Request",
+          "tag": ["quest"],
+          "description": "Agree to Sellen's request to retrieve her Primal Glintstone.",
+          "mapGenieId": 164616,
+          "timestamp": 648
+        },
+        {
+          "id": "sellen-lusat-location-dialogue",
+          "title": "Choose 'Lusat's Location' Dialogue Option",
+          "tag": ["dialogue"],
+          "description": "Speak with Sellen again and choose 'Lusat's Location'. Go through all dialogue.",
+          "mapGenieId": 164616,
+          "timestamp": 652
+        },
+        {
+          "id": "sellen-witchbane-glintstone",
+          "title": "Retrieve Sellen's Primal Glintstone at Witchbane Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Fast travel to the Fourth Church of Marika. Head into Witchbane Ruins. Sellen's true body should recognize you (if not, go back and ensure she gave you the task). Retrieve the Primal Glintstone and speak through all dialogue.",
+          "mapGenieId": 170410,
+          "timestamp": 657
+        },
+        {
+          "id": "sellen-witchbane-reload",
+          "title": "Reload the Game at Witchbane Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game after retrieving the Primal Glintstone.",
+          "timestamp": 677
+        },
+        {
+          "id": "jerren-witchbane",
+          "title": "Speak with Jerren at Witchbane Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Jerren appears nearby. Speak through all of his dialogue.",
+          "mapGenieId": 169155,
+          "timestamp": 689
+        },
+        {
+          "id": "sellen-new-body-transfer",
+          "title": "Transfer Sellen's Glintstone to Her New Body",
+          "tag": [
+            "quest"
+          ],
+          "description": "Fast travel to Ranni's Rise. Go to Seluvis's hidden puppet chamber (false floor in ruins northeast). Head to the extra secret chamber on the south side. Transfer the Primal Glintstone to Sellen's new body.",
+          "mapGenieId": 170411,
+          "timestamp": 697
+        },
+        {
+          "id": "sellen-new-body-dialogue",
+          "title": "Speak Through All of Sellen's Dialogue at New Body",
+          "tag": ["dialogue"],
+          "description": "Speak through all of Sellen's dialogue at her new body location.",
+          "mapGenieId": 170411,
+          "timestamp": 705
+        }
+      ]
+    },
+    {
+      "id": "phase-10-sellen-choice",
+      "title": "Sellen vs. Jerren – Major Choice",
+      "steps": [
+        {
+          "id": "sellen-jerren-choice-info",
+          "title": "Read About Sellen vs. Jerren Before Choosing",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Fast travel to Raya Lucaria Grand Library. Outside are two summoning signs. Read the following steps for rewards and consequences before picking.",
+          "mapGenieId": 164426,
+          "timestamp": 712
+        },
+        {
+          "id": "choice-sellen",
+          "title": "Choice: Side with Sellen (Gold Sign)",
+          "tag": [
+            "info"
+          ],
+          "description": "Siding with Sellen: get Azur's and Lusat's armor sets, Glintstone Kris, Shard Spiral Sorcery, Jerren's Armor Set, and Witch's Glintstone Crown. Downside: Sellen's ultimate fate may be worse than death; Jerren dies.",
+          "mapGenieId": 170412,
+          "timestamp": 726
+        },
+        {
+          "id": "choice-jerren",
+          "title": "Choice: Side with Jerren (Red Sign)",
+          "tag": [
+            "info"
+          ],
+          "description": "Siding with Jerren: get Ancient Dragon Smithing Stone and Witch's Glintstone Crown. You will NOT get Azur/Lusat armor sets, Glintstone Kris, or Shard Spiral Sorcery. Sellen dies.",
+          "mapGenieId": 170413,
+          "timestamp": 757
+        },
+        {
+          "id": "pick-summoning-sign",
+          "title": "Pick Your Summoning Sign and Defeat Opponent",
+          "tag": [
+            "quest"
+          ],
+          "description": "Pick the corresponding summoning sign and defeat your opponent. If you pick the wrong one, let your character die and pick the correct one.",
+          "timestamp": 820
+        }
+      ]
+    },
+    {
+      "id": "phase-11-sellen-jerren-finish",
+      "title": "Finishing Sellen/Jerren Questline",
+      "steps": [
+        {
+          "id": "jerren-ending",
+          "title": "If Sided with Jerren: Speak with Him for Ancient Dragon Smithing Stone",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Go back to where the summoning signs were. Speak with Jerren to receive the Ancient Dragon Smithing Stone. Go through all dialogue.",
+          "mapGenieId": 170417,
+          "timestamp": 831
+        },
+        {
+          "id": "sellen-ending-speak",
+          "title": "If Sided with Sellen: Speak with Her in Place of Rennala",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Sellen in place of Rennala inside the Grand Library. Speak through all dialogue.",
+          "mapGenieId": 170414,
+          "timestamp": 848
+        },
+        {
+          "id": "sellen-ending-reload",
+          "title": "Reload – Sellen Moves to Corner, Rennala Returns",
+          "tag": ["quest"],
+          "description": "Reload the game. Rennala returns and Sellen moves to a corner of the room in a new, rounder form.",
+          "mapGenieId": 170414,
+          "timestamp": 852
+        },
+        {
+          "id": "sellen-witchs-crown",
+          "title": "Pick Up Witch's Glintstone Crown",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Witch's Glintstone Crown near Sellen.",
+          "mapGenieId": 168991,
+          "timestamp": 862
+        },
+        {
+          "id": "lusat-armor-set",
+          "title": "Collect Lusat's Armor Set (If Sided with Sellen)",
+          "tag": [
+            "item"
+          ],
+          "description": "Return to the respective locations of both Azur and Lusat to collect their Glintstone Armor Sets.",
+          "mapGenieId": 170234,
+          "timestamp": 869
+        },
+        {
+          "id": "azur-lusat-armor-sets",
+          "title": "Collect Azur's Armor Set (If Sided with Sellen)",
+          "tag": ["item"],
+          "description": "Return to the respective locations of both Azur and Lusat to collect their Glintstone Armor Sets.",
+          "mapGenieId": 168986,
+          "timestamp": 869
+        }  
+      ]
+    },
+    {
+      "id": "phase-12-boc-quest-finish",
+      "title": "Completing Boc's Quest",
+      "steps": [
+        {
+          "id": "boc-warning-larval-tear",
+          "title": "Do NOT Give Boc a Larval Tear",
+          "tag": [
+            "warning"
+          ],
+          "description": "Do NOT give Boc a Larval Tear. It ends his quest tragically.",
+          "timestamp": 874
+        },
+        {
+          "id": "buy-radahn-lion-armor",
+          "title": "Buy Radahn's Lion Armor from Finger Reader Enia",
+          "tag": [
+            "item"
+          ],
+          "description": "Travel to Roundtable Hold. Purchase Radahn's Lion Armor from Finger Reader Enia for 12,000 runes.",
+          "mapGenieId": 170553,
+          "timestamp": 880
+        },
+        {
+          "id": "boc-give-gold-needle",
+          "title": "Give Boc the Gold Sewing Needle",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go to the East Capital Ramparts in Leyndell. Speak with Boc. Pick 'I'm sorry…' then 'Give the Gold Sewing Needle'.",
+          "mapGenieId": 168658,
+          "timestamp": 886
+        },
+        {
+          "id": "boc-favor-my-lord",
+          "title": "Choose 'I Have a Favor to Ask' – 'My Lord' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Pick the 'I have a favor to ask' dialogue option. Agree to let Boc call you Lord. This unlocks the 'My Lord' gesture.",
+          "mapGenieId": 168659,
+          "timestamp": 901
+        },
+        {
+          "id": "boc-misgivings",
+          "title": "Choose 'Surely She'd Be Happy for You?'",
+          "tag": ["dialogue"],
+          "description": "Pick the 'Surely she'd be happy for you?' option to learn about Boc's misgivings.",
+          "mapGenieId": 168658,
+          "timestamp": 912
+        },
+        {
+          "id": "boc-avoid-dangerous-option",
+          "title": "Do NOT Choose 'Have You Ever Thought So?'",
+          "tag": [
+            "important-choice",
+            "warning"
+          ],
+          "description": "The 'Have you ever thought so?' option leads to giving Boc a Larval Tear. Avoid this.",
+          "timestamp": 920
+        },
+        {
+          "id": "boc-use-prattling-pate",
+          "title": "Use 'You're Beautiful' Prattling Pate from Inventory",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go to your inventory and use the 'You're Beautiful' Prattling Pate.",
+          "timestamp": 934
+        },
+        {
+          "id": "boc-heard-a-voice",
+          "title": "Speak with Boc – Choose 'I Heard a Voice' then 'That's Right'",
+          "tag": ["quest-end"],
+          "description": "Speak with Boc again. Pick the new 'I heard a voice' dialogue option, then respond with 'That's right'. This is the best ending for Boc's questline.",
+          "mapGenieId": 168658,
+          "timestamp": 939
+        }
+      ]
+    },
+    {
+      "id": "phase-13-ranni-ainsel-river",
+      "title": "Ranni's Quest – Ainsel River",
+      "steps": [
+        {
+          "id": "ranni-rise-new-grace",
+          "title": "Discover New Site of Grace at Ranni's Rise",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to Ranni's Rise. A new site of grace is in Ranni's chamber.",
+          "mapGenieId": 168421,
+          "timestamp": 968
+        },
+        {
+          "id": "renna-rise-snow-witch",
+          "title": "Pick Up Snow Witch Armor Set at Renna's Rise",
+          "tag": [
+            "item"
+          ],
+          "description": "The seal at Renna's Rise (northeast) is now open. Climb the first ladder, turn around, and open the chest for Ranni's Snow Witch armor set.",
+          "mapGenieId": 168241,
+          "timestamp": 968
+        },
+        {
+          "id": "renna-transporter-ainsel",
+          "title": "Take Transporter to Ainsel River",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue up Renna's Rise and take the transporter to Ainsel River.",
+          "mapGenieId": 168241,
+          "timestamp": 982
+        },
+        {
+          "id": "miniature-ranni-pickup",
+          "title": "Pick Up Miniature Ranni Doll",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Upon arrival, find the Miniature Ranni Doll near a coffin. Pick it up.",
+          "mapGenieId": 169052,
+          "timestamp": 986
+        },
+        {
+          "id": "ainsel-river-main-grace",
+          "title": "Rest at Ainsel River Main Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Sit at the Ainsel River Main site of grace.",
+          "mapGenieId": 167480,
+          "timestamp": 996
+        },
+        {
+          "id": "talk-miniature-ranni-3-times",
+          "title": "Talk to Miniature Ranni 3 Times – Baleful Shadow Task",
+          "tag": [
+            "quest"
+          ],
+          "description": "Select the 'Talk to miniature Ranni' option 3 times in a row. On the third attempt she responds and tasks you with defeating the Baleful Shadows.",
+          "timestamp": 996
+        }
+      ]
+    },
+    {
+      "id": "phase-14-ainsel-river-map",
+      "title": "Ainsel River Map & Exploration",
+      "steps": [
+        {
+          "id": "ainsel-gloveworts-6-7",
+          "title": "Collect Ghost Gloveworts [6] and [7]",
+          "tag": [
+            "item"
+          ],
+          "description": "Head south beneath the Malformed Star enemy. Pick up Ghost Gloveworts [6] and [7] along the way.",
+          "mapGenieId": 168687,
+          "timestamp": 1010
+        },
+        {
+          "id": "wing-of-astel",
+          "title": "Pick Up Wing of Astel",
+          "tag": [
+            "item"
+          ],
+          "description": "In the cavern along the way, open a chest containing the Wing of Astel weapon.",
+          "mapGenieId": 168690,
+          "timestamp": 1060
+        },
+        {
+          "id": "ainsel-river-map",
+          "title": "Pick Up Ainsel River Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Make your way to the bottom of the ruins and find the map near a Hermit Merchant.",
+          "mapGenieId": 167621,
+          "timestamp": 1104
+        },
+        {
+          "id": "ainsel-downstream-grace",
+          "title": "Discover Ainsel River Downstream Site of Grace",
+          "tag": [
+            "location",
+            "optional"
+          ],
+          "description": "Optionally head further south to discover the Ainsel River Downstream site of grace.",
+          "mapGenieId": 167477,
+          "timestamp": 1116
+        }
+      ]
+    },
+    {
+      "id": "phase-15-nokstella",
+      "title": "Nokstella, Eternal City",
+      "steps": [
+        {
+          "id": "nokstella-grace",
+          "title": "Reach Nokstella, Eternal City Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to Ainsel River Main. Head southwest through Uhl Palace Ruins to reach the Nokstella site of grace.",
+          "mapGenieId": 167481,
+          "timestamp": 1121
+        },
+        {
+          "id": "miniature-ranni-nokstella",
+          "title": "Speak with Miniature Ranni at Nokstella",
+          "tag": ["dialogue"],
+          "description": "Speak with Miniature Ranni at this location for more dialogue.",
+          "mapGenieId": 167481,
+          "timestamp": 1130
+        },
+        {
+          "id": "ghost-glovewort-bell-bearing-2",
+          "title": "Pick Up Ghost Glovewort Picker's Bell Bearing [2]",
+          "tag": [
+            "item"
+          ],
+          "description": "Head up into the citadel. At the top of the first staircase, find the room to the left of the Silver Tears. Get the Ghost Glovewort Picker's Bell Bearing [2].",
+          "mapGenieId": 168550,
+          "timestamp": 1135
+        },
+        {
+          "id": "nightmaiden-swordstress-puppets",
+          "title": "Pick Up Nightmaiden & Swordstress Puppets (Stonesword Key)",
+          "tag": [
+            "item"
+          ],
+          "description": "Down the hall and left past the Silver Tears, find a fog wall requiring a Stonesword Key. Behind it are the Nightmaiden & Swordstress Puppets.",
+          "mapGenieId": 168235,
+          "timestamp": 1168
+        },
+        {
+          "id": "great-ghost-glovewort-nokstella",
+          "title": "Pick Up Great Ghost Glovewort (Trapped Room)",
+          "tag": [
+            "item"
+          ],
+          "description": "After crossing the first large bridge, enter a large room with a chest containing a Great Ghost Glovewort. You'll be trapped with a giant metal sphere enemy — defeat it to leave.",
+          "mapGenieId": 171027,
+          "timestamp": 1201
+        },
+        {
+          "id": "somber-smithing-stone-7",
+          "title": "Pick Up Somber Smithing Stone [7]",
+          "tag": [
+            "item"
+          ],
+          "description": "In the next building, open a chest containing a Somber Smithing Stone [7].",
+          "mapGenieId": 171024,
+          "timestamp": 1258
+        },
+        {
+          "id": "moon-of-nokstella",
+          "title": "Defeat Enemies and Get Moon of Nokstella",
+          "tag": [
+            "item"
+          ],
+          "description": "Cross the last bridge. Defeat two Silver Tears and a Nightmaiden. Open the chest for the Moon of Nokstella (increases memory slots by 2).",
+          "mapGenieId": 168606,
+          "timestamp": 1273
+        },
+        {
+          "id": "nokstella-golden-seed",
+          "title": "Pick Up Golden Seed via Side Door Lift",
+          "tag": [
+            "item"
+          ],
+          "description": "Find the side door leading to a lift. Take it to a lower level and grab a Golden Seed.",
+          "mapGenieId": 168548,
+          "timestamp": 1304
+        }
+      ]
+    },
+    {
+      "id": "phase-16-nokstella-river-gloveworts",
+      "title": "Nokstella River & Ghost Gloveworts",
+      "steps": [
+        {
+          "id": "nokstella-river-gloveworts-7-8",
+          "title": "Collect Ghost Gloveworts [7] and [8] Through the River",
+          "tag": [
+            "item"
+          ],
+          "description": "Travel back to the Nokstella, Eternal City site of grace and head west through the river. Collect Ghost Gloveworts [7] and [8] along the way.",
+          "mapGenieId": 167481,
+          "timestamp": 1312
+        },
+        {
+          "id": "nokstella-waterfall-basin",
+          "title": "Reach Nokstella Waterfall Basin Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Find the lift and take it down to the Nokstella, Waterfall Basin site of grace.",
+          "mapGenieId": 167482,
+          "timestamp": 1335
+        },
+        {
+          "id": "ghost-glovewort-9",
+          "title": "Pick Up Ghost Glovewort [9]",
+          "tag": [
+            "item"
+          ],
+          "description": "A short distance northeast of the basin is a Ghost Glovewort [9]. You should now have everything to level a spirit summon to +10.",
+          "mapGenieId": 170688,
+          "timestamp": 1335
+        },
+        {
+          "id": "spirit-summon-upgrade-tip",
+          "title": "Consider Waiting for Black Knife Tiche Before Upgrading",
+          "tag": [
+            "tip"
+          ],
+          "description": "You may want to hold off on upgrades until getting the Black Knife Tiche Ashes near the end of Ranni's quest.",
+          "timestamp": 1348
+        }
+      ]
+    },
+    {
+      "id": "phase-17-baleful-shadow",
+      "title": "Baleful Shadow & Discarded Palace Key",
+      "steps": [
+        {
+          "id": "miniature-ranni-basin",
+          "title": "Speak with Miniature Ranni Until She Repeats",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "At the Basin site of grace, speak with Miniature Ranni until she starts repeating herself.",
+          "mapGenieId": 167482,
+          "timestamp": 1355
+        },
+        {
+          "id": "baleful-shadow",
+          "title": "Defeat the Baleful Shadow",
+          "tag": [
+            "boss"
+          ],
+          "description": "Move through the tunnel to the south. In the next chamber, face the Baleful Shadow (resembles Blaidd). Tip: Stamp, Upward Cut skill works well.",
+          "mapGenieId": 168546,
+          "timestamp": 1361
+        },
+        {
+          "id": "discarded-palace-key",
+          "title": "Receive Discarded Palace Key from Ranni",
+          "tag": [
+            "key-item"
+          ],
+          "description": "After defeating the Baleful Shadow, Ranni bids farewell and gives you the Discarded Palace Key.",
+          "mapGenieId": 176421,
+          "timestamp": 1371
+        },
+        {
+          "id": "lake-of-rot-grace",
+          "title": "Discover Lake of Rot Shoreside Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Take the lift down to the south. Discover the Lake of Rot Shoreside site of grace.",
+          "mapGenieId": 192644,
+          "timestamp": 1377
+        },
+        {
+          "id": "dark-moon-ring",
+          "title": "Use Discarded Palace Key – Get Dark Moon Ring",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Fast travel to Raya Lucaria Grand Library. Use the Discarded Palace Key to open the chest and get the Dark Moon Ring.",
+          "mapGenieId": 164426,
+          "timestamp": 1384
+        }
+      ]
+    },
+    {
+      "id": "phase-18-lake-of-rot",
+      "title": "Lake of Rot & Astel Boss",
+      "steps": [
+        {
+          "id": "lake-of-rot-flame-cleanse",
+          "title": "Use 'Flame, Cleanse Me' for Lake of Rot",
+          "tag": [
+            "tip"
+          ],
+          "description": "Use the Flame, Cleanse Me incantation (from Part 3) to manage Scarlet Rot. Step on pressure plates to raise platforms.",
+          "timestamp": 1395
+        },
+        {
+          "id": "grand-cloister-grace",
+          "title": "Cross Lake of Rot to Grand Cloister Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way across the Lake of Rot to the Grand Cloister site of grace.",
+          "mapGenieId": 167484,
+          "timestamp": 1395
+        },
+        {
+          "id": "grand-cloister-coffin",
+          "title": "Platform Down to Coffin in Channel of Rot",
+          "tag": [
+            "location"
+          ],
+          "description": "From the Grand Cloister, platform down to the channel of rot below. Head to its end and use the coffin to travel to a remote location.",
+         "mapGenieId": 168579,
+          "timestamp": 1484
+        },
+        {
+          "id": "astel-boss",
+          "title": "Defeat Astel, Naturalborn of the Void",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Astel, Naturalborn of the Void. Drops the Remembrance of the Naturalborn (tradeable for a Flail or Waves of Darkness Ash of War).",
+          "mapGenieId": 167488,
+          "timestamp": 1520
+        },
+        {
+          "id": "astel-post-grace",
+          "title": "Activate Post-Astel Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Activate the new site of grace after defeating Astel.",
+          "mapGenieId": 167479,
+          "timestamp": 1547
+        },
+        {
+          "id": "moonlight-altar-lift",
+          "title": "Pass the Seal (Dark Moon Ring) and Take Lift to Moonlight Altar",
+          "tag": [
+            "location"
+          ],
+          "description": "Head north in the boss chamber. The seal is gone because you have the Dark Moon Ring. Take the lift to Moonlight Altar.",
+          "mapGenieId": 168601,
+          "timestamp": 1552
+        }
+      ]
+    },
+    {
+      "id": "phase-19-moonlight-altar-ranni",
+      "title": "Moonlight Altar – Ranni's Ending & Legendary Items",
+      "steps": [
+        {
+          "id": "glintstone-dragon-adula",
+          "title": "Defeat Glintstone Dragon Adula – Adula's Moonblade",
+          "tag": [
+            "boss",
+            "optional"
+          ],
+          "description": "Travel northeast towards the Cathedral of Manus Celes. Adula attacks as you approach. Defeat for Adula's Moonblade Sorcery (optional).",
+          "mapGenieId": 167576,
+          "timestamp": 1560
+        },
+        {
+          "id": "cathedral-manus-celes-grace",
+          "title": "Discover Cathedral of Manus Celes Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Reach the Cathedral of Manus Celes and discover the site of grace.",
+          "mapGenieId": 166789,
+          "timestamp": 1584
+        },
+        {
+          "id": "ranni-age-of-stars",
+          "title": "Find Ranni – Unlock Age of the Stars Ending",
+          "tag": [
+            "quest"
+          ],
+          "description": "Make your way down the tunnel to the south. Find Ranni and speak to her. This unlocks the Age of the Stars ending (it's just an option, not forced).",
+          "timestamp": 1584
+        },
+        {
+          "id": "dark-moon-greatsword",
+          "title": "Pick Up Dark Moon Greatsword (Legendary Armament)",
+          "tag": [
+            "legendary-armament"
+          ],
+          "description": "After speaking with Ranni, pick up the Dark Moon Greatsword nearby.",
+          "mapGenieId": 167891,
+          "timestamp": 1601
+        },
+        {
+          "id": "black-knife-alecto",
+          "title": "Defeat Black Knife Alecto – Black Knife Tiche Ashes",
+          "tag": [
+            "boss",
+            "item"
+          ],
+          "description": "Head to the Ringleader's Evergaol to the northeast. Defeat Black Knife Alecto (very tough). Drops the legendary Black Knife Tiche spirit ashes — one of the best summons.",
+          "mapGenieId": 171212,
+          "timestamp": 1611
+        },
+        {
+          "id": "chelona-rise-turtle-1",
+          "title": "Ranni's Dark Moon Puzzle: Hit First Turtle (Near Tower Cliff Edge)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head to the southwest tower (Chelona's Rise). To open the seal, hit 3 giant turtles without fast traveling, dying, or reloading. First turtle clings to the cliff near the tower edge.",
+          "mapGenieId": 170236,
+          "timestamp": 1641
+        },
+        {
+          "id": "chelona-rise-turtle-2",
+          "title": "Hit Second Turtle (South of Lunar Estate Ruins)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Follow the trail of tortoises to the southern cliff, directly south of Lunar Estate Ruins. Drop down to find the second turtle.",
+          "mapGenieId": 170217,
+          "timestamp": 1667
+        },
+        {
+          "id": "chelona-rise-turtle-3",
+          "title": "Hit Third Turtle (Floating in Air, West Past Moonfolk Ruins)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head west past Moonfolk Ruins. The final turtle floats in the air, held by a spiritspring. Shoot it with a crossbow or leap up via the spring.",
+          "mapGenieId": 170235,
+          "timestamp": 1697
+        },
+        {
+          "id": "rannis-dark-moon",
+          "title": "Ascend Tower – Ranni's Dark Moon Legendary Sorcery",
+          "tag": [
+            "item"
+          ],
+          "description": "Return to Chelona's Rise and ascend to claim Ranni's Dark Moon legendary sorcery.",
+          "mapGenieId": 168058,
+          "timestamp": 1726
+        }
+      ]
+    },
+    {
+      "id": "phase-20-ranni-loose-ends",
+      "title": "Ranni's Quest – Final Loose Ends",
+      "steps": [
+        {
+          "id": "blaidd-hostile",
+          "title": "Defeat Hostile Blaidd at Ranni's Rise – Blaidd's Armor Set",
+          "tag": [
+            "boss"
+          ],
+          "description": "Return to Ranni's Rise and exit the main entrance. Find a hostile Blaidd. Defeat him for Blaidd's Armor Set and the Royal Greatsword.",
+          "mapGenieId": 168984,
+          "timestamp": 1726
+        },
+        {
+          "id": "wolf-mask",
+          "title": "Pick Up Wolf Mask at Seluvis's Rise",
+          "tag": [
+            "item"
+          ],
+          "description": "If you don't have the Wolf Mask, head to Seluvis's Rise and scale the broken stone wall on the exterior. It's near a high point.",
+          "mapGenieId": 167581,
+          "timestamp": 1747
+        },
+        {
+          "id": "iji-blaidd-death-dialogue",
+          "title": "Tell Iji About Blaidd's Death",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head to Iji's location south of Caria Manor. Go through all dialogue. The Carian Filigreed Crest Talisman becomes purchasable even without completing Blaidd's quest.",
+          "mapGenieId": 165592,
+          "timestamp": 1761
+        },
+        {
+          "id": "iji-death",
+          "title": "Reload – Iji Dies, Loot Bell Bearing & Mirrorhelm",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "After telling Iji about Blaidd, reload the area. Iji is dead. Loot his Bell Bearing and Iji's Mirrorhelm.",
+          "mapGenieId": 170966,
+          "timestamp": 1773
+        },
+        {
+          "id": "miniature-ranni-final-dialogue",
+          "title": "Final Dialogue with Miniature Ranni at Ranni's Chamber",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Sit at the Ranni's Chamber site of grace. Share some final dialogue with Miniature Ranni. Ranni's questline is now complete.",
+          "mapGenieId": 168421,
+          "timestamp": 1783
+        }
+      ]
+    },
+    {
+      "id": "phase-21-warnings",
+      "title": "Before Part 5 – Important Warnings",
+      "steps": [
+        {
+          "id": "avoid-great-rune-bosses",
+          "title": "Avoid Defeating Great Rune Bosses, Especially Rykard",
+          "tag": [
+            "warning"
+          ],
+          "description": "Do NOT defeat any bosses that hold Great Runes, especially Rykard. Do NOT venture into Volcano Manor yet.",
+          "timestamp": 1807
+        }
+      ]
+    }
+  ]
+}

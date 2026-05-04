@@ -1,0 +1,360 @@
+{
+  "id": "post-game-and-ng-plus-prep",
+  "area": "Post-Game Cleanup & New Game+ Preparation",
+  "description": "Complete walkthrough covering remaining achievement/trophy bosses (Ancestor Spirits, Valiant Gargoyles, Dragonkin Soldier), all remaining Great Ghost Gloveworts, Great Grave Gloveworts, Glovewort Picker's Bell Bearings, rune farming for NG+ preparation, and important info about Walking Mausoleums and single-pickup items.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=Vgs_jPvAvdk&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=9&t=",
+  "phases": [
+    {
+      "id": "phase-1-ancestor-spirit",
+      "title": "Siofra River – Ancestor Spirit",
+      "steps": [
+        {
+          "id": "siofra-8-altars",
+          "title": "Light 8 Altars Throughout Lower Siofra River",
+          "tag": ["quest"],
+          "description": "Start at the Siofra River Bank grace. Travel throughout the lower area of Siofra River, lighting the fires at 8 different altars along the way.",
+          "mapGenieId": null,
+          "timestamp": 38
+        },
+        {
+          "id": "hallowhorn-grounds-southeast",
+          "title": "Interact with Glowing Deer Carcass at Hallowhorn Grounds (Southeast)",
+          "tag": ["location"],
+          "description": "After lighting all 8, head to the Hallowhorn Grounds at the southeast corner of Siofra River. Find and interact with the glowing deer carcass.",
+          "mapGenieId": null,
+          "timestamp": 232
+        },
+        {
+          "id": "ancestor-spirit-boss",
+          "title": "Defeat Ancestor Spirit – Ancestral Follower Ashes",
+          "tag": ["boss"],
+          "description": "Defeat the Ancestor Spirit (fairly trivial). Drops the Ancestral Follower Ashes. Unlocks achievement/trophy.",
+          "mapGenieId": null,
+          "timestamp": 249
+        }
+      ]
+    },
+    {
+      "id": "phase-2-regal-ancestor-spirit",
+      "title": "Siofra River – Regal Ancestor Spirit",
+      "steps": [
+        {
+          "id": "siofra-6-altars-upper",
+          "title": "Light 6 Altars Throughout Upper Siofra River",
+          "tag": ["quest"],
+          "description": "Start from the Ancestral Woods. Run around the upper area of Siofra River, lighting the fires at 6 new altars.",
+          "mapGenieId": null,
+          "timestamp": 265
+        },
+        {
+          "id": "hallowhorn-grounds-northeast",
+          "title": "Interact with Glowing Deer at Hallowhorn Grounds (Northeast of Ancestral Woods)",
+          "tag": ["location"],
+          "description": "After lighting all 6, head to the different Hallowhorn Grounds northeast of the Ancestral Woods grace. Interact with the glowing deer.",
+          "mapGenieId": null,
+          "timestamp": 399
+        },
+        {
+          "id": "regal-ancestor-spirit-boss",
+          "title": "Defeat Regal Ancestor Spirit – Remembrance of the Regal Ancestor",
+          "tag": ["boss"],
+          "description": "Defeat the Regal Ancestor Spirit (a bit harder but still easy at this level). Drops the Remembrance of the Regal Ancestor. Unlocks achievement/trophy.",
+          "mapGenieId": null,
+          "timestamp": 407
+        }
+      ]
+    },
+    {
+      "id": "phase-3-valiant-gargoyles",
+      "title": "Siofra Aqueduct – Valiant Gargoyle Duo",
+      "steps": [
+        {
+          "id": "valiant-gargoyles",
+          "title": "Defeat Valiant Gargoyle Duo",
+          "tag": ["boss"],
+          "description": "If not already done, return to the Siofra Aqueduct (near where D's Twin Brother was). Defeat the duo for Gargoyle's Greatsword and Gargoyle's Twinblade. Unlocks achievement/trophy.",
+          "mapGenieId": null,
+          "timestamp": 421
+        }
+      ]
+    },
+    {
+      "id": "phase-4-dragonkin-soldier",
+      "title": "Ainsel River – Dragonkin Soldier of Nokstella",
+      "steps": [
+        {
+          "id": "dragonkin-soldier",
+          "title": "Defeat Dragonkin Soldier of Nokstella – Frozen Lightning Spear",
+          "tag": ["boss"],
+          "description": "Travel southwest along Ainsel River to the Downstream grace. Curve around the river and head north to a secluded area near Nokstella. Defeat the Dragonkin Soldier for the Frozen Lightning Spear incantation. Unlocks achievement/trophy.",
+          "mapGenieId": null,
+          "timestamp": 463
+        },
+        {
+          "id": "great-ghost-glovewort-nokstella-chest",
+          "title": "Pick Up Great Ghost Glovewort (Chest Nearby)",
+          "tag": ["item"],
+          "description": "Find a chest located nearby containing a Great Ghost Glovewort.",
+          "mapGenieId": null,
+          "timestamp": 496
+        }
+      ]
+    },
+    {
+      "id": "phase-5-great-ghost-glovewort",
+      "title": "Mohgwyn Palace – Final Great Ghost Glovewort",
+      "steps": [
+        {
+          "id": "great-ghost-glovewort-mohgwyn",
+          "title": "Pick Up Great Ghost Glovewort (Dynasty Mausoleum Midpoint)",
+          "tag": ["item"],
+          "description": "Start from the Dynasty Mausoleum Midpoint. Backtrack into the preceding cavern. Immediately south, find a pit of undead. Move past them quickly to grab the Great Ghost Glovewort from its stalk.",
+          "mapGenieId": null,
+          "timestamp": 514
+        }
+      ]
+    },
+    {
+      "id": "phase-6-giant-conquering-heros-grave",
+      "title": "Mountaintops – Giant-Conquering Hero's Grave",
+      "steps": [
+        {
+          "id": "giant-conquering-enter",
+          "title": "Enter Giant-Conquering Hero's Grave",
+          "tag": ["dungeon"],
+          "description": "Travel southwest from the Giants' Gravepost grace to find the dungeon entrance.",
+          "mapGenieId": null,
+          "timestamp": 561
+        },
+        {
+          "id": "giant-conquering-false-wall",
+          "title": "Roll into False Wall to Reveal Hidden Hallway",
+          "tag": ["dungeon"],
+          "description": "Head down the initial staircase. Turn and roll into a false wall to the west to reveal a hidden hallway.",
+          "mapGenieId": null,
+          "timestamp": 573
+        },
+        {
+          "id": "giant-conquering-flamethrower",
+          "title": "Disable Flamethrower Trap with Crossbow",
+          "tag": ["dungeon"],
+          "description": "Leap through a window near the end, travel south. Use a crossbow to disable the flamethrower trap to the west. Sprint past the hiding Flame Monk.",
+          "mapGenieId": null,
+          "timestamp": 591
+        },
+        {
+          "id": "giant-conquering-lift-trick",
+          "title": "Use Lift Trick to Access Lower Area",
+          "tag": ["dungeon"],
+          "description": "Take the lift down. Trigger it to rise back up. A new compartment ascends from below. Pull the nearby lever, then ride the compartment down to a lower area.",
+          "mapGenieId": null,
+          "timestamp": 612
+        },
+        {
+          "id": "great-grave-glovewort-giant",
+          "title": "Pick Up Great Grave Glovewort and Giant's Seal",
+          "tag": ["item"],
+          "description": "Avoid the two watchdogs. Head down the east hall and climb the ladder. Find a Fire Prelate guarding a Great Grave Glovewort and the Giant's Seal.",
+          "mapGenieId": null,
+          "timestamp": 650
+        },
+        {
+          "id": "giant-conquering-escape",
+          "title": "Escape Back to the Lift Room",
+          "tag": ["dungeon"],
+          "description": "Return to the basement chamber, head down the west hall, climb another ladder to return to the room with the large wooden gate.",
+          "mapGenieId": null,
+          "timestamp": 675
+        },
+        {
+          "id": "giant-conquering-boss-setup",
+          "title": "Activate Lift for Light Statue, Open Gate, Kite Shadow Troll",
+          "tag": ["dungeon"],
+          "description": "Activate the lift and step off (moves the light statue). Pull the lever to open the gate. Kite the shadow-cloaked troll back to the circle of light to remove shadows and defeat it. This opens the boss door.",
+          "mapGenieId": null,
+          "timestamp": 699
+        },
+        {
+          "id": "ancient-hero-zamor-giant",
+          "title": "Defeat Ancient Hero of Zamor – Zamor Curved Sword & Armor Set",
+          "tag": ["boss"],
+          "description": "Head east to the boss room. Defeat the Ancient Hero of Zamor for the Zamor Curved Sword and entire Zamor Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 738
+        }
+      ]
+    },
+    {
+      "id": "phase-7-snowfield-catacombs",
+      "title": "Consecrated Snowfield Catacombs",
+      "steps": [
+        {
+          "id": "snowfield-catacombs-locate",
+          "title": "Locate Consecrated Snowfield Catacombs",
+          "tag": ["location"],
+          "description": "Move northeast from the Consecrated Snowfield grace. Pass the caravan pulled by two Yetis. Continue mostly east (if blocked, turn north). Find a dip southeast with a path leading to the entrance.",
+          "mapGenieId": null,
+          "timestamp": 747
+        },
+        {
+          "id": "snowfield-catacombs-navigate",
+          "title": "Navigate Consecrated Snowfield Catacombs to Lever",
+          "tag": ["dungeon"],
+          "description": "Take it slow — rushing is punished. Clear sneaky Imps, shoot chill traps from afar, avoid watchdogs. Get the Elder Imp Head from the staircase. Find the small passageway beneath. Hop onto a chill trap to ride it up to the lever. Pull it.",
+          "mapGenieId": null,
+          "timestamp": 801
+        },
+        {
+          "id": "snowfield-catacombs-boss",
+          "title": "Defeat Putrid Grave Warden Duelist – Great Grave Glovewort x2",
+          "tag": ["boss"],
+          "description": "Return to the boss room. Defeat the Putrid Grave Warden Duelist for 2 Great Grave Gloveworts and the Rotten Gravekeeper Cloak.",
+          "mapGenieId": null,
+          "timestamp": 908
+        }
+      ]
+    },
+    {
+      "id": "phase-8-azula-gloveworts",
+      "title": "Crumbling Farum Azula – Final Great Grave Gloveworts",
+      "steps": [
+        {
+          "id": "great-grave-glovewort-beast-depths",
+          "title": "Pick Up Great Grave Glovewort (Crumbling Beast Grave Depths)",
+          "tag": ["item"],
+          "description": "Start at the Crumbling Beast Grave Depths grace. Head west, leap to a rooftop, enter through a window to the upper level. Proceed to the end for the Great Grave Glovewort. Hop down near the crumbled guard rail.",
+          "mapGenieId": null,
+          "timestamp": 920
+        },
+        {
+          "id": "great-grave-glovewort-dragon-temple",
+          "title": "Pick Up Great Grave Glovewort (Dragon Temple)",
+          "tag": ["item"],
+          "description": "Start at the Dragon Temple grace. Sprint-jump west to a lower area. Follow a precarious path to a tall ladder. At the top, find the final Great Grave Glovewort.",
+          "mapGenieId": null,
+          "timestamp": 970
+        }
+      ]
+    },
+    {
+      "id": "phase-9-glovewort-bell-bearing-1",
+      "title": "Altus Plateau – Wyndham Catacombs (Bell Bearing [1])",
+      "steps": [
+        {
+          "id": "wyndham-catacombs-enter",
+          "title": "Enter Wyndham Catacombs",
+          "tag": ["dungeon"],
+          "description": "Ascend to the northern area of Wyndham Ruins in Altus Plateau. Find the entrance behind the final ruins, tucked into the mountainside.",
+          "mapGenieId": null,
+          "timestamp": 1006
+        },
+        {
+          "id": "wyndham-catacombs-navigate",
+          "title": "Navigate Wyndham Catacombs to Boss Door Lever",
+          "tag": ["dungeon"],
+          "description": "Head down the hallway and lift, through guillotine traps, into a waterlogged area. Climb the west ladder. Sprint over the rising platform to pull the lever. Backtrack to the north safe spot, drop onto the lowered platform, step off to a lower area. Open the gate with the lever there.",
+          "mapGenieId": null,
+          "timestamp": 1034
+        },
+        {
+          "id": "lightning-scorpion-charm",
+          "title": "Pick Up Lightning Scorpion Charm (Stonesword Key Required)",
+          "tag": ["item", "optional"],
+          "description": "Near the west ladder, use a Stonesword Key to clear a fog wall and grab the Lightning Scorpion Charm.",
+          "mapGenieId": null,
+          "timestamp": 1082
+        },
+        {
+          "id": "wyndham-catacombs-boss",
+          "title": "Defeat Erdtree Burial Watchdog – Glovewort Picker's Bell Bearing [1]",
+          "tag": ["boss"],
+          "description": "Retrace steps to the boss room. Defeat the Erdtree Burial Watchdog for the Glovewort Picker's Bell Bearing [1].",
+          "mapGenieId": null,
+          "timestamp": 1148
+        }
+      ]
+    },
+    {
+      "id": "phase-10-glovewort-bell-bearing-3",
+      "title": "Crumbling Farum Azula – Glovewort Picker's Bell Bearing [3]",
+      "steps": [
+        {
+          "id": "glovewort-bell-bearing-2-note",
+          "title": "Note: Bell Bearing [2] Was Obtained in Part 8",
+          "tag": ["info"],
+          "description": "The Glovewort Picker's Bell Bearing [2] was obtained from the Giants' Mountaintop Catacombs in Part 8 (during Gurranq's Deathroot quest).",
+          "mapGenieId": null,
+          "timestamp": 1155
+        },
+        {
+          "id": "glovewort-bell-bearing-3",
+          "title": "Pick Up Glovewort Picker's Bell Bearing [3]",
+          "tag": ["item"],
+          "description": "Start from the Tempest-Facing Balcony grace. Travel southwest through the temple, take the lift to a lower area. Head southeast past enemies. Climb the tall ladder near the east edge. Platform down to a lower area. Find the Bell Bearing [3] in a gazebo at the southern edge.",
+          "mapGenieId": null,
+          "timestamp": 1173
+        }
+      ]
+    },
+    {
+      "id": "phase-11-ng-plus-prep",
+      "title": "New Game+ Preparation – Rune Farming & Stockpiling",
+      "steps": [
+        {
+          "id": "stock-up-warning",
+          "title": "Twin Maiden Husk Purchases Do NOT Carry Over to NG+",
+          "tag": ["tip"],
+          "description": "Items purchased from the Twin Maiden Husks do not carry over to a New Journey. Stock up on smithing stones and gloveworts before starting NG+.",
+          "mapGenieId": null,
+          "timestamp": 1244
+        },
+        {
+          "id": "sacred-relic-sword",
+          "title": "Redeem Elden Remembrance for Sacred Relic Sword",
+          "tag": ["item"],
+          "description": "Exchange the Elden Remembrance at Finger Reader Enia for the Sacred Relic Sword. Upgrade it to at least +9.",
+          "mapGenieId": null,
+          "timestamp": 1272
+        },
+        {
+          "id": "rune-farm-method",
+          "title": "Farm Runes at Palace Approach Ledge-Road",
+          "tag": ["farming"],
+          "description": "Travel to the Palace Approach Ledge-Road grace. Use the Sacred Relic Sword's skill to wipe out the row of Albinaurics. Rest and repeat. Boost with nighttime, Gold Scarab Talisman, and Gold-Pickled Fowl Feet.",
+          "mapGenieId": null,
+          "timestamp": 1285
+        },
+        {
+          "id": "buy-upgrade-materials",
+          "title": "Buy Bulk Smithing Stones and Gloveworts",
+          "tag": ["tip"],
+          "description": "Recommended: 120 of each Smithing Stone, 10 of each Somber Smithing Stone, 10 of each Ghost Glovewort, 10 of each Grave Glovewort. Takes 30–60 minutes of farming.",
+          "mapGenieId": null,
+          "timestamp": 1312
+        }
+      ]
+    },
+    {
+      "id": "phase-12-mausoleums-single-pickups",
+      "title": "Walking Mausoleums & Single-Pickup Items",
+      "steps": [
+        {
+          "id": "walking-mausoleums-info",
+          "title": "Duplicate Remembrances at Walking Mausoleums (7 Total)",
+          "tag": ["info"],
+          "description": "There are 7 Walking Mausoleums. Each duplicates one Remembrance. Non-Shard Bearer Remembrances can only be duplicated at the two bell-less Mausoleums near the Mausoleum Compound in Liurnia.",
+          "mapGenieId": null,
+          "timestamp": 1328
+        },
+        {
+          "id": "single-pickup-items",
+          "title": "Collect Single-Pickup Items Before NG+",
+          "tag": ["info"],
+          "description": "Once picked up, these don't reappear in NG+: 8 Memory Stones, 20 Cracked Pots, 10 Ritual Pots, 10 Perfume Bottles, and dozens of Cookbooks. Explore to find any you've missed.",
+          "mapGenieId": null,
+          "timestamp": 1375
+        }
+      ]
+    }
+  ]
+}

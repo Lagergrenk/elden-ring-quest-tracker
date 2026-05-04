@@ -1,0 +1,52 @@
+{
+  "id": "zone-id",
+  "area": "Zone Name",
+  "description": "Brief description of the zone and what this guide covers.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID&list=PLAYLIST_ID&index=1&t=",
+  "phases": [
+    {
+      "id": "phase-1",
+      "title": "Phase Title",
+      "steps": [
+        {
+          "id": "step-unique-id",
+          "title": "Step Title",
+          "tag": [
+            "boss"
+          ],
+          "description": "What to do here.",
+          "mapGenieUrl": "https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=000000",
+          "timestamp": 0
+        },
+        {
+          "id": "step-unique-id-2",
+          "title": "Step Title",
+          "tag": [
+            "location",
+            "dialogue",
+            "quest-start"
+          ],
+          "description": "What to do here.",
+          "mapGenieUrl": "https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=000000"
+        }
+      ]
+    },
+    {
+      "id": "phase-2",
+      "title": "Phase Title",
+      "steps": [
+        {
+          "id": "step-unique-id-3",
+          "title": "Step Title",
+          "tag": [
+            "location",
+            "dialogue",
+            "quest-start"
+          ],
+          "description": "What to do here.",
+          "mapGenieUrl": "https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=000000"
+        }
+      ]
+    }
+  ]
+}

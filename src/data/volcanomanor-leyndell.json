@@ -1,0 +1,1542 @@
+{
+  "id": "volcano-manor-and-leyndell",
+  "area": "Volcano Manor, Leyndell & Early Mountaintops",
+  "description": "Complete walkthrough covering Volcano Manor questline, all missable Leyndell Royal Capital items, Goldmask/Corhyn quest, Millicent progression, Morgott boss, Nepheli quest completion, Yura/Shabriri, and wrapping up Volcano Manor including Rya, Patches, and Tanith.",
+  "youtubeUrl": "https://youtu.be/n6IN8A_y23c?si=2sxeEJMUcehmi32C&t=",
+  "phases": [
+    {
+      "id": "phase-1-volcano-manor-start",
+      "title": "Volcano Manor – Joining & First Target",
+      "steps": [
+        {
+          "id": "rykard-warning",
+          "title": "Do NOT Defeat Rykard Until Instructed",
+          "tag": [
+            "warning"
+          ],
+          "description": "Defeating Rykard locks you out of all incomplete Volcano Manor quests. Avoid at all costs until told otherwise.",
+          "timestamp": 32
+        },
+        {
+          "id": "ghost-npc-hallway",
+          "title": "Speak with Ghost NPC in West Hallway",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "There is a ghost NPC at the end of the west hallway. Speaking with it provides context on Volcano Manor's story. It disappears after eliminating the first target.",
+          "timestamp": 47
+        },
+        {
+          "id": "inquisitor-ghiza",
+          "title": "Defeat Inquisitor Ghiza Upstairs – Ghiza's Wheel",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Before speaking with Tanith, head upstairs to fight Inquisitor Ghiza. She drops the Ghiza's Wheel weapon.",
+          "mapGenieId": 168637,
+          "timestamp": 66
+        },
+        {
+          "id": "tanith-join-manor",
+          "title": "Speak with Tanith – Join Volcano Manor",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Speak with Tanith and agree to join Volcano Manor. Joining has no negative impact elsewhere in the game.",
+          "mapGenieId": 178114,
+          "timestamp": 76
+        },
+        {
+          "id": "drawing-room-npcs",
+          "title": "Greet NPCs in the Drawing-Room: Rya, Bernahl, Diallos",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Head down the hallway to the Drawing-Room. Speak with Rya, Bernahl, and Diallos.",
+          "timestamp": 88
+        },
+        {
+          "id": "recusants-finger-letter-1",
+          "title": "Pick Up Recusant's Finger and First Letter from Volcano Manor",
+          "tag": [
+            "quest"
+          ],
+          "description": "Pick up the Recusant's Finger and the first Letter from Volcano Manor. It names Old Knight Istvan as the target, north of Warmaster's Shack.",
+          "mapGenieId": 166666,
+          "timestamp": 92
+        },
+        {
+          "id": "defeat-istvan",
+          "title": "Invade and Defeat Old Knight Istvan – Scaled Armor Set",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Travel to the location north of Warmaster's Shack. Find the Red Summoning Sign and invade. Defeat Istvan for the Scaled Armor Set.",
+          "mapGenieId": 168977,
+          "timestamp": 109
+        },
+        {
+          "id": "tanith-report-istvan",
+          "title": "Report Success to Tanith – Magma Shot Sorcery",
+          "tag": [
+            "quest"
+          ],
+          "description": "Report your success to Tanith. Receive the Magma Shot Sorcery.",
+          "mapGenieId": 175932,
+          "timestamp": 115
+        }
+      ]
+    },
+    {
+      "id": "phase-2-rya-zorayas",
+      "title": "Rya's True Form & Bernahl",
+      "steps": [
+        {
+          "id": "rya-true-form",
+          "title": "Reload – Find Rya as Zorayas in New Room",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game. Find Rya in a new room (down the hall, second door on the right). She is in her true serpent-born form. Speak through all dialogue.",
+          "mapGenieId": 169809,
+          "timestamp": 122
+        },
+        {
+          "id": "tanith-new-dialogue",
+          "title": "Speak with Tanith for New Dialogue",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "Optionally speak with Tanith for additional new dialogue.",
+          "timestamp": 136
+        },
+        {
+          "id": "bernahl-new-ashes",
+          "title": "Purchase New Ashes of War from Bernahl",
+          "tag": [
+            "shop"
+          ],
+          "description": "Speak with Bernahl. He now sells new Ashes of War, including Assassin's Gambit (semi-invisible and silent for ~30 seconds).",
+          "mapGenieId": 169810,
+          "timestamp": 140
+        }
+      ]
+    },
+    {
+      "id": "phase-3-patches-tragoth",
+      "title": "Patches' Target – Great Horned Tragoth",
+      "steps": [
+        {
+          "id": "patches-target-request",
+          "title": "Speak with Patches – Get Target Request for Tragoth",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Patches and get a target request for the Great Horned Tragoth.",
+          "mapGenieId": 175962,
+          "timestamp": 158
+        },
+        {
+          "id": "defeat-tragoth",
+          "title": "Invade and Defeat Great Horned Tragoth – Bull-Goat Armor Set",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Fast travel to the Magma Wyrm Makar arena. Find the Red Summoning Sign near the grace. Invade and defeat Tragoth for the Bull-Goat Armor Set.",
+          "mapGenieId": 168974,
+          "timestamp": 168
+        },
+        {
+          "id": "patches-report-tragoth",
+          "title": "Report Success to Patches",
+          "tag": ["quest"],
+          "description": "Return to Patches and inform him about your success.",
+          "mapGenieId": 175962,
+          "timestamp": 181
+        },
+        {
+          "id": "patches-reload-magma-whip",
+          "title": "Reload and Speak with Patches – Magma Whip Candlestick",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game and speak with Patches again to receive the Magma Whip Candlestick.",
+          "mapGenieId": 169020,
+          "timestamp": 181
+        }
+      ]
+    },
+    {
+      "id": "phase-4-letter-2-rileigh",
+      "title": "Second Volcano Manor Target – Rileigh the Idle",
+      "steps": [
+        {
+          "id": "letter-2-pickup",
+          "title": "Pick Up Second Letter from Volcano Manor",
+          "tag": [
+            "quest"
+          ],
+          "description": "Retrieve the second Letter from Volcano Manor. The target is Rileigh the Idle.",
+          "timestamp": 186
+        },
+        {
+          "id": "defeat-rileigh",
+          "title": "Invade and Defeat Rileigh the Idle – Crepus's Vial Talisman",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Travel north from Erdtree Gazing Hill through the ravine. Find the Red Summoning Sign and invade. Defeat Rileigh for the Crepus's Vial Talisman.",
+          "mapGenieId": 170233,
+          "timestamp": 196
+        }
+      ]
+    },
+    {
+      "id": "phase-5-shaded-castle",
+      "title": "Shaded Castle – Valkyrie's Prosthesis & Legendary Armament",
+      "steps": [
+        {
+          "id": "maleigh-marais",
+          "title": "Defeat Maleigh Marais West of Shaded Castle",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Before entering the Shaded Castle, find Maleigh Marais to the west. Defeat her for the Antspur Rapier, Marais Mask, and Robe.",
+          "mapGenieId": 166754,
+          "timestamp": 208
+        },
+        {
+          "id": "shaded-castle-ramparts-grace",
+          "title": "Discover Shaded Castle Ramparts Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Enter the Shaded Castle near a break in the wall. Discover the site of grace at the Ramparts.",
+          "mapGenieId": 165483,
+          "timestamp": 216
+        },
+        {
+          "id": "valkyries-prosthesis",
+          "title": "Pick Up Valkyrie's Prosthesis (Northwest Corner)",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Head to the northwest corner of the Shaded Castle and pick up the Valkyrie's Prosthesis (needed for Millicent's quest).",
+          "mapGenieId": 166747,
+          "timestamp": 239
+        },
+        {
+          "id": "shaded-castle-inner-gate",
+          "title": "Reach Shaded Castle Inner Gate Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Double back and hop across rooftops to the north to reach the Inner Gate site of grace.",
+          "mapGenieId": 165484,
+          "timestamp": 292
+        },
+        {
+          "id": "elemer-of-briar",
+          "title": "Defeat Elemer of the Briar – Marais Executioner's Sword (Legendary)",
+          "tag": [
+            "boss"
+          ],
+          "description": "Make your way to the Castellan's Hall. Defeat Elemer of the Briar for the Briar Greatshield and Marais Executioner's Sword (legendary armament).",
+          "mapGenieId": 167323,
+          "timestamp": 348
+        },
+        {
+          "id": "castellans-hall-grace",
+          "title": "Discover Castellan's Hall Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the new site of grace at the Castellan's Hall.",
+          "mapGenieId": 166853,
+          "timestamp": 383
+        }
+      ]
+    },
+    {
+      "id": "phase-6-tanith-report-letter-3",
+      "title": "Report to Tanith & Third Letter",
+      "steps": [
+        {
+          "id": "tanith-report-rileigh",
+          "title": "Report Rileigh's Elimination to Tanith – Serpentbone Blade",
+          "tag": [
+            "quest"
+          ],
+          "description": "Report your success to Tanith. Receive the Serpentbone Blade. She also reveals Volcano Manor's secrets.",
+          "mapGenieId": 169021,
+          "timestamp": 386
+        },
+        {
+          "id": "diallos-doubt",
+          "title": "Speak with Diallos – Doubt and Self-Pity",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload and go to the Drawing-Room. Speak with Diallos through all his dialogue expressing doubt.",
+          "mapGenieId": 169066,
+          "timestamp": 398
+        },
+        {
+          "id": "red-letter-pickup",
+          "title": "Pick Up Red Letter (Third Letter) – Diallos Leaves",
+          "tag": [
+            "quest"
+          ],
+          "description": "Pick up the Red Letter (third Volcano Manor letter). This causes Diallos to leave the manor.",
+          "timestamp": 407
+        },
+        {
+          "id": "bernahl-letter",
+          "title": "Get Letter to Bernahl – Target: Vargram in Leyndell",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Bernahl to receive the Letter to Bernahl. It marks target Vargram the Raging Wolf in Leyndell.",
+          "mapGenieId": 169810,
+          "timestamp": 411
+        },
+        {
+          "id": "rya-human-form-dialogue",
+          "title": "Speak with Rya (Human Form) Through All Dialogue",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Rya in the same room as before, now in human form. Speak through all dialogue.",
+          "mapGenieId": 169809,
+          "timestamp": 421
+        }
+      ]
+    },
+    {
+      "id": "phase-7-rya-dark-side",
+      "title": "Rya's Quest – Dark Side of Volcano Manor",
+      "steps": [
+        {
+          "id": "false-wall-prison-town",
+          "title": "Find False Wall to Prison Town Church",
+          "tag": [
+            "location"
+          ],
+          "description": "Open the door to the room right of Rya's room. Find a false wall near a Perfume Bottle (dodge-roll into it). Make your way southwest to the Prison Town Church site of grace.",
+          "mapGenieId": 168026,
+          "timestamp": 428
+        },
+        {
+          "id": "rya-dark-side-reveal",
+          "title": "Step Outside Church – Tell Rya of the Dark Side",
+          "tag": [
+            "quest"
+          ],
+          "description": "Open the doors at the far side of the church and step out into the underbelly. Speak with Rya and 'Tell her of the dark side of Volcano Manor'.",
+          "mapGenieId": 178116,
+          "timestamp": 453
+        },
+        {
+          "id": "tanith-zorayas-troubles",
+          "title": "Ask Tanith About Zorayas's Troubles",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "Optionally speak with Tanith about 'Zorayas's troubles' for new dialogue.",
+          "mapGenieId": 167573,
+          "timestamp": 464
+        }
+      ]
+    },
+    {
+      "id": "phase-8-volcano-manor-underbelly",
+      "title": "Volcano Manor Underbelly – Serpent's Amnion",
+      "steps": [
+        {
+          "id": "guest-hall-walkthrough",
+          "title": "Make Your Way to the Guest Hall",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "From the Prison Town Church, navigate through the underbelly to reach the Guest Hall.",
+          "mapGenieId": 167422,
+          "timestamp": 472
+        },
+        {
+          "id": "guest-hall-to-eiglay",
+          "title": "Travel Through Lava and Take Lift to Temple of Eiglay",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "From the Guest Hall, go through the lava and take a lift up towards the Temple of Eiglay.",
+          "mapGenieId": 167423,
+          "timestamp": 532
+        },
+        {
+          "id": "bridge-shortcut-lever",
+          "title": "Pull Lever to Raise Bridge Shortcut",
+          "tag": [
+            "location"
+          ],
+          "description": "Before entering the temple, pull the lever to the northwest to raise a giant bridge — shortcut back to the Prison Town Church.",
+          "timestamp": 557
+        },
+        {
+          "id": "godskin-noble-temple",
+          "title": "Defeat Godskin Noble – Godskin Stitcher & Noble Presence",
+          "tag": [
+            "boss"
+          ],
+          "description": "Face the Godskin Noble in the temple. Drops the Godskin Stitcher and Noble Presence Incantation.",
+          "mapGenieId": 168177,
+          "timestamp": 574
+        },
+        {
+          "id": "temple-eiglay-grace",
+          "title": "Discover Temple of Eiglay Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the new site of grace at the Temple of Eiglay.",
+          "mapGenieId": 167423,
+          "timestamp": 581
+        },
+        {
+          "id": "serpents-amnion",
+          "title": "Pick Up Serpent's Amnion from Altar",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Grab the Serpent's Amnion from the altar in the temple.",
+          "mapGenieId": 168772,
+          "timestamp": 584
+        }
+      ]
+    },
+    {
+      "id": "phase-9-rya-amnion-tonic",
+      "title": "Rya's Quest – Amnion & Tonic of Forgetfulness",
+      "steps": [
+        {
+          "id": "rya-give-amnion",
+          "title": "Give Rya the Serpent's Amnion",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Rya and give her the Serpent's Amnion. Speak through all dialogue.",
+          "mapGenieId": 169809,
+          "timestamp": 592
+        },
+        {
+          "id": "rya-vanishes-reload",
+          "title": "Reload – Rya Vanishes",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game. Rya has vanished.",
+          "timestamp": 598
+        },
+        {
+          "id": "tanith-tonic",
+          "title": "Ask Tanith About Zorayas's Absence – Receive Tonic of Forgetfulness",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak to Tanith about 'Zorayas's absence'. Speak again to receive the Tonic of Forgetfulness.",
+          "mapGenieId": 167573,
+          "timestamp": 602
+        }
+      ]
+    },
+    {
+      "id": "phase-10-rya-deeper-manor",
+      "title": "Finding Rya Deeper in Volcano Manor",
+      "steps": [
+        {
+          "id": "temple-eiglay-south-lift",
+          "title": "Return to Temple of Eiglay – Take South Lift Deeper",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Return to the Temple of Eiglay. Use the lift to the south to go deeper into Volcano Manor.",
+          "mapGenieId": 167423,
+          "timestamp": 610
+        },
+        {
+          "id": "tonic-warning",
+          "title": "Don't Accidentally Give Rya the Tonic",
+          "tag": [
+            "warning"
+          ],
+          "description": "When you speak with Rya next, the Tonic option is the first/top choice. Be careful not to select it by accident.",
+          "mapGenieId": 178116,
+          "timestamp": 617
+        },
+        {
+          "id": "navigate-to-rya-room",
+          "title": "Navigate to Rya's New Location",
+          "tag": ["dungeon"],
+          "description": "Sneak past the Iron Maiden (Assassin's Gambit helps). Continue west, up stairs, activate the lift shortcut, then jump over the railing at the end of the bridge to land near Rya's room.",
+          "mapGenieId": 178116,
+          "timestamp": 640
+        },
+        {
+          "id": "rya-do-nothing",
+          "title": "Speak with Rya – Choose to Do Nothing (Best Ending)",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Rya asks you to end her life. Options: kill her, give the Tonic, or do nothing. Doing nothing is the only option that gives a hopeful ending and Zorayas's Letter. Don't decide now — one more chance after Rykard.",
+          "timestamp": 682
+        }
+      ]
+    },
+    {
+      "id": "phase-11-seedbed-curse-volcano",
+      "title": "Seedbed Curse in Volcano Manor",
+      "steps": [
+        {
+          "id": "stonesword-fog-wall",
+          "title": "Open Fog Wall with 2 Stonesword Keys",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Continue through the manor to a fog wall requiring two Stonesword Keys.",
+          "mapGenieId": 175944,
+          "timestamp": 707
+        },
+        {
+          "id": "seedbed-curse-volcano",
+          "title": "Pick Up Seedbed Curse",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Make your way to the bottom floor (Assassin's Gambit helps). Head southwest to find the Seedbed Curse.",
+          "mapGenieId": 175943,
+          "timestamp": 773
+        },
+        {
+          "id": "royal-knights-resolve",
+          "title": "Pick Up Royal Knight's Resolve Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "At the opposite side of this area, find the Royal Knight's Resolve Ash of War and a direct exit back to the Volcano Manor hub.",
+          "mapGenieId": 175136,
+          "timestamp": 789
+        }
+      ]
+    },
+    {
+      "id": "phase-12-millicent-prosthesis",
+      "title": "Millicent – Valkyrie's Prosthesis & Gowry",
+      "steps": [
+        {
+          "id": "millicent-give-prosthesis",
+          "title": "Give Millicent the Valkyrie's Prosthesis",
+          "tag": [
+            "quest"
+          ],
+          "description": "Fast travel to Erdtree Gazing Hill. Find Millicent on the hill to the northeast. Give her the Valkyrie's Prosthesis and speak through all dialogue.",
+          "mapGenieId": 167562,
+          "timestamp": 796
+        },
+        {
+          "id": "gowry-millicent-dialogue",
+          "title": "Return to Gowry for New Dialogue About Millicent",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "Optionally return to Gowry for new dialogue about Millicent.",
+          "mapGenieId": 166841,
+          "timestamp": 814
+        },
+        {
+          "id": "gowry-pest-threads",
+          "title": "Buy Pest Threads Incantation from Gowry",
+          "tag": [
+            "item"
+          ],
+          "description": "Purchase the Pest Threads Incantation from Gowry.",
+          "mapGenieId": 169253,
+          "timestamp": 822
+        },
+        {
+          "id": "gowry-about-malenia",
+          "title": "Choose 'About Malenia' – 'Desperate Prayer'",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Buying Pest Threads opens the 'About Malenia' dialogue option, which unlocks the 'Desperate Prayer' gesture.",
+          "mapGenieId": 171340,
+          "timestamp": 826
+        }
+      ]
+    },
+    {
+      "id": "phase-13-millicent-windmill",
+      "title": "Millicent at Windmill Village",
+      "steps": [
+        {
+          "id": "millicent-summon-windmill",
+          "title": "Summon Millicent at Windmill Village",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head to Windmill Village in north Altus Plateau. Near the high point, find Millicent's summoning sign.",
+          "mapGenieId": 192345,
+          "timestamp": 832
+        },
+        {
+          "id": "godskin-apostle-windmill",
+          "title": "Defeat Godskin Apostle – Godskin Peeler",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Godskin Apostle up the hill (with Millicent's help). Drops Scouring Black Flames Incantation and Godskin Peeler.",
+          "mapGenieId": 166231,
+          "timestamp": 844
+        },
+        {
+          "id": "millicent-windmill-dialogue",
+          "title": "Speak with Millicent at Windmill Village Grace",
+          "tag": [
+            "quest"
+          ],
+          "description": "Discover and rest at the new grace. Find Millicent nearby and speak through all dialogue. She'll next appear in the Mountaintops.",
+          "mapGenieId": 168077,
+          "timestamp": 854
+        }
+      ]
+    },
+    {
+      "id": "phase-14-bell-bearing-hunter-hermit",
+      "title": "Bell Bearing Hunter – Hermit Merchant's Shack",
+      "steps": [
+        {
+          "id": "bell-bearing-hunter-hermit",
+          "title": "Defeat Bell Bearing Hunter – Medicine Peddler's Bell Bearing",
+          "tag": [
+            "boss"
+          ],
+          "description": "Travel to the Hermit Merchant's Shack in the outskirts of Leyndell. Rest, pass time to night, reload. The merchant disappears and the Hunter attacks. Hardest version yet. Drops Medicine Peddler's Bell Bearing.",
+          "mapGenieId": 169467,
+          "timestamp": 862
+        }
+      ]
+    },
+    {
+      "id": "phase-15-leyndell-east-items",
+      "title": "Leyndell Missable Items – East Side",
+      "steps": [
+        {
+          "id": "leyndell-warning",
+          "title": "All Surface Leyndell Items Disappear After Maliketh",
+          "tag": [
+            "warning"
+          ],
+          "description": "The entire surface level of Leyndell becomes unavailable after defeating Maliketh. Get all unique items now.",
+          "timestamp": 897
+        },
+        {
+          "id": "seedbed-curse-east-ramparts",
+          "title": "Pick Up Seedbed Curse and Perfume Bottle (East Capital Ramparts)",
+          "tag": [
+            "key-item"
+          ],
+          "description": "From the East Capital Ramparts, pick up a Perfume Bottle and Seedbed Curse in the upper floors past the first lift.",
+          "mapGenieId": 167017,
+          "timestamp": 906
+        },
+        {
+          "id": "envoys-long-horn-farm",
+          "title": "Farm Envoy's Long Horn",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "(4% Drop Rate) The Large Oracle Envoy along the way can drop the Envoy's Long Horn weapon (4% base drop rate). This enemy won't spawn after Maliketh.",
+          "mapGenieId": 191503,
+          "timestamp": 920
+        },
+        {
+          "id": "imp-head-corpse",
+          "title": "Pick Up Imp Head (Corpse) Armor",
+          "tag": [
+            "item"
+          ],
+          "description": "From Avenue Balcony, double back southeast, then northeast down the avenue. At the end, turn south to the alley's end for the Imp Head (Corpse) armor.",
+          "mapGenieId": 168987,
+          "timestamp": 969
+        },
+        {
+          "id": "black-bow",
+          "title": "Pick Up Black Bow",
+          "tag": [
+            "item"
+          ],
+          "description": "Cross the avenue, pass a fountain, descend on a second lift. Sprint-jump across rooftops west to find the Black Bow on a body.",
+          "mapGenieId": 169158,
+          "timestamp": 1024
+        },
+        {
+          "id": "cracked-pot",
+          "title": "Pick Up Cracked Pot",
+          "tag": [
+            "item"
+          ],
+          "description": "Jump off and head through the archway west. Find a Cracked Pot to your left.",
+          "mapGenieId": 211730,
+          "timestamp": 1042
+        },
+        {
+          "id": "lower-capital-church-grace",
+          "title": "Reach Lower Capital Church Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue along the path to reach the Lower Capital Church site of grace.",
+          "mapGenieId": 167128,
+          "timestamp": 1049
+        },
+        {
+          "id": "lionels-armor-deathbed",
+          "title": "Pick Up Lionel's Armor Set and Deathbed Dress",
+          "tag": [
+            "item"
+          ],
+          "description": "On the bed near the grace, find Lionel's Armor Set and a Deathbed Dress.",
+          "mapGenieId": 167131,
+          "timestamp": 1069
+        },
+        {
+          "id": "omensmirk-mask",
+          "title": "Defeat Omenkiller – Omensmirk Mask",
+          "tag": [
+            "item"
+          ],
+          "description": "Defeat the Omenkiller outside the church for the Omensmirk Mask.",
+          "mapGenieId": 167130,
+          "timestamp": 1076
+        },
+        {
+          "id": "erdsteel-dagger-leyndell",
+          "title": "Pick Up Erdsteel Dagger",
+          "tag": [
+            "item"
+          ],
+          "description": "Drop down the ladder north, head northwest down the channel. Defeat the sitting Gargoyle, drop into the pit below for the Erdsteel Dagger.",
+          "mapGenieId": 167315,
+          "timestamp": 1082
+        },
+        {
+          "id": "thunderbolt-ash-leyndell",
+          "title": "Defeat Scarab – Thunderbolt Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "(If Not Already Obtained) Climb the ladder on the far side, head south to a secluded area. Defeat the scarab for the Thunderbolt Ash of War.",
+          "mapGenieId": 168146,
+          "timestamp": 1114
+        }
+      ]
+    },
+    {
+      "id": "phase-16-leyndell-west-items",
+      "title": "Leyndell Missable Items – West Side",
+      "steps": [
+        {
+          "id": "gargoyles-halberd",
+          "title": "Defeat Gargoyle Miniboss – Gargoyle's Halberd",
+          "tag": [
+            "item"
+          ],
+          "description": "South of the West Capital Ramparts, defeat the Gargoyle miniboss for the Gargoyle's Halberd.",
+          "mapGenieId": 167313,
+          "timestamp": 1124
+        },
+        {
+          "id": "cane-sword",
+          "title": "Pick Up Cane Sword",
+          "tag": [
+            "item"
+          ],
+          "description": "Find the staircase near the West Ramparts entrance. Turn right at the bottom to find the Cane Sword in a small room.",
+          "mapGenieId": 167127,
+          "timestamp": 1144
+        }
+      ]
+    },
+    {
+      "id": "phase-17-fortified-manor",
+      "title": "Fortified Manor (Leyndell Roundtable Hold)",
+      "steps": [
+        {
+          "id": "fortified-manor-upper",
+          "title": "Enter Fortified Manor Upper Level (South Side)",
+          "tag": [
+            "location"
+          ],
+          "description": "Head to the Fortified Manor (resembles Roundtable Hold). Enter via the south side to gain upper level access.",
+          "timestamp": 1152
+        },
+        {
+          "id": "sanctified-whetstone",
+          "title": "Pick Up Sanctified Whetblade",
+          "tag": [
+            "item"
+          ],
+          "description": "In the first couple rooms of the upper level, find the Sanctified Whetblade.",
+          "mapGenieId": 167210,
+          "timestamp": 1170
+        },
+        {
+          "id": "hammer-weapon",
+          "title": "Pick Up Hammer",
+          "tag": [
+            "item"
+          ],
+          "description": "Find the Hammer in the upper level rooms.",
+          "mapGenieId": 169161,
+          "timestamp": 1170
+        },
+        {
+          "id": "by-my-sword-gesture",
+          "title": "Pick Up 'By My Sword' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Find the 'By My Sword' gesture in the upper level rooms.",
+          "mapGenieId": 168036,
+          "timestamp": 1170
+        },
+        {
+          "id": "coded-sword",
+          "title": "Pick Up Coded Sword (Two Fingers Room)",
+          "tag": [
+            "item"
+          ],
+          "description": "Open the doors to the room where the Two Fingers would be. Find the Coded Sword inside.",
+          "mapGenieId": 168037,
+          "timestamp": 1198
+        },
+        {
+          "id": "seedbed-curse-fortified",
+          "title": "Pick Up Seedbed Curse (Dung Eater's Room Equivalent)",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Head to the spot where Dung Eater would sit. Find another Seedbed Curse.",
+          "mapGenieId": 167208,
+          "timestamp": 1220
+        },
+        {
+          "id": "two-fingers-prayerbook",
+          "title": "Pick Up Two Fingers' Prayerbook",
+          "tag": [
+            "item"
+          ],
+          "description": "Go down the staircase from the smithing room. Make a sharp left west through the hall. Find the Two Fingers' Prayerbook near a fireplace.",
+          "mapGenieId": 167209,
+          "timestamp": 1258
+        },
+        {
+          "id": "alberichs-armor",
+          "title": "Pick Up Alberich's Armor Set",
+          "tag": [
+            "item"
+          ],
+          "description": "In the foyer, head towards the west corner and pick up Alberich's Armor Set along the way.",
+          "mapGenieId": 168157,
+          "timestamp": 1280
+        },
+        {
+          "id": "volc-manor-lower-level-grace",
+          "title": "Discover Manor Lower Level Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue to the Manor Lower Level site of grace.",
+          "mapGenieId": 167194,
+          "timestamp": 1293
+        },
+        {
+          "id": "flightless-bird-painting",
+          "title": "'Flightless Bird' Painting – Fire's Deadly Sin",
+          "tag": [
+            "item"
+          ],
+          "description": "The 'Flightless Bird' painting is near the Fortified Manor grace. View the depicted scene from the peak south of Windmill Heights to get the Fire's Deadly Sin Incantation.",
+          "mapGenieId": 167217,
+          "timestamp": 1296
+        }
+      ]
+    },
+    {
+      "id": "phase-18-bernahl-invasion",
+      "title": "Bernahl's Volcano Manor Target – Raging Wolf Armor",
+      "steps": [
+        {
+          "id": "bernahl-invasion",
+          "title": "Invade with Bernahl – Defeat Vargram & Wilhelm",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Return to the foyer. Use the Red Summoning Sign. Assist Bernahl in defeating Vargram and Wilhelm. Receive the Raging Wolf Armor Set.",
+          "mapGenieId": 168423,
+          "timestamp": 1311
+        },
+        {
+          "id": "bernahl-gelmirs-fury",
+          "title": "Report to Bernahl at Volcano Manor – Gelmir's Fury Sorcery",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Bernahl at Volcano Manor to receive the Gelmir's Fury Sorcery.",
+          "mapGenieId": 175955,
+          "timestamp": 1327
+        }
+      ]
+    },
+    {
+      "id": "phase-19-leyndell-more-items",
+      "title": "Leyndell – More Unique Items",
+      "steps": [
+        {
+          "id": "gravel-stone-seal",
+          "title": "Defeat Leyndell Knight – Gravel Stone Seal",
+          "tag": [
+            "item"
+          ],
+          "description": "Northwest of the foyer exit, defeat the spear-and-shield Leyndell Knight for the Gravel Stone Seal (boosts Dragon Cult Incantations).",
+          "mapGenieId": 169159,
+          "timestamp": 1337
+        },
+        {
+          "id": "stormhawk-axe",
+          "title": "Pick Up Stormhawk Axe",
+          "tag": [
+            "item"
+          ],
+          "description": "Return to the foyer and open the north doors to the courtyard. Find the Stormhawk Axe against the south wall (guarded by Iron Maiden). Grab it.",
+          "mapGenieId": 169160,
+          "timestamp": 1360
+        },
+        {
+          "id": "blessed-dew-talisman",
+          "title": "Pick Up Blessed Dew Talisman",
+          "tag": [
+            "item"
+          ],
+          "description": "Take the large lift west. Past the grace, find a chest on the north side (past a dormant golem) containing the Blessed Dew Talisman.",
+          "mapGenieId": 165368,
+          "timestamp": 1392
+        }
+      ]
+    },
+    {
+      "id": "phase-20-erdtree-sanctuary",
+      "title": "Erdtree Sanctuary & Golden Order Principia",
+      "steps": [
+        {
+          "id": "godfrey-golden-shade",
+          "title": "Defeat Godfrey, First Elden Lord (Golden Shade)",
+          "tag": [
+            "boss"
+          ],
+          "description": "From the West Capital Ramparts, climb giant vines southwest to the Erdtree Sanctuary. Defeat the Golden Shade of Godfrey. Unlocks an additional talisman slot on new game.",
+          "mapGenieId": 167693,
+          "timestamp": 1420
+        },
+        {
+          "id": "erdtree-sanctuary-grace",
+          "title": "Discover Erdtree Sanctuary Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the new site of grace.",
+          "mapGenieId": 166536,
+          "timestamp": 1449
+        },
+        {
+          "id": "erdtree-bow",
+          "title": "Pick Up Erdtree Bow",
+          "tag": [
+            "item"
+          ],
+          "description": "Head out east exit, climb vines up. Go north exit, turn left, drop to rooftop, enter through broken window. Find the Erdtree Bow in a chest on the west side.",
+          "mapGenieId": 168038,
+          "timestamp": 1462
+        },
+        {
+          "id": "celestial-dew-leyndell",
+          "title": "Pick Up Celestial Dew",
+          "tag": [
+            "item"
+          ],
+          "description": "To the south, kick down a ladder. Pick up a Celestial Dew nearby.",
+          "mapGenieId": 167206,
+          "timestamp": 1480
+        },
+        {
+          "id": "golden-order-principia",
+          "title": "Pick Up Golden Order Principia Prayerbook",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Double back toward the broken window. Climb a new vine to reach the Golden Order Principia prayerbook (required for Goldmask's quest).",
+          "mapGenieId": 167204,
+          "timestamp": 1491
+        },
+        {
+          "id": "blessing-of-erdtree",
+          "title": "Pick Up Blessing of the Erdtree Incantation",
+          "tag": [
+            "item"
+          ],
+          "description": "Head to the Queen's Bedchamber to find the Blessing of the Erdtree Incantation.",
+          "mapGenieId": 167720,
+          "timestamp": 1504
+        }
+      ]
+    },
+    {
+      "id": "phase-21-coliseum-goldmask",
+      "title": "Leyndell Coliseum & Goldmask Quest",
+      "steps": [
+        {
+          "id": "duelist-armor-farm",
+          "title": "Farm Duelists for Armor Set, Greataxe & Battle Hammer",
+          "tag": [
+            "item",
+            "farming"
+          ],
+          "description": "(Low Drop Rate) Return to Erdtree Sanctuary, exit south, climb down vines. Head southwest to the Leyndell Coliseum path. Two Duelists can drop Duelist Armor, Duelist Greataxe, and Battle Hammer (low rates). Won't be available after Maliketh.",
+          "mapGenieId": 176072,
+          "timestamp": 1523
+        },
+        {
+          "id": "ritual-shield-talisman",
+          "title": "Pick Up Ritual Shield Talisman",
+          "tag": [
+            "item"
+          ],
+          "description": "Near the second Duelist, find the Ritual Shield Talisman.",
+          "mapGenieId": 167722,
+          "timestamp": 1571
+        },
+        {
+          "id": "star-fist",
+          "title": "Pick Up Star Fist Weapon",
+          "tag": [
+            "item"
+          ],
+          "description": "Heading clockwise around the Coliseum, find Corhyn and Goldmask. Pick up the Star Fist from a body in a nearby alcove first.",
+          "mapGenieId": 168156,
+          "timestamp": 1587
+        },
+        {
+          "id": "corhyn-give-principia",
+          "title": "Give Corhyn the Golden Order Principia",
+          "tag": [
+            "quest"
+          ],
+          "description": "Give Corhyn the Golden Order Principia. If Corhyn is dead, give it to Miriel at the Church of Vows instead.",
+          "mapGenieId": 168528,
+          "timestamp": 1601
+        },
+        {
+          "id": "learn-law-of-regression",
+          "title": "Learn the Law of Regression Incantation",
+          "tag": [
+            "quest"
+          ],
+          "description": "Learn the Law of Regression incantation (requires 37 Intelligence — Rebirth may be needed).",
+          "mapGenieId": 182154,
+          "timestamp": 1607
+        }
+      ]
+    },
+    {
+      "id": "phase-22-goldmask-regression",
+      "title": "Goldmask Quest – Law of Regression",
+      "steps": [
+        {
+          "id": "memorize-regression",
+          "title": "Memorize Law of Regression and Equip a Seal",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Erdtree Sanctuary. Memorize Law of Regression and equip your favorite seal.",
+          "mapGenieId": 166536,
+          "timestamp": 1631
+        },
+        {
+          "id": "radagon-statue-regression",
+          "title": "Cast Law of Regression at Radagon Statue",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head out the west exit, down the lift. Near the foot of the staircase, find a message before a Radagon statue. Cast Law of Regression.",
+          "mapGenieId": 180807,
+          "timestamp": 1645
+        },
+        {
+          "id": "read-new-message",
+          "title": "Read the New Message That Appears",
+          "tag": [
+            "quest"
+          ],
+          "description": "Read the new message that appears on the ground a short distance ahead.",
+          "timestamp": 1660
+        },
+        {
+          "id": "barrier-of-gold",
+          "title": "Defeat Invisible Scarab – Barrier of Gold Incantation",
+          "tag": [
+            "item"
+          ],
+          "description": "Run north along the path — gold footsteps of an invisible scarab appear. Chase it past a Crucible Knight (skip the knight). Defeat the scarab for Barrier of Gold.",
+          "mapGenieId": 167721,
+          "timestamp": 1673
+        },
+        {
+          "id": "bolt-of-gransax",
+          "title": "Pick Up Bolt of Gransax)",
+          "tag": [
+            "item"
+          ],
+          "description": "Sprint-jump over the railing northwest near the giant spear. Land on the platform below. Carefully ascend the spear to get the Bolt of Gransax.",
+          "mapGenieId": 169162,
+          "timestamp": 1691
+        },
+        {
+          "id": "rebirth-respec-tip",
+          "title": "Rebirth Back to Normal Stats if Needed",
+          "tag": [
+            "tip"
+          ],
+          "description": "If you respecced for 37 INT, now is a good time to Rebirth again to restore your original stats.",
+          "timestamp": 1736
+        },
+        {
+          "id": "goldmask-revelation",
+          "title": "Tell Goldmask Your Revelation – 'Golden Order Totality' Gesture",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Goldmask and tell him your revelation. Unlock the 'Golden Order Totality' gesture.",
+          "mapGenieId": 175533,
+          "timestamp": 1743
+        },
+        {
+          "id": "corhyn-new-incantations",
+          "title": "Corhyn Sells Discus of Light and Immutable Shield",
+          "tag": [
+            "shop"
+          ],
+          "description": "If Corhyn is present, he thanks you and sells two new incantations: Discus of Light and Immutable Shield.",
+          "mapGenieId": 180822,
+          "timestamp": 1759
+        }
+      ]
+    },
+    {
+      "id": "phase-23-morgott",
+      "title": "Morgott, the Omen King",
+      "steps": [
+        {
+          "id": "morgott-boss",
+          "title": "Defeat Morgott, the Omen King",
+          "tag": [
+            "boss"
+          ],
+          "description": "From the Queen's Bedchambers, head to the Elden Throne. You can summon Melina for the fight. Defeat Morgott.",
+          "mapGenieId": 167374,
+          "timestamp": 1769
+        },
+        {
+          "id": "rold-medallion",
+          "title": "Rest at New Grace – Receive Rold Medallion from Melina",
+          "tag": [
+            "quest"
+          ],
+          "description": "Attempt to enter the Erdtree, then rest at the new site of grace near Morgott. Receive the Rold Medallion from Melina.",
+          "mapGenieId": 166538,
+          "timestamp": 1777
+        }
+      ]
+    },
+    {
+      "id": "phase-24-nepheli-gostoc-kenneth",
+      "title": "Completing Nepheli, Gostoc & Kenneth Haight Quests",
+      "steps": [
+        {
+          "id": "fort-haight-clear",
+          "title": "Return to Fort Haight – Clear Demi-Humans",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Fort Haight and clear it of demi-humans.",
+          "mapGenieId": 164002,
+          "timestamp": 1790
+        },
+        {
+          "id": "kenneth-haight-fort",
+          "title": "Speak with Kenneth Haight at Fort Haight",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Kenneth Haight near the top of the fort. Speak through all dialogue.",
+          "mapGenieId": 165656,
+          "timestamp": 1795
+        },
+        {
+          "id": "godrick-grace-trigger",
+          "title": "Rest at Secluded Cell Grace to Trigger NPC Move",
+          "tag": [
+            "quest"
+          ],
+          "description": "Fast travel to Godrick the Grafted grace. If Gostoc is still kicking Godrick's body and the Throne Room is empty, rest at the Secluded Cell grace to trigger the move.",
+          "mapGenieId": 164049,
+          "timestamp": 1802
+        },
+        {
+          "id": "nepheli-ancient-dragon-stone",
+          "title": "Speak with Nepheli in Throne Room – Ancient Dragon Smithing Stone",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Nepheli, Gostoc, and Kenneth should all be in the Throne Room. Speak with Nepheli multiple times for an Ancient Dragon Smithing Stone.",
+          "mapGenieId": 171949,
+          "timestamp": 1815
+        },
+        {
+          "id": "gostoc-ancient-dragon-stone",
+          "title": "Buy Ancient Dragon Smithing Stone from Gostoc (20,000 Runes)",
+          "tag": [
+            "item"
+          ],
+          "description": "Purchase a second Ancient Dragon Smithing Stone from Gostoc for 20,000 runes.",
+          "mapGenieId": 177297,
+          "timestamp": 1825
+        }
+      ]
+    },
+    {
+      "id": "phase-25-forbidden-lands",
+      "title": "Forbidden Lands & Mountaintops Approach",
+      "steps": [
+        {
+          "id": "leyndell-northeast-doors",
+          "title": "Open Northeast Doors on Main Avenue",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to Leyndell. Open the large doors at the northeast end of the main avenue.",
+          "mapGenieId": 171344,
+          "timestamp": 1834
+        },
+        {
+          "id": "perfume-bottle-2",
+          "title": "Pick Up Perfume Bottle (Southeast Water Area)",
+          "tag": [
+            "item"
+          ],
+          "description": "Head along the lower water area. At the southeast edge, pick up another Perfume Bottle (guarded by Misbegotten Warrior).",
+          "mapGenieId": 167176,
+          "timestamp": 1853
+        },
+        {
+          "id": "flamedrake-talisman-plus-1",
+          "title": "Pick Up Flamedrake Talisman +1",
+          "tag": [
+            "item"
+          ],
+          "description": "Double back and cross the large bridge. Pick up the Flamedrake Talisman +1 along the way.",
+          "mapGenieId": 167175,
+          "timestamp": 1876
+        },
+        {
+          "id": "forbidden-lands-grace",
+          "title": "Take Lift Down to Forbidden Lands – Discover Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Take the second lift down to the Forbidden Lands and discover the site of grace.",
+          "mapGenieId": 165470,
+          "timestamp": 1891
+        },
+        {
+          "id": "blade-of-calling",
+          "title": "Pick Up Blade of Calling",
+          "tag": [
+            "item"
+          ],
+          "description": "Take the lift back up. Jump off towards a west alcove shortly after ascending to find the Blade of Calling in a secret room.",
+          "mapGenieId": 169181,
+          "timestamp": 1904
+        },
+        {
+          "id": "grand-lift-of-rold",
+          "title": "Travel to Grand Lift of Rold",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel northeast through the Forbidden Lands to the Grand Lift of Rold.",
+          "mapGenieId": 165469,
+          "timestamp": 1912
+        }
+      ]
+    },
+    {
+      "id": "phase-26-shabriri-millicent-mountaintops",
+      "title": "Shabriri, Millicent & Juno Hoslow",
+      "steps": [
+        {
+          "id": "shabriri-zamor-ruins",
+          "title": "Speak with Shabriri (Yura) at Zamor Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head to Zamor Ruins. Find Yura, now possessed by Shabriri. Speak with him about the Three Fingers and Frenzied Flame. Don't attack him yet.",
+          "mapGenieId": 169813,
+          "timestamp": 1920
+        },
+        {
+          "id": "millicent-snow-valley",
+          "title": "Speak with Millicent at Ancient Snow Valley Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Continue north to the Ancient Snow Valley Ruins. Speak with Millicent through all dialogue. Reload — she leaves.",
+          "mapGenieId": 169055,
+          "timestamp": 1954
+        },
+        {
+          "id": "juno-hoslow-invade",
+          "title": "Invade Juno Hoslow – 'Hoslow's Oath' Gesture",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Go northeast to the frozen river, travel southwest. Find the Red Summoning Sign near the Shack of the Lofty. Pause after invading to get the 'Hoslow's Oath' gesture.",
+          "mapGenieId": 168540,
+          "timestamp": 1967
+        },
+        {
+          "id": "juno-hoslow-defeat",
+          "title": "Defeat Juno Hoslow – Hoslow's Armor Set & Petal Whip",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Defeat Juno Hoslow for the Hoslow's Armor Set and Hoslow's Petal Whip.",
+          "mapGenieId": 168380,
+          "timestamp": 1985
+        }
+      ]
+    },
+    {
+      "id": "phase-27-rykard-volcano-finale",
+      "title": "Volcano Manor Finale – Rykard & Aftermath",
+      "steps": [
+        {
+          "id": "bernahl-gelmirs-fury-check",
+          "title": "Speak with Bernahl for Gelmir's Fury",
+          "tag": [
+            "quest"
+          ],
+          "description": "(If Not Already) At Volcano Manor, speak with Bernahl for Gelmir's Fury Sorcery if you haven't already.",
+          "mapGenieId": 175955,
+          "timestamp": 1988
+        },
+        {
+          "id": "tanith-report-hoslow",
+          "title": "Report Hoslow's Defeat to Tanith – Taker's Cameo",
+          "tag": [
+            "quest"
+          ],
+          "description": "Report your success to Tanith. Receive the Taker's Cameo Talisman.",
+          "mapGenieId": 175931,
+          "timestamp": 1993
+        },
+        {
+          "id": "tanith-transport-rykard",
+          "title": "Accept Tanith's Offer – Transport to Rykard",
+          "tag": [
+            "quest"
+          ],
+          "description": "Accept Tanith's offer to be transported to Volcano Manor's final boss.",
+          "mapGenieId": 168178,
+          "timestamp": 1996
+        },
+        {
+          "id": "serpent-hunter-pickup",
+          "title": "Pick Up the Serpent-Hunter Weapon",
+          "tag": [
+            "item"
+          ],
+          "description": "Discover the site of grace. Pass through the fog wall. Pick up the Serpent-Hunter to your left — the best weapon for this fight. Optionally fast travel to upgrade it first.",
+          "mapGenieId": 169022,
+          "timestamp": 2002
+        },
+        {
+          "id": "rykard-boss",
+          "title": "Defeat Rykard, Lord of Blasphemy",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the God-Devouring Serpent / Rykard. Drops the Remembrance of the Blasphemous and Rykard's Great Rune.",
+          "mapGenieId": 167571,
+          "timestamp": 2016
+        },
+        {
+          "id": "rykard-post-grace",
+          "title": "Discover Post-Rykard Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the new site of grace after defeating Rykard.",
+          "mapGenieId": 167572,
+          "timestamp": 2028
+        },
+        {
+          "id": "volcano-manor-npcs-farewell",
+          "title": "Speak with Tanith, Bernahl, Patches (and Diallos) at Manor",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Return to Volcano Manor hub. Speak with Tanith, Bernahl, and Patches. Also Diallos if still present.",
+          "mapGenieId": 164575,
+          "timestamp": 2032
+        },
+        {
+          "id": "confirm-npcs-left",
+          "title": "Reload and Confirm All NPCs Have Left",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game to confirm all NPCs have left the manor.",
+          "timestamp": 2036
+        },
+        {
+          "id": "my-thanks-gesture",
+          "title": "Pick Up 'My Thanks' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Pick up the 'My Thanks' gesture from where the Ghost NPC was previously located.",
+          "mapGenieId": 168614,
+          "timestamp": 2037
+        }
+      ]
+    },
+    {
+      "id": "phase-28-rya-final",
+      "title": "Rya's Quest – Final Resolution",
+      "steps": [
+        {
+          "id": "rya-final-visit",
+          "title": "Return to Rya via Temple of Eiglay Shortcut",
+          "tag": [
+            "quest"
+          ],
+          "description": "Travel to Temple of Eiglay. Use the shortcut to reach Rya's location deeper in the manor.",
+          "mapGenieId": 178116,
+          "timestamp": 2045
+        },
+        {
+          "id": "rya-refuse-tonic",
+          "title": "Speak with Rya – Refuse to Give Tonic (Best Ending)",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "This is your final chance to give the Tonic. The best ending is to refuse. Speak with Rya and do not give her the Tonic.",
+          "timestamp": 2065
+        },
+        {
+          "id": "rya-reload-items",
+          "title": "Reload – Rya Leaves Behind Daedicar's Woe & Zorayas's Letter",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Reload the game. Rya is gone. Pick up Daedicar's Woe Talisman and Zorayas's Letter.",
+          "timestamp": 2075
+        }
+      ]
+    },
+    {
+      "id": "phase-29-patches-tanith-finale",
+      "title": "Patches & Tanith – Final Steps",
+      "steps": [
+        {
+          "id": "patches-shaded-castle",
+          "title": "Speak with Patches at Castellan's Hall – Dancer's Castanets",
+          "tag": [
+            "quest"
+          ],
+          "description": "Fast travel to Castellan's Hall in the Shaded Castle. Find Patches sat down. Speak through all dialogue to get the Dancer's Castanets. Speak once more, then reload to confirm he leaves.",
+          "mapGenieId": 175929,
+          "timestamp": 2101
+        },
+        {
+          "id": "tanith-dancers-castanets",
+          "title": "Give Tanith the Dancer's Castanets at Rykard's Room",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to the Rykard boss room. Find Tanith. Give her the Dancer's Castanets (no observable effect yet — likely future content).",
+          "mapGenieId": 167573,
+          "timestamp": 2117
+        },
+        {
+          "id": "tanith-dont-attack",
+          "title": "Don't Attack Tanith (Future Content)",
+          "tag": [
+            "warning"
+          ],
+          "description": "Attacking Tanith gives the Consort's Mask but may interfere with future content for Tanith and Patches. Wait until right before New Game+ if you want the mask.",
+          "timestamp": 2130
+        },
+        {
+          "id": "patches-murkwater-reunion",
+          "title": "Return to Murkwater Cave – Patches Reunion",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Murkwater Cave (where you first met Patches). After a moment of déjà vu, Patches recognizes you and surrenders.",
+          "mapGenieId": 164023,
+          "timestamp": 2153
+        },
+        {
+          "id": "patches-crouch-gesture",
+          "title": "Unlock 'Patches Crouch' Gesture and Permanent Shop",
+          "tag": [
+            "gesture"
+          ],
+          "description": "This unlocks the 'Patches Crouch' gesture and gives permanent access to Patches' item shop. If this doesn't trigger, restart the game.",
+          "mapGenieId": 176584,
+          "timestamp": 2166
+        }
+      ]
+    },
+    {
+      "id": "phase-30-warnings",
+      "title": "Before Part 6 – Important Warnings",
+      "steps": [
+        {
+          "id": "avoid-fire-giant-mohg",
+          "title": "Do NOT Defeat Fire Giant or Mohg, Lord of Blood",
+          "tag": [
+            "warning"
+          ],
+          "description": "Hold off on defeating the Fire Giant and Mohg, Lord of Blood until Part 6.",
+          "timestamp": 2197
+        }
+      ]
+    }
+  ]
+}

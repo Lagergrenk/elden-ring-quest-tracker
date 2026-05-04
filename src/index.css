@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+body {
+  background-color: var(--color-void);
+  color: var(--color-parchment-dim);
+}
+
+@theme {
+  /* --- Fonts --- */
+  --font-cinzel: 'Cinzel', serif;
+  --font-garamond: 'EB Garamond', serif;
+  --font-mono-dm: 'DM Mono', monospace;
+
+  /* --- Backgrounds --- */
+  --color-void: #0d0b08;
+  --color-abyss: #131008;
+  --color-ember: #1a1610;
+
+  /* --- Text / Warm Neutrals --- */
+  --color-parchment: #e8d9a8;
+  --color-parchment-dim: #d8c898;
+  --color-parchment-muted: #c8b888;
+  --color-taupe: #8a7a58;
+  --color-taupe-dark: #7a6a48;
+  --color-umber: #6a5a40;
+  --color-umber-dark: #5a4a30;
+
+  /* --- Accents / Gold --- */
+  --color-gold: #d4b870;
+  --color-amber: #d4a830;
+  --color-bronze: #b8963a;
+  --color-amber-dark: #8a6a20;
+
+  /* --- Status: Success --- */
+  --color-moss: #70a850;
+  --color-moss-light: #80a858;
+  --color-moss-dark: #608040;
+
+  /* --- Status: Danger --- */
+  --color-crimson: #c84848;
+  --color-rust: #c87040;
+
+  /* --- Tag Badges --- */
+  --color-tag-quest-start: #7c5cbf;
+  --color-tag-quest: #5a8fd4;
+  --color-tag-invader: #c04890;
+  --color-tag-item: #b8963a;
+  --color-tag-quest-item: #d4a830;
+  --color-tag-gesture: #40a09a;
+  --color-tag-important: #c8a030;
+  --color-tag-progression: #50a070;
+  --color-tag-dialogue: #8a8070;
+  --color-tag-boss: #c87040;
+}

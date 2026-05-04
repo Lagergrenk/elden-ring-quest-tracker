@@ -1,0 +1,1392 @@
+{
+  "id": "caelid-and-altus-plateau",
+  "area": "Caelid & Altus Plateau",
+  "description": "Complete walkthrough covering Caelid, Nokron, Altus Plateau, and early Leyndell. Includes Millicent, Gowry, Radahn, Alexander, Blaidd, Seluvis, Ranni, Dung Eater, Boggart, Nepheli, Corhyn, Boc, and more. Covers critical quest order to keep all choices and rewards available.",
+  "youtubeUrl": "https://youtu.be/P7r-zoCxPMA?si=retrdqz0UEelRNeL&t=",
+  "phases": [
+    {
+      "id": "phase-1-intro-prep",
+      "title": "Scarlet Rot Preparation",
+      "steps": [
+        {
+          "id": "flame-cleanse-me",
+          "title": "Pick Up 'Flame, Cleanse Me' Incantation",
+          "tag": [
+            "item"
+          ],
+          "description": "Found a short distance southeast of the Church of Vows. Cures Scarlet Rot and Poison. Requires 12 Faith (achievable with the Two Fingers Heirloom Talisman from Part 2). Use the Clawmark Seal from Gurranq to cast it.",
+          "mapGenieId": 166672,
+          "timestamp": 18
+        }
+      ]
+    },
+    {
+      "id": "phase-2-caelid-map-greyoll",
+      "title": "Caelid Map & Greyoll's Roar",
+      "steps": [
+        {
+          "id": "caelid-south-map",
+          "title": "Pick Up Southern Caelid Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Venture southeast into Caelid and pick up the Map Fragment near the Southern Aeonia Swamp Bank.",
+          "mapGenieId": 164399,
+          "timestamp": 68
+        },
+        {
+          "id": "greyolls-roar",
+          "title": "Get Greyoll's Roar Legendary Incantation",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "If you defeated Greyoll in Part 2, visit the Cathedral of Dragon Communion. Exchange 3 Dragon Hearts for Greyoll's Roar.",
+          "mapGenieId": 169246,
+          "timestamp": 68
+        }
+      ]
+    },
+    {
+      "id": "phase-3-gowry-millicent-start",
+      "title": "Starting Millicent's Questline",
+      "steps": [
+        {
+          "id": "gowry-shack",
+          "title": "Speak with Gowry at Gowry's Shack",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Travel northeast to Gowry's Shack. Be careful not to alert the Caelid Dog outside. Hear Gowry's request — he asks you to find an Unalloyed Gold Needle in the Swamps of Aeonia.",
+          "mapGenieId": 166842,
+          "timestamp": 97
+        },
+        {
+          "id": "inner-aeonia-grace",
+          "title": "Discover Inner Aeonia Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way west and discover the Inner Aeonia site of grace.",
+          "mapGenieId": 165615,
+          "timestamp": 135
+        },
+        {
+          "id": "millicent-invader-optional",
+          "title": "Fight Millicent as an Invader",
+          "tag": [
+            "invasion",
+            "optional"
+          ],
+          "description": "Head southwest from Inner Aeonia to face Millicent as an invader. Must be done before giving her the needle. Only rewards runes and a Sacramental Bud — no unique rewards.",
+          "mapGenieId": 166650,
+          "timestamp": 135
+        },
+        {
+          "id": "sellia-crystal-tunnel-note",
+          "title": "Sellia Crystal Tunnel for Smithing Stones",
+          "tag": [
+            "info",
+            "farming"
+          ],
+          "description": "The Sellia Crystal Tunnel north of Inner Aeonia has Smithing Stones [5] and Somber Smithing Stones [4]. The Fallingstar Beast boss drops Somberstone Miner's Bell Bearing [1]. May be too challenging right now.",
+          "mapGenieId": 164376,
+          "timestamp": 135
+        }
+      ]
+    },
+    {
+      "id": "phase-4-commander-oneil",
+      "title": "Commander O'Neil & Unalloyed Gold Needle",
+      "steps": [
+        {
+          "id": "commander-oneil",
+          "title": "Defeat Commander O'Neil – Unalloyed Gold Needle",
+          "tag": [
+            "boss"
+          ],
+          "description": "Find Commander O'Neil in a clearing southeast of the Inner Aeonia grace. Cheese tactic: kite him into the Scarlet Rot geysers near the grace while on Torrent (don't summon NPCs to stay mounted). He drops the Commander's Standard and Unalloyed Gold Needle.",
+          "mapGenieId": 166073,
+          "timestamp": 195
+        },
+        {
+          "id": "gowry-give-needle",
+          "title": "Give Gowry the Unalloyed Gold Needle",
+          "tag": ["quest"],
+          "description": "Bring the needle back to Gowry. He gives you the note on Sellia's Secret (how to open the magic seals in the Town of Sellia).",
+          "mapGenieId": 166842,
+          "timestamp": 228
+        },
+        {
+          "id": "gowry-reload-repaired-needle",
+          "title": "Reload and Get Repaired Needle from Gowry",
+          "tag": ["quest"],
+          "description": "Reload the game and speak with Gowry again to receive the repaired Unalloyed Gold Needle.",
+          "mapGenieId": 166842,
+          "timestamp": 240
+        }
+      ]
+    },
+    {
+      "id": "phase-5-sellia-seals",
+      "title": "Opening Sellia's Magic Seals",
+      "steps": [
+        {
+          "id": "sellia-golden-seed",
+          "title": "Pick Up Golden Seed at Erdtree Sapling Near Sellia",
+          "tag": [
+            "item"
+          ],
+          "description": "Head to the Erdtree Sapling near the Town of Sellia to grab a Golden Seed.",
+          "mapGenieId": 165726,
+          "timestamp": 242
+        },
+        {
+          "id": "sellia-candle-tower-1",
+          "title": "Light First Candle Tower",
+          "tag": [
+            "quest"
+          ],
+          "description": "From the Erdtree Sapling, ride across rooftops and vines on Torrent to reach and light the first candle tower.",
+          "mapGenieId": 169046,
+          "timestamp": 242
+        },
+        {
+          "id": "sellia-candle-tower-2",
+          "title": "Light Second Candle Tower",
+          "tag": [
+            "quest"
+          ],
+          "description": "Continue riding across rooftops to reach and light the second candle tower.",
+          "mapGenieId": 169045,
+          "timestamp": 242
+        },
+        {
+          "id": "sellia-candle-tower-3",
+          "title": "Light Third Candle Tower",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reach and light the third and final candle tower to open all magic seals.",
+          "mapGenieId": 169044,
+          "timestamp": 242
+        }
+      ]
+    },
+    {
+      "id": "phase-6-millicent-church-plague",
+      "title": "Millicent at Church of the Plague",
+      "steps": [
+        {
+          "id": "sellia-backstreets",
+          "title": "Pass Through Opened Seal to Sellia Backstreets",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to the Erdtree Sapling and make your way through the now-opened seal to the Sellia Backstreets.",
+          "mapGenieId": 169044,
+          "timestamp": 310
+        },
+        {
+          "id": "church-of-plague-grace",
+          "title": "Rest at Church of the Plague Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head south to the Church of the Plague. Quickly rest at the site of grace to prevent nearby Pest enemies from endangering Millicent.",
+          "mapGenieId": 165582,
+          "timestamp": 315
+        },
+        {
+          "id": "church-plague-sacred-tear",
+          "title": "Pick Up Sacred Tear at Church of the Plague",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Grab the Sacred Tear inside the Church of the Plague.",
+          "mapGenieId": 165584,
+          "timestamp": 315
+        },
+        {
+          "id": "millicent-give-needle",
+          "title": "Give Millicent the Unalloyed Gold Needle",
+          "tag": [
+            "quest"
+          ],
+          "description": "Give Millicent the repaired Unalloyed Gold Needle.",
+          "mapGenieId": 167228,
+          "timestamp": 331
+        },
+        {
+          "id": "millicent-reload-talisman",
+          "title": "Reload and Speak with Millicent – Prosthesis-Wearer's Heirloom",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game by sitting at the site of grace. Speak with Millicent again to receive the Prosthesis-Wearer's Heirloom Talisman.",
+          "mapGenieId": 166727,
+          "timestamp": 337
+        },
+        {
+          "id": "millicent-full-dialogue-church",
+          "title": "Speak Through All of Millicent's Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Go through the rest of Millicent's dialogue at the Church of the Plague.",
+          "mapGenieId": 167228,
+          "timestamp": 337
+        },
+        {
+          "id": "millicent-reload-gone",
+          "title": "Reload – Millicent Should Be Gone",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game again. Millicent should have left the church.",
+          "mapGenieId": 177656,
+          "timestamp": 345
+        }
+      ]
+    },
+    {
+      "id": "phase-7-millicent-gowry-followup",
+      "title": "Millicent at Gowry's Shack",
+      "steps": [
+        {
+          "id": "millicent-at-gowry-shack",
+          "title": "Speak with Millicent at Gowry's Shack",
+          "tag": [
+            "quest"
+          ],
+          "description": "Make your way back to Gowry's Shack. Find Millicent there instead of Gowry. Speak through all dialogue.",
+          "mapGenieId": 167695,
+          "timestamp": 345
+        },
+        {
+          "id": "millicent-reload-gowry-returns",
+          "title": "Reload – Gowry Returns with New Dialogue and Spells",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game. Millicent leaves and Gowry returns with new dialogue and spells for purchase, including Night Maiden's Mist.",
+          "mapGenieId": 167695,
+          "timestamp": 355
+        }
+      ]
+    },
+    {
+      "id": "phase-8-fort-faroth",
+      "title": "Fort Faroth – Radagon's Soreseal & Dectus Medallion",
+      "steps": [
+        {
+          "id": "fort-faroth-enter",
+          "title": "Enter Fort Faroth and Climb to Upper Level",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Enter Fort Faroth and weave through the bottom floor. Quickly locate and climb the ladder to the upper level.",
+          "mapGenieId": 166072,
+          "timestamp": 365
+        },
+        {
+          "id": "dectus-medallion-right",
+          "title": "Pick Up Right Half of Dectus Medallion",
+          "tag": [
+            "key-item"
+          ],
+          "description": "At the top of the ladder, grab the Right Half of the Dectus Medallion.",
+          "mapGenieId": 166653,
+          "timestamp": 365
+        },
+        {
+          "id": "radagons-soreseal",
+          "title": "Pick Up Radagon's Soreseal",
+          "tag": [
+            "legendary-talisman"
+          ],
+          "description": "On the roof below, find the pit with a ladder. Drop in, sprint and jump to a secluded area, dodge past deadly rats, and drop down to find Radagon's Soreseal.",
+          "mapGenieId": 166506,
+          "timestamp": 365
+        },
+        {
+          "id": "fort-faroth-escape",
+          "title": "Escape Fort Faroth",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Climb the ladder and escape the fort.",
+          "timestamp": 365
+        },
+        {
+          "id": "caelid-north-map",
+          "title": "Pick Up Northern Caelid Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "If missing, head west along the road from Fort Faroth. Find the Map Fragment near the Dragonbarrow West site of grace.",
+          "mapGenieId": 164400,
+          "timestamp": 428
+        }
+      ]
+    },
+    {
+      "id": "phase-9-godslayer-optional",
+      "title": "Godslayer's Greatsword",
+      "steps": [
+        {
+          "id": "godslayer-greatsword",
+          "title": "Get Godslayer's Greatsword at Divine Tower of Caelid",
+          "tag": [
+            "boss",
+            "legendary-armament",
+            "optional"
+          ],
+          "description": "Defeat the Godskin Apostle at the Divine Tower of Caelid for the Godslayer's Greatsword. Extremely difficult — not recommended at this point. Guide link in video description.",
+          "mapGenieId": 166668,
+          "timestamp": 437
+        }
+      ]
+    },
+    {
+      "id": "phase-10-radahn-festival",
+      "title": "Radahn Festival & Boss Fight",
+      "steps": [
+        {
+          "id": "impassable-greatbridge",
+          "title": "Travel to Impassable Greatbridge – Use Transporter",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel south from the Southern Aeonia Swamp Bank to the Impassable Greatbridge. Use the transporter to reach the Chamber Outside the Plaza site of grace.",
+          "mapGenieId": 168915,
+          "timestamp": 464
+        },
+        {
+          "id": "jerren-announcement",
+          "title": "Listen to Jerren's Announcement (Don't Interrupt)",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Approach the podium to the north to hear Jerren's speech. Do not speak to other NPCs first — it interrupts his speech.",
+          "mapGenieId": 168920,
+          "timestamp": 464
+        },
+        {
+          "id": "speak-blaidd-festival",
+          "title": "Speak with Blaidd at the Festival",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Blaidd at the Radahn Festival.",
+          "mapGenieId": 168093,
+          "timestamp": 497
+        },
+        {
+          "id": "speak-alexander-festival",
+          "title": "Speak with Alexander at the Festival",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Alexander at the Radahn Festival.",
+          "mapGenieId": 168095,
+          "timestamp": 497
+        },
+        {
+          "id": "therolina-polite-bow",
+          "title": "Interact with Finger Maiden Therolina – 'Polite Bow' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Speak with Finger Maiden Therolina. She won't say anything but gives the 'Polite Bow' gesture.",
+          "mapGenieId": 168108,
+          "timestamp": 497
+        },
+        {
+          "id": "jerren-initiate-radahn",
+          "title": "Speak with Jerren – Initiate Radahn Fight",
+          "tag": [
+            "quest"
+          ],
+          "description": "Once done speaking with everyone, make your way to Jerren and initiate the Radahn fight.",
+          "mapGenieId": 168920,
+          "timestamp": 512
+        },
+        {
+          "id": "heartening-cry-gesture",
+          "title": "Get 'Heartening Cry' Gesture from Jerren's Speech",
+          "tag": [
+            "gesture"
+          ],
+          "description": "After the cutscene, Jerren gives a quick speech unlocking the 'Heartening Cry' gesture.",
+          "mapGenieId": 168109,
+          "timestamp": 518
+        },
+        {
+          "id": "radahn-boss",
+          "title": "Defeat Starscourge Radahn",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Radahn. Summon NPC allies during the opening phase, stun him with heavy attacks, and use the highest dune for cover from his meteor attack. Recommended Vigor: 35–40. He drops the Remembrance of the Starscourge and a Great Rune.",
+          "mapGenieId": 165444,
+          "timestamp": 522
+        }
+      ]
+    },
+    {
+      "id": "phase-11-post-radahn",
+      "title": "Post-Radahn – Blaidd, Alexander & Redmane Castle",
+      "steps": [
+        {
+          "id": "radahn-battlefield-grace",
+          "title": "Discover Site of Grace on Radahn's Battlefield",
+          "tag": [
+            "location"
+          ],
+          "description": "After the cutscene, discover the new site of grace on the battlefield.",
+          "mapGenieId": 166635,
+          "timestamp": 583
+        },
+        {
+          "id": "blaidd-post-radahn",
+          "title": "Speak with Blaidd on the Battlefield",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Blaidd nearby on the battlefield.",
+          "mapGenieId": 168111,
+          "timestamp": 590
+        },
+        {
+          "id": "alexander-post-radahn",
+          "title": "Speak with Alexander on the Battlefield",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Alexander picking through remains a short distance south. Speak through all dialogue until he says 'just you wait, when next we meet' followed by a soft chuckle.",
+          "mapGenieId": 169067,
+          "timestamp": 593
+        },
+        {
+          "id": "jerren-post-radahn",
+          "title": "Speak with Jerren at Redmane Castle Chapel",
+          "tag": ["quest"],
+          "description": "Return to the Chapel at Redmane Castle. Speak with Jerren sitting in a chair. Go through all new dialogue.",
+          "mapGenieId": 168920,
+          "timestamp": 601
+        },
+        {
+          "id": "ruins-greatsword",
+          "title": "Defeat Misbegotten Warrior & Crucible Knight – Ruins Greatsword",
+          "tag": [
+            "boss"
+          ],
+          "description": "Fast travel to Chamber Outside the Plaza. A new boss fight appears in the plaza. Defeat the Misbegotten Warrior and Crucible Knight for the Ruins Greatsword (legendary armament). Can return later if too difficult.",
+          "mapGenieId": 166176,
+          "timestamp": 618
+        }
+      ]
+    },
+    {
+      "id": "phase-12-blaidd-evergaol",
+      "title": "Blaidd & Iji – Forlorn Hound Evergaol",
+      "steps": [
+        {
+          "id": "iji-about-blaidd",
+          "title": "Speak with Iji About Blaidd",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "Speak with Iji to hear what he has to say about Blaidd after the Radahn fight.",
+          "mapGenieId": 165592,
+          "timestamp": 627
+        },
+        {
+          "id": "blaidd-evergaol-trapped",
+          "title": "Find Blaidd Trapped in Forlorn Hound Evergaol",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Blaidd trapped in the Forlorn Hound Evergaol (where Darriwil was fought). Speak with him.",
+          "mapGenieId": 163965,
+          "timestamp": 636
+        },
+        {
+          "id": "blaidd-release-or-iji",
+          "title": "Release Blaidd or Speak with Iji First",
+          "tag": ["quest"],
+          "description": "You can release Blaidd immediately or go back to Iji for more context first. Neither affects NPC endings — just provides additional backstory.",
+          "mapGenieId": 165592,
+          "timestamp": 642
+        }
+      ]
+    },
+    {
+      "id": "phase-13-nokron",
+      "title": "Nokron, Eternal City – Fingerslayer Blade",
+      "steps": [
+        {
+          "id": "nokron-warning",
+          "title": "Do NOT Speak with Ranni After Getting Fingerslayer Blade",
+          "tag": [
+            "warning"
+          ],
+          "description": "After obtaining the Fingerslayer Blade, you MUST avoid speaking with Ranni until Seluvis's quest is complete (Magic Scorpion Charm obtained). Speaking to Ranni causes Seluvis to die.",
+          "timestamp": 659
+        },
+        {
+          "id": "nokron-crater-enter",
+          "title": "Enter Nokron Crater at Fort Haight West",
+          "tag": [
+            "location"
+          ],
+          "description": "Fast travel to Fort Haight West. Make your way down into the giant crater in the ground created by Radahn's defeat.",
+          "mapGenieId": 164013,
+          "timestamp": 659
+        },
+        {
+          "id": "ghostflame-torch",
+          "title": "Pick Up Ghostflame Torch (Tricky Jump)",
+          "tag": [
+            "item"
+          ],
+          "description": "Near the entrance to Nokron, make a tricky sprint jump to reach the Ghostflame Torch — the best light source in the game. Apply the No Skill Ash of War to hold it in your off-hand.",
+          "mapGenieId": 169189,
+          "timestamp": 715
+        },
+        {
+          "id": "nokron-grace",
+          "title": "Reach Nokron, Eternal City Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue making your way through to the Nokron, Eternal City site of grace.",
+          "mapGenieId": 167494,
+          "timestamp": 734
+        },
+        {
+          "id": "ghost-gloveworts-nokron",
+          "title": "Collect Ghost Gloveworts [3] and [4]",
+          "tag": [
+            "item"
+          ],
+          "description": "Keep an eye out for Ghost Gloveworts levels [3] and [4] to level up spirit summons.",
+          "timestamp": 734
+        },
+        {
+          "id": "mimic-tear-boss",
+          "title": "Defeat Mimic Tear Boss",
+          "tag": [
+            "boss"
+          ],
+          "description": "Continue southeast from the Eternal City grace to the Mimic Tear boss arena. Defeat it for 2 Larval Tears and the Silver Tear Mask.",
+          "mapGenieId": 168280,
+          "timestamp": 760
+        },
+        {
+          "id": "ancestral-woods-grace",
+          "title": "Discover Ancestral Woods Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head northeast along the bridge, exit west onto natural terrain, and find the Ancestral Woods site of grace off the beaten path.",
+          "mapGenieId": 167496,
+          "timestamp": 772
+        },
+        {
+          "id": "mimic-tear-ashes",
+          "title": "Pick Up Mimic Tear Legendary Ashen Remains",
+          "tag": [
+            "item"
+          ],
+          "description": "In Night's Sacred Ground, cross a crumbling archway into a building. Find a fog wall dispelled with a Stonesword Key. Inside is the Mimic Tear (legendary spirit summon — consumes HP instead of FP).",
+          "mapGenieId": 167634,
+          "timestamp": 833
+        },
+        {
+          "id": "nights-sacred-ground-grace",
+          "title": "Reach Night's Sacred Ground Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue through Night's Sacred Ground until reaching the site of grace.",
+          "mapGenieId": 167492,
+          "timestamp": 855
+        },
+        {
+          "id": "fingerslayer-blade",
+          "title": "Pick Up Fingerslayer Blade",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Head northeast from the Night's Sacred Ground grace. Pick up the Fingerslayer Blade.",
+          "mapGenieId": 170239,
+          "timestamp": 863
+        },
+        {
+          "id": "great-ghost-glovewort-nokron",
+          "title": "Pick Up Great Ghost Glovewort",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Great Ghost Glovewort found alongside the Fingerslayer Blade.",
+          "mapGenieId": 171079,
+          "timestamp": 863
+        },
+        {
+          "id": "fingerslayer-warning-repeat",
+          "title": "Do NOT Speak with Ranni Until Seluvis's Quest Is Done",
+          "tag": [
+            "warning"
+          ],
+          "description": "Now that you have the Fingerslayer Blade, avoid Ranni until you have the Magic Scorpion Charm from Seluvis.",
+          "timestamp": 869
+        }
+      ]
+    },
+    {
+      "id": "phase-14-alexander-oil-pots",
+      "title": "Alexander's Quest – Oil Pots & Liurnia",
+      "steps": [
+        {
+          "id": "abandoned-merchant-cookbook",
+          "title": "Buy Nomadic Warrior's Cookbook [17] from Abandoned Merchant",
+          "tag": [
+            "item"
+          ],
+          "description": "Fast travel to Siofra River Bank. Head northeast. Eliminate two Ancestral Followers, climb the ladder, drop to a hidden ledge, and find the Abandoned Merchant. Buy the Nomadic Warrior's Cookbook [17] (needed to craft Oil Pots).",
+          "mapGenieId": 167724,
+          "timestamp": 878
+        },
+        {
+          "id": "craft-oil-pots",
+          "title": "Craft Oil Pots (Melted Mushrooms)",
+          "tag": [
+            "item"
+          ],
+          "description": "Craft Oil Pots using Melted Mushrooms (found in subterranean areas). One should be enough but craft a few just in case.",
+          "timestamp": 914
+        },
+        {
+          "id": "alexander-stuck-liurnia",
+          "title": "Find Alexander Stuck Near Jarburg",
+          "tag": ["quest"],
+          "description": "Fast travel to Liurnia Highway North. Head northeast along the path. Find Alexander stuck in a hole near the cliff overlooking Jarburg.",
+          "mapGenieId": 168542,
+          "timestamp": 923
+        },
+        {
+          "id": "alexander-agree-help",
+          "title": "Agree to Help Alexander Again",
+          "tag": ["quest"],
+          "description": "Speak with Alexander and agree to help him out of the hole.",
+          "mapGenieId": 168542,
+          "timestamp": 933
+        },
+        {
+          "id": "alexander-oil-pot-free",
+          "title": "Hit Alexander with an Oil Pot and Free Him",
+          "tag": [
+            "quest"
+          ],
+          "description": "Hit Alexander with an Oil Pot. While the oil effect is visible, swing with heavy or charged weapon attacks to knock him loose.",
+          "timestamp": 936
+        },
+        {
+          "id": "alexander-exalted-flesh",
+          "title": "Receive 3 Exalted Flesh from Alexander",
+          "tag": ["quest"],
+          "description": "Alexander gives you 3 Exalted Flesh and hints his next destination is Mt. Gelmir.",
+          "mapGenieId": 168542,
+          "timestamp": 953
+        }
+      ]
+    },
+    {
+      "id": "phase-15-altus-plateau",
+      "title": "Getting to Altus Plateau",
+      "steps": [
+        {
+          "id": "ruin-strewn-precipice",
+          "title": "Travel Through Ruin-Strewn Precipice",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Travel up the ravine in northern Liurnia to the Ravine-Veiled Village. Make your way through the Ruin-Strewn Precipice, collecting Smithing Stones [3]–[5] along the way.",
+          "mapGenieId": 165512,
+          "timestamp": 968
+        },
+        {
+          "id": "magma-wyrm-makar",
+          "title": "Defeat Magma Wyrm Makar at Precipice Overlook",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Magma Wyrm Makar. Summon options: Boggart (if you bought prawns), Millicent (if you helped her), or Great Horned Tragoth (anyone). Max 2 allies. Drops Magma Wyrm's Scalesword.",
+          "mapGenieId": 166245,
+          "timestamp": 986
+        },
+        {
+          "id": "altus-plateau-lift",
+          "title": "Ascend Lift into Altus Plateau",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the new site of grace and ascend into Altus Plateau using the lift.",
+          "mapGenieId": 166767,
+          "timestamp": 1024
+        }
+      ]
+    },
+    {
+      "id": "phase-16-rya-mt-gelmir-map",
+      "title": "Rya & Mt. Gelmir Map Fragment",
+      "steps": [
+        {
+          "id": "rya-volcano-manor-offer",
+          "title": "Speak with Rya Near Erdtree Gazing Hill",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head east towards the Erdtree Gazing Hill (run past Ancient Dragon Lansseax). Rya offers to take you to Volcano Manor.",
+          "mapGenieId": 176450,
+          "timestamp": 1025
+        },
+        {
+          "id": "rya-accept-for-map",
+          "title": "Accept Rya's Offer (Only for Map Fragment)",
+          "tag": ["quest"],
+          "description": "Accept if you need the Mt. Gelmir map fragment. Do NOT speak with Tanith at the Manor to avoid disrupting questlines.",
+          "mapGenieId": 176450,
+          "timestamp": 1040
+        },
+        {
+          "id": "volcano-manor-grace",
+          "title": "Discover Volcano Manor Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover the site of grace at Volcano Manor. Head out the main door to the northwest.",
+          "mapGenieId": 164575,
+          "timestamp": 1040
+        },
+        {
+          "id": "mt-gelmir-map",
+          "title": "Pick Up Mt. Gelmir Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Wrap down and around the hillside to get the Mt. Gelmir map fragment. Watch out for the giant Spider Hand ambush.",
+          "mapGenieId": 165651,
+          "timestamp": 1055
+        }
+      ]
+    },
+    {
+      "id": "phase-17-altus-leyndell-maps",
+      "title": "Altus Plateau & Leyndell Map Fragments",
+      "steps": [
+        {
+          "id": "altus-highway-junction",
+          "title": "Discover Altus Highway Junction Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Fast travel to Erdtree Gazing Hill. Head east and discover the Altus Highway Junction site of grace.",
+          "mapGenieId": 167000,
+          "timestamp": 1072
+        },
+        {
+          "id": "boc-altus-note",
+          "title": "Boc Appears Near Altus Highway Junction",
+          "tag": [
+            "info"
+          ],
+          "description": "Boc appears nearby if you rest at the Altus Highway Junction grace. Don't interact with him yet.",
+          "mapGenieId": 168040,
+          "timestamp": 1082
+        },
+        {
+          "id": "altus-plateau-map",
+          "title": "Pick Up Altus Plateau Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Travel a short distance north to pick up the Altus Plateau Map Fragment.",
+          "mapGenieId": 165653,
+          "timestamp": 1083
+        },
+        {
+          "id": "royal-capital-map",
+          "title": "Pick Up Royal Capital Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Head east into the outskirts of Leyndell. Grab the Royal Capital Map Fragment near the Outer Wall Phantom Tree.",
+          "mapGenieId": 165652,
+          "timestamp": 1093
+        }
+      ]
+    },
+    {
+      "id": "phase-18-minor-erdtree-church",
+      "title": "Minor Erdtree Church & Melina",
+      "steps": [
+        {
+          "id": "golden-order-seal",
+          "title": "Pick Up Golden Order Seal at Minor Erdtree Church",
+          "tag": [
+            "item"
+          ],
+          "description": "Head southeast to the Minor Erdtree Church. Pick up the Golden Order Seal.",
+          "mapGenieId": 167651,
+          "timestamp": 1101
+        },
+        {
+          "id": "outer-order-gesture",
+          "title": "Speak with Melina – 'Outer Order' Gesture (Easy to Miss)",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Rest at the Minor Erdtree Church site of grace. Speak with Melina to unlock the 'Outer Order' gesture. Very easy to miss.",
+          "mapGenieId": 168680,
+          "timestamp": 1111
+        }
+      ]
+    },
+    {
+      "id": "phase-19-boggart-draconic-sentinel",
+      "title": "Boggart, Draconic Tree Sentinel & Entering Leyndell",
+      "steps": [
+        {
+          "id": "boggart-outer-moat",
+          "title": "Find Boggart in the Outer Moat (If Prawns Were Bought)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Moving clockwise around the outer moat, find Boggart. He now sells Boiled Crab (better than prawns) and has dialogue about the Dung Eater.",
+          "mapGenieId": 168160,
+          "timestamp": 1134
+        },
+        {
+          "id": "draconic-tree-sentinel",
+          "title": "Defeat Draconic Tree Sentinel",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Draconic Tree Sentinel guarding the entrance to Leyndell. Cheese: sneak behind and use Poison Mist repeatedly (found from a scarab in SE Weeping Peninsula). Drops Dragonclaw Shield and Dragon Greatclaw.",
+          "mapGenieId": 167180,
+          "timestamp": 1154
+        },
+        {
+          "id": "east-capital-rampart-grace",
+          "title": "Rest at East Capital Rampart – Melina Departs",
+          "tag": [
+            "location"
+          ],
+          "description": "Enter Leyndell. Rest at the East Capital Rampart site of grace. Melina appears to thank you and temporarily leaves your company.",
+          "mapGenieId": 167193,
+          "timestamp": 1185
+        },
+        {
+          "id": "boc-leyndell-warning",
+          "title": "Do NOT Give Boc a Larval Tear",
+          "tag": [
+            "warning"
+          ],
+          "description": "Boc appears near the East Capital Rampart. Do NOT give him a Larval Tear — it ends tragically. Don't speak with him yet.",
+          "mapGenieId": 168658,
+          "timestamp": 1199
+        }
+      ]
+    },
+    {
+      "id": "phase-20-leyndell-seedbed",
+      "title": "Leyndell – First Seedbed Curse",
+      "steps": [
+        {
+          "id": "leyndell-purpose",
+          "title": "We're Only Here for a Seedbed Curse",
+          "tag": [
+            "info"
+          ],
+          "description": "The only reason to enter Leyndell now is to get a Seedbed Curse for Dung Eater's quest, which is holding up other questlines.",
+          "timestamp": 1203
+        },
+        {
+          "id": "seedbed-curse-leyndell",
+          "title": "Pick Up Seedbed Curse in Leyndell",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Work your way into the capital to find a Seedbed Curse near the entrance area.",
+          "mapGenieId": 167017,
+          "timestamp": 1203
+        },
+        {
+          "id": "avenue-balcony-grace",
+          "title": "Discover Avenue Balcony Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Follow the direct path to discover the Avenue Balcony site of grace.",
+          "mapGenieId": 168116,
+          "timestamp": 1246
+        },
+        {
+          "id": "west-capital-rampart-grace",
+          "title": "Discover West Capital Rampart Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue to discover the West Capital Rampart site of grace.",
+          "mapGenieId": 167126,
+          "timestamp": 1271
+        }
+      ]
+    },
+    {
+      "id": "phase-21-dung-eater-roundtable",
+      "title": "Dung Eater Quest – Roundtable Hold",
+      "steps": [
+        {
+          "id": "dung-eater-sewer-gaol-key",
+          "title": "Speak with Dung Eater – Get Sewer-Gaol Key",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold. Find Dung Eater in a new room near the Twinmaiden Husks. Speak multiple times until he gives you the Sewer-Gaol Key.",
+          "mapGenieId": 169072,
+          "timestamp": 1331
+        },
+        {
+          "id": "curtsy-gesture",
+          "title": "Speak with Roderika After +4 Spirit Summon – 'Curtsy' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Once you've upgraded a spirit summon to +4, speaking with Roderika unlocks the 'Curtsy' gesture.",
+          "mapGenieId": 168968,
+          "timestamp": 1353
+        },
+        {
+          "id": "corhyn-leaving",
+          "title": "Speak with Corhyn – He's Leaving Roundtable Hold",
+          "tag": [
+            "quest"
+          ],
+          "description": "Talk to Corhyn. He informs you that he is leaving Roundtable Hold. We'll find him next in Altus Plateau.",
+          "mapGenieId": 167781,
+          "timestamp": 1360
+        }
+      ]
+    },
+    {
+      "id": "phase-22-sewer-gaol",
+      "title": "Finding Dung Eater in the Sewer-Gaol",
+      "steps": [
+        {
+          "id": "west-rampart-to-streets",
+          "title": "Head from West Capital Rampart Down to Streets Below",
+          "tag": [
+            "location"
+          ],
+          "description": "Starting from the West Capital Rampart, head northwest back down to the streets below.",
+          "mapGenieId": 167126,
+          "timestamp": 1368
+        },
+        {
+          "id": "thunderbolt-scarab",
+          "title": "Defeat Scarab for Thunderbolt Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "Find and defeat a treasure scarab along the way for the Thunderbolt Ash of War.",
+          "mapGenieId": 168146,
+          "timestamp": 1397
+        },
+        {
+          "id": "hidden-well",
+          "title": "Find the Hidden Well to the Sewers",
+          "tag": [
+            "location"
+          ],
+          "description": "To the northeast, find a fairly hidden water-well that takes you to the sewers below.",
+          "timestamp": 1405
+        },
+        {
+          "id": "underground-roadside-grace",
+          "title": "Reach Underground Roadside Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way through the sewers until reaching the Underground Roadside site of grace.",
+          "mapGenieId": 166540,
+          "timestamp": 1405
+        },
+        {
+          "id": "sewer-gaol-navigate",
+          "title": "Navigate to the Sewer-Gaol Door",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "From the Roadside, head northeast, drop left, follow the path northwest past poisonous flowers, climb the ladder, watch for the spider hand, and reach the iron door.",
+          "timestamp": 1448
+        },
+        {
+          "id": "sewer-gaol-open",
+          "title": "Open the Sewer-Gaol Door with the Key",
+          "tag": [
+            "quest"
+          ],
+          "description": "Open the iron door using the Sewer-Gaol Key.",
+          "timestamp": 1485
+        },
+        {
+          "id": "dung-eater-physical-speak",
+          "title": "Speak with Dung Eater – Tell Him to Leave",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with the physical form of Dung Eater inside. Tell him to leave, then go through the rest of his dialogue.",
+          "mapGenieId": 168118,
+          "timestamp": 1488
+        }
+      ]
+    },
+    {
+      "id": "phase-23-boggart-dung-eater-moat",
+      "title": "Boggart's Fate & Dung Eater Invader",
+      "steps": [
+        {
+          "id": "dung-eater-message-roundtable",
+          "title": "Read Dung Eater's Message at Roundtable Hold",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold. Find a message where Dung Eater normally sits — it challenges you to meet at the outer moat.",
+          "mapGenieId": 169072,
+          "timestamp": 1496
+        },
+        {
+          "id": "moat-kill-crab",
+          "title": "Kill the Giant Crab in the Moat First",
+          "tag": [
+            "tip"
+          ],
+          "description": "Unearth and defeat the giant crab in the moat before Dung Eater shows up.",
+          "timestamp": 1508
+        },
+        {
+          "id": "boggart-moat-dialogue",
+          "title": "If Boggart Is at the Moat: Speak Through All His Dialogue",
+          "tag": [
+            "quest"
+          ],
+          "description": "If you bought boiled prawns from Boggart, find him at the moat. Speak through all dialogue.",
+          "mapGenieId": 168160,
+          "timestamp": 1519
+        },
+        {
+          "id": "boggart-reload-speak-again",
+          "title": "Reload and Speak with Boggart Again",
+          "tag": ["quest"],
+          "description": "Reload the game and speak with Boggart once more.",
+          "mapGenieId": 168160,
+          "timestamp": 1526
+        },
+        {
+          "id": "boggart-death",
+          "title": "Boggart Dies – Pick Up Items, Bell Bearing & Seedbed Curse",
+          "tag": ["quest-end"],
+          "description": "Boggart dies and drops his item set, Bell Bearing, and a Seedbed Curse. Quickly pick everything up.",
+          "mapGenieId": 168160,
+          "timestamp": 1531
+        },
+        {
+          "id": "dung-eater-invader-moat",
+          "title": "Defeat Dung Eater Invader – Sword of Milos",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Dung Eater invades at the moat. Defeat him for the Sword of Milos.",
+          "mapGenieId": 169012,
+          "timestamp": 1537
+        },
+        {
+          "id": "boggart-alive-safe-to-buy",
+          "title": "If Boggart Is Alive: Now Safe to Buy Boiled Prawns",
+          "tag": [
+            "info"
+          ],
+          "description": "If you kept Boggart alive by not buying prawns earlier, it's now safe to buy from him. He'll move to the moat and sell Boiled Crabs.",
+          "mapGenieId": 168160,
+          "timestamp": 1544
+        }
+      ]
+    },
+    {
+      "id": "phase-24-dung-eater-seedbed",
+      "title": "Dung Eater – Seedbed Curses & Seluvis's Potion Choice",
+      "steps": [
+        {
+          "id": "dung-eater-roundtable-dialogue",
+          "title": "Speak with Dung Eater at Roundtable Hold Until Done",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold. Speak with Dung Eater multiple times until he has nothing new to say.",
+          "mapGenieId": 168231,
+          "timestamp": 1562
+        },
+        {
+          "id": "dung-eater-gaol-chair",
+          "title": "Find Dung Eater Strapped to Chair in Sewer-Gaol",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to the Sewer-Gaol. Find Dung Eater strapped to a chair, now accepting Seedbed Curses. You can also feed him Seluvis's Potion.",
+          "mapGenieId": 168118,
+          "timestamp": 1571
+        },
+        {
+          "id": "seluvis-potion-choice-info",
+          "title": "Read About Seluvis's Potion Choices Before Deciding",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Three options for who receives Seluvis's Potion: Nepheli, Dung Eater, or Gideon. Read the following steps for rewards and consequences of each.",
+          "timestamp": 1582
+        },
+        {
+          "id": "choice-1-nepheli",
+          "title": "Choice 1: Nepheli – Puppet Summon (Worst Choice)",
+          "tag": [
+            "info"
+          ],
+          "description": "Giving the potion to Nepheli gives a Nepheli puppet summon but prevents completing her full quest (which rewards up to 2 Ancient Dragon Smithing Stones). Only for completion's sake.",
+          "timestamp": 1593
+        },
+        {
+          "id": "choice-2-dung-eater",
+          "title": "Choice 2: Dung Eater – Puppet Summon (Good Choice)",
+          "tag": [
+            "info"
+          ],
+          "description": "Giving the potion to Dung Eater gives a very good puppet summon but prevents his full quest. His quest is required for the Fell Curse ending (worst ending, no achievement). You can reportedly still get the Omen Armor by attacking him after giving the potion.",
+          "timestamp": 1615
+        },
+        {
+          "id": "choice-3-gideon",
+          "title": "Choice 3: Gideon – No Puppet, No Quest Blocked (Safe Choice)",
+          "tag": [
+            "info"
+          ],
+          "description": "Giving the potion to Gideon prevents no questline from being completed, but you miss out on Dung Eater and Nepheli puppet summons. The guide follows this choice.",
+          "timestamp": 1651
+        }
+      ]
+    },
+    {
+      "id": "phase-25-seluvis-quest",
+      "title": "Seluvis's Quest – Puppets & Magic Scorpion Charm",
+      "steps": [
+        {
+          "id": "seluvis-task-complete",
+          "title": "Tell Seluvis the Task Is Complete",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Seluvis at his Rise and inform him the task is complete. Go through any new dialogue.",
+          "mapGenieId": 165877,
+          "timestamp": 1678
+        },
+        {
+          "id": "seluvis-hidden-chamber",
+          "title": "Find Seluvis's Hidden Puppet Chamber",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go to Ranni's Rise (AVOID Ranni). Head northeast to the first ruins. Strike or roll on the false floor to reveal a hidden staircase. Descend to the chamber.",
+          "mapGenieId": 168240,
+          "timestamp": 1686
+        },
+        {
+          "id": "seluvis-puppet-message",
+          "title": "Read 'Seluvis' Puppet. Do Not Touch.' Message",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find the gold message near the southwest corner that reads 'Seluvis' Puppet. Do not touch.' Behind a nearby false wall, find puppet(s).",
+          "timestamp": 1707
+        },
+        {
+          "id": "seluvis-broach-topic",
+          "title": "Return to Seluvis and Broach the Topic of Puppets",
+          "tag": ["quest"],
+          "description": "Return to Seluvis at his Rise and broach the topic. He offers a puppet.",
+          "mapGenieId": 165877,
+          "timestamp": 1723
+        },
+        {
+          "id": "seluvis-puppet-shop-open",
+          "title": "Open Seluvis's Puppet Shop (Starlight Shard Required)",
+          "tag": ["quest"],
+          "description": "To access his puppet shop, have a Starlight Shard in your inventory. If the dialogue doesn't appear: drop and re-pick up shards, quit and reload, fast travel to Ranni's Rise and return, or find a new Starlight Shard.",
+          "mapGenieId": 165877,
+          "timestamp": 1734
+        },
+        {
+          "id": "seluvis-purchase-puppet",
+          "title": "Purchase a Puppet from Seluvis's Shop",
+          "tag": ["quest"],
+          "description": "Purchase at least one puppet to progress his quest. If you gave the potion to Dung Eater, buy the Dung Eater Puppet. If to Nepheli, buy the Dolores Puppet. If to Gideon, buy one of the standard puppets.",
+          "mapGenieId": 165877,
+          "timestamp": 1751
+        },
+        {
+          "id": "seluvis-about-the-scheme",
+          "title": "Speak with Seluvis – Choose 'About the Scheme'",
+          "tag": ["quest"],
+          "description": "Leave the conversation, then speak with Seluvis again. Choose the new 'About the Scheme' option. He requests an Amber Starlight shard.",
+          "mapGenieId": 165877,
+          "timestamp": 1796
+        },
+        {
+          "id": "amber-starlight-location",
+          "title": "Pick Up Amber Starlight Shard in Altus Plateau",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Find the Amber Starlight shard in a crater northeast of the Altus Highway Junction site of grace.",
+          "timestamp": 1806
+        },
+        {
+          "id": "seluvis-give-amber-starlight",
+          "title": "Give Seluvis the Amber Starlight",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Seluvis and give him the Amber Starlight.",
+          "mapGenieId": 167876,
+          "timestamp": 1821
+        },
+        {
+          "id": "seluvis-magic-scorpion-charm",
+          "title": "Speak with Seluvis Again – Receive Magic Scorpion Charm",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Seluvis a second time. He gives you the Magic Scorpion Charm Talisman (boosts magical damage, lowers defenses).",
+          "mapGenieId": 169028,
+          "timestamp": 1825
+        }
+      ]
+    },
+    {
+      "id": "phase-26-seluvis-optional-finish",
+      "title": "Finishing Seluvis's Quest (Amber Draught)",
+      "steps": [
+        {
+          "id": "seluvis-stop-or-continue",
+          "title": "You Can Stop Seluvis's Quest Here Safely",
+          "tag": [
+            "info"
+          ],
+          "description": "At this point you can stop doing Seluvis's quest with no consequence to Ranni's questline. Or you can finish it and repair the damage with Celestial Dew.",
+          "timestamp": 1835
+        },
+        {
+          "id": "seluvis-amber-draught",
+          "title": "Reload and Get Amber Draught from Seluvis",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game and speak with Seluvis to receive the Amber Draught.",
+          "mapGenieId": 165877,
+          "timestamp": 1852
+        },
+        {
+          "id": "ranni-amber-draught-choice",
+          "title": "Bring Amber Draught to Ranni – Choose to Administer or Not",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Bring the Draught to Ranni at the top of her Rise. If you choose not to administer it, it disappears and the game acts as if you never got it. If you administer it, Ranni becomes angry, disappears, and you must seek Absolution at the Church of Vows.",
+          "mapGenieId": 166221,
+          "timestamp": 1859
+        },
+        {
+          "id": "absolution-if-needed",
+          "title": "Seek Absolution at Church of Vows (If You Administered the Draught)",
+          "tag": [
+            "quest"
+          ],
+          "description": "If you administered the Draught, go to the Church of Vows and seek Absolution to restore Ranni to friendly status.",
+          "mapGenieId": 165501,
+          "timestamp": 1890
+        }
+      ]
+    },
+    {
+      "id": "phase-27-ranni-fingerslayer",
+      "title": "Ranni's Quest – Fingerslayer Blade & Seluvis's End",
+      "steps": [
+        {
+          "id": "ranni-give-fingerslayer",
+          "title": "Give Ranni the Fingerslayer Blade",
+          "tag": ["quest"],
+          "description": "With Ranni at the top of her Rise, give her the Fingerslayer Blade.",
+          "mapGenieId": 166221,
+          "timestamp": 1908
+        },
+        {
+          "id": "ranni-inverted-statue",
+          "title": "Receive the Inverted Carian Statue from Ranni",
+          "tag": ["quest"],
+          "description": "Speak through Ranni's dialogue until she gives you the Inverted Carian Statue.",
+          "mapGenieId": 166221,
+          "timestamp": 1913
+        },
+        {
+          "id": "seluvis-death",
+          "title": "Find Seluvis's Remains at His Rise",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Go to Seluvis's Rise. Find his remains along with the Preceptor Armor Set and Bell Bearing. You can still buy puppets by interacting with his body.",
+          "mapGenieId": 165495,
+          "timestamp": 1920
+        }
+      ]
+    },
+    {
+      "id": "phase-28-pidia-nepheli",
+      "title": "Pidia's End & Nepheli's Stormhawk King",
+      "steps": [
+        {
+          "id": "pidia-bell-bearing",
+          "title": "Visit Pidia – Pick Up Bell Bearing & Puppet",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Drop off the cliff near Seluvis's Rise to lower Caria Manor. Pidia drops his Bell Bearing and a puppet (Nepheli Puppet if you gave her the potion, otherwise Dolores Puppet).",
+          "mapGenieId": 167407,
+          "timestamp": 1934
+        },
+        {
+          "id": "nepheli-stormhawk-king",
+          "title": "Give Nepheli the Stormhawk King (If Potion Was Not Given to Her)",
+          "tag": [
+            "quest"
+          ],
+          "description": "If you did NOT give Seluvis's potion to Nepheli, you can now give her the Stormhawk King key item. This essentially completes her quest, but she won't move to her final location until after defeating Morgott.",
+          "mapGenieId": 171952,
+          "timestamp": 1955
+        }
+      ]
+    }
+  ]
+}

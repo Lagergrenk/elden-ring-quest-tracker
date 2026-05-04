@@ -1,0 +1,1091 @@
+{
+  "id": "mountaintops-snowfield",
+  "area": "Mountaintops & Consecrated Snowfield",
+  "description": "Complete walkthrough covering Hyetta's quest and the Frenzied Flame, Fia's full questline, Mountaintops exploration, Founding Rain of Stars, Corhyn/Goldmask progression, Castle Sol, Haligtree Medallion, Consecrated Snowfield, Mohgwyn Palace, Varre quest ending, Latenna quest ending, and Ordina Evergaol puzzle.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=cYj5xXNjInY&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=6&t=",
+  "phases": [
+    {
+      "id": "phase-1-sewers-forsaken-depths",
+      "title": "Leyndell Sewers to Forsaken Depths",
+      "steps": [
+        {
+          "id": "underground-roadside-start",
+          "title": "Travel to Underground Roadside Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Begin at the Underground Roadside site of grace in the Leyndell sewers.",
+          "timestamp": 30
+        },
+        {
+          "id": "sewer-first-shortcut",
+          "title": "Navigate Sewers to First Shortcut",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Make your way through the sewer maze to reach the first checkpoint/shortcut.",
+          "timestamp": 30
+        },
+        {
+          "id": "sewer-lever-gate",
+          "title": "Pull Lever to Open Shortcut Gate",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Pull the lever to the right to open a nearby gate shortcut.",
+          "timestamp": 83
+        },
+        {
+          "id": "sewer-to-forsaken-depths",
+          "title": "Navigate Sewers to Forsaken Depths",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Continue through the sewers to reach the Forsaken Depths.",
+          "timestamp": 136
+        }
+      ]
+    },
+    {
+      "id": "phase-2-mohg-the-omen",
+      "title": "Mohg, the Omen & Frenzied Flame Proscription",
+      "steps": [
+        {
+          "id": "mohg-the-omen",
+          "title": "Defeat Mohg, the Omen",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Mohg the Omen. He's similar to Mohg Lord of Blood but easier.",
+          "timestamp": 207
+        },
+        {
+          "id": "mohg-omen-grace",
+          "title": "Discover and Rest at Post-Mohg Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Discover and rest at the site of grace after Mohg.",
+          "timestamp": 222
+        },
+        {
+          "id": "melina-frenzied-warning",
+          "title": "Speak with Melina – She Warns Against the Frenzied Flame",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Resting at the grace gives the option to speak with Melina. She warns you not to inherit the Frenzied Flame.",
+          "timestamp": 222
+        },
+        {
+          "id": "erdtree-favor-plus-1",
+          "title": "Pick Up Erdtree's Favor +1 Talisman",
+          "tag": [
+            "item"
+          ],
+          "description": "Grab the Erdtree's Favor +1 talisman from the chest nearby.",
+          "timestamp": 229
+        },
+        {
+          "id": "hit-altar-secret-passage",
+          "title": "Hit the Altar to Open Secret Passage",
+          "tag": [
+            "location"
+          ],
+          "description": "Hit the altar to open a secret passage leading to the Frenzied Flame Proscription — the creepiest location and hardest platforming section.",
+          "timestamp": 234
+        }
+      ]
+    },
+    {
+      "id": "phase-3-frenzied-flame-descent",
+      "title": "Frenzied Flame Proscription – Descent",
+      "steps": [
+        {
+          "id": "nomadic-merchant-armor",
+          "title": "Pick Up Nomadic Merchant's Armor Set",
+          "tag": [
+            "item"
+          ],
+          "description": "At the start of the descent, bait frenzied enemies into destroying tent structures with their flames. Pick up the Nomadic Merchant's Armor Set underneath.",
+          "timestamp": 244
+        },
+        {
+          "id": "platform-descent",
+          "title": "Platform Down to the Bottom",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Sprint-jump to the first platform, then non-sprint jumps for the rest of the way down.",
+          "timestamp": 263
+        },
+        {
+          "id": "inescapable-frenzy",
+          "title": "Pick Up Inescapable Frenzy Incantation",
+          "tag": [
+            "item"
+          ],
+          "description": "Near the bottom, pick up the Inescapable Frenzy incantation.",
+          "timestamp": 290
+        },
+        {
+          "id": "fingerprint-stone-shield",
+          "title": "Pick Up Fingerprint Stone Shield",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Fingerprint Stone Shield nearby.",
+          "timestamp": 303
+        },
+        {
+          "id": "miquellas-needle-note",
+          "title": "Pick Up Note About Miquella's Needle",
+          "tag": [
+            "item"
+          ],
+          "description": "Bait the frenzied enemy into destroying the tent. Under it, find a note about Miquella's Needle.",
+          "timestamp": 320
+        },
+        {
+          "id": "bottom-grace",
+          "title": "Reach Bottom – Activate Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Drop safely to the bottom. Activate and rest at the site of grace.",
+          "timestamp": 328
+        },
+        {
+          "id": "melina-final-dialogue",
+          "title": "Speak with Melina – Additional Final Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Resting at this grace allows speaking with Melina for additional and final dialogue.",
+          "timestamp": 347
+        }
+      ]
+    },
+    {
+      "id": "phase-4-frenzied-flame-choice",
+      "title": "Hyetta's Quest – Frenzied Flame Decision",
+      "steps": [
+        {
+          "id": "hyetta-location",
+          "title": "Locate Hyetta Near the Three Fingers Door",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Hyetta nearby. She instructs you to remove all armor and open the doors to be welcomed by the Three Fingers.",
+          "timestamp": 352
+        },
+        {
+          "id": "frenzied-flame-choice-explained",
+          "title": "IMPORTANT: Read Consequences Before Inheriting Frenzied Flame",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Consequences of inheriting: 1) Melina leaves permanently. 2) You burn the Erdtree yourself (Melina doesn't sacrifice herself). 3) You need Miquella's Needle from Millicent's quest to reverse it, or you're locked into the Lord of Frenzied Flame ending. Can wait until after Millicent's quest to decide.",
+          "timestamp": 363
+        },
+        {
+          "id": "recommendation-wait",
+          "title": "Recommendation: Wait Until After Millicent's Quest to Decide",
+          "tag": [
+            "tip"
+          ],
+          "description": "If unsure, wait until after completing Millicent's quest to decide. We will revisit this decision later.",
+          "timestamp": 418
+        },
+        {
+          "id": "inherit-frenzied-flame",
+          "title": "Optional: Strip Down and Inherit the Frenzied Flame",
+          "tag": [
+            "quest"
+          ],
+          "description": "If you've decided to inherit: remove all armor, open the doors, and be welcomed by the Three Fingers. Can also be done after beating the game.",
+          "timestamp": 440
+        },
+        {
+          "id": "hyetta-frenzied-flame-seal",
+          "title": "If Inherited: Speak with Hyetta – Frenzied Flame Seal",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "After inheriting, speak through all of Hyetta's dialogue to get the Frenzied Flame Seal.",
+          "timestamp": 452
+        },
+        {
+          "id": "melina-leaves",
+          "title": "If Inherited: Melina Leaves Permanently at Next Grace",
+          "tag": [
+            "quest"
+          ],
+          "description": "The next time you rest at a site of grace, Melina will be upset and leave permanently.",
+          "timestamp": 461
+        }
+      ]
+    },
+    {
+      "id": "phase-5-fia-deeproot-depths",
+      "title": "Fia's Quest – Deeproot Depths",
+      "steps": [
+        {
+          "id": "false-wall-deeproot",
+          "title": "Find False Wall and Secret Path to Deeproot Depths",
+          "tag": [
+            "location"
+          ],
+          "description": "Near Hyetta, find a false wall with a chest behind it. Behind that chest is another false wall with a path leading down into Deeproot Depths.",
+          "timestamp": 466
+        },
+        {
+          "id": "ant-hive-descent",
+          "title": "Descend Roots and Enter Giant Ant Hive",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Carefully make your way down the roots into a Giant Ant Hive.",
+          "timestamp": 483
+        },
+        {
+          "id": "elden-stars",
+          "title": "Pick Up Elden Stars Legendary Incantation",
+          "tag": [
+            "legendary-incantation"
+          ],
+          "description": "On the far side of the ant nest, pick up the Elden Stars incantation from a body. This is the last of the Legendary Incantations.",
+          "timestamp": 559
+        },
+        {
+          "id": "deeproot-depths-grace",
+          "title": "Reach Deeproot Depths Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head west to reach the Deeproot Depths site of grace.",
+          "timestamp": 565
+        },
+        {
+          "id": "deeproot-map",
+          "title": "Pick Up Deeproot Depths Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Head northeast into the Nameless Eternal City. Pick up the map for Deeproot Depths.",
+          "timestamp": 590
+        },
+        {
+          "id": "across-the-roots-grace",
+          "title": "Reach 'Across the Roots' Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue to the 'Across the Roots' site of grace.",
+          "timestamp": 600
+        },
+        {
+          "id": "fia-champions",
+          "title": "Defeat Fia's Champions",
+          "tag": [
+            "boss"
+          ],
+          "description": "Travel to the north side of the water arena. Defeat Fia's Champions for the Fia's Mist Incantation.",
+          "timestamp": 650
+        },
+        {
+          "id": "fia-speak-held",
+          "title": "Speak with Fia – Choose 'No, I Want to Be Held'",
+          "tag": [
+            "quest"
+          ],
+          "description": "Rest at the new grace. Fia appears nearby. Speak with her and choose 'No, I want to be held'. (If you pick wrong, speak again to change.)",
+          "timestamp": 662
+        }
+      ]
+    },
+    {
+      "id": "phase-6-cursemark-of-death",
+      "title": "Fia's Quest – Cursemark of Death",
+      "steps": [
+        {
+          "id": "carian-study-hall",
+          "title": "Place Inverted Statue at Carian Study Hall",
+          "tag": [
+            "quest"
+          ],
+          "description": "Take the Inverted Carian Statue (from Ranni's quest) to the Carian Study Hall southeast of the Church of Vows. Place it on the pedestal.",
+          "timestamp": 671
+        },
+        {
+          "id": "mask-of-confidence",
+          "title": "Pick Up Mask of Confidence",
+          "tag": [
+            "item"
+          ],
+          "description": "Make your way through the inverted structure. Pick up the Mask of Confidence along the way.",
+          "timestamp": 693
+        },
+        {
+          "id": "preceptor-miriam",
+          "title": "Defeat Preceptor Miriam – Lucidity Sorcery",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Preceptor Miriam for the Lucidity Sorcery.",
+          "timestamp": 731
+        },
+        {
+          "id": "platform-to-divine-bridge",
+          "title": "Platform Down and Exit to Divine Bridge",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Platform your way down and exit to the Divine Bridge.",
+          "timestamp": 735
+        },
+        {
+          "id": "godskin-noble-bridge",
+          "title": "Optional: Defeat Godskin Noble for Armor Set",
+          "tag": [
+            "boss"
+          ],
+          "description": "Optionally defeat the Godskin Noble on the bridge for the Godskin Noble Armor Set. Otherwise ride past on Torrent.",
+          "timestamp": 776
+        },
+        {
+          "id": "cursemark-of-death",
+          "title": "Pick Up Cursemark of Death at Divine Tower Top",
+          "tag": [
+            "key-item"
+          ],
+          "description": "At the top of the Divine Tower, get the Stargazer Heirloom Talisman and the Cursemark of Death.",
+          "timestamp": 781
+        }
+      ]
+    },
+    {
+      "id": "phase-7-fia-lichdragon",
+      "title": "Fia's Quest – Lichdragon Fortissax",
+      "steps": [
+        {
+          "id": "fia-give-cursemark",
+          "title": "Give Fia the Cursemark of Death",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Fia. Allow yourself to be held, then give her the Cursemark of Death. Receive the Radiant Baldachin's Blessing (no health debuff).",
+          "timestamp": 786
+        },
+        {
+          "id": "fia-reload-repeat",
+          "title": "Reload and Speak with Fia Until 'This Is Goodbye'",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go through remaining dialogue, rest to reload, speak again. Repeat until Fia starts with 'This is goodbye, my dear'.",
+          "timestamp": 804
+        },
+        {
+          "id": "fia-dream-reload",
+          "title": "Reload – Fia Falls Asleep, Enter Her Dream",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload once more. Fia falls asleep. Enter her dream.",
+          "timestamp": 814
+        },
+        {
+          "id": "lichdragon-fortissax",
+          "title": "Defeat Lichdragon Fortissax",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Lichdragon Fortissax. Drops the Remembrance of the Lichdragon.",
+          "timestamp": 820
+        },
+        {
+          "id": "mending-rune-death-prince",
+          "title": "Pick Up Mending Rune of the Death-Prince",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Find the Mending Rune of the Death-Prince near Fia's sleeping form. Unlocks the Age of the Duskborn ending option.",
+          "timestamp": 832
+        }
+      ]
+    },
+    {
+      "id": "phase-8-d-twin-brother",
+      "title": "Fia's Quest – D's Twin Brother",
+      "steps": [
+        {
+          "id": "siofra-aqueduct",
+          "title": "Travel to Siofra Aqueduct from Ancestral Woods",
+          "tag": [
+            "location"
+          ],
+          "description": "Start at the Ancestral Woods and travel northeast past Spirit Jellyfish. The aqueduct entrance is hidden behind a ledge.",
+          "timestamp": 840
+        },
+        {
+          "id": "d-brother-warning",
+          "title": "WARNING: Giving Twinned Armor Causes Fia's Death",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Giving the Twinned Armor Set to D's brother will cause Fia to be killed. You can hold off until before NG+ if desired.",
+          "timestamp": 879
+        },
+        {
+          "id": "d-twin-give-armor",
+          "title": "Give D's Twin Brother the Twinned Armor Set – 'Inner Order' Gesture",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find D's twin brother near the aqueduct boss room entrance. Give him the Twinned Armor Set. He utters D's real name. Unlock the 'Inner Order' gesture.",
+          "timestamp": 906
+        },
+        {
+          "id": "fia-death-scene",
+          "title": "Return to Fia – She Has Been Slain by D's Brother",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Fia in Deeproot Depths. Find her slain by D's Twin Brother. Pick up Fia's item set.",
+          "timestamp": 937
+        },
+        {
+          "id": "d-brother-dialogue",
+          "title": "Speak with D's Brother – Then Rest at Grace",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak through all of D's Brother's dialogue (don't attack him). Rest at the nearby grace. He vanishes.",
+          "timestamp": 962
+        },
+        {
+          "id": "twinned-armor-inseparable-sword",
+          "title": "Pick Up Twinned Armor Set and Inseparable Sword",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "D's Brother leaves behind the Twinned Armor Set (now returned) and the Inseparable Sword. Fia's questline is complete.",
+          "timestamp": 971
+        }
+      ]
+    },
+    {
+      "id": "phase-9-mountaintops-items",
+      "title": "Mountaintops – Armor, Bell Bearings & Legendary Sorcery",
+      "steps": [
+        {
+          "id": "ronin-armor-shabriri",
+          "title": "Get Ronin's Armor Set (Inherited Flame or Attack Shabriri)",
+          "tag": [
+            "item"
+          ],
+          "description": "If you inherited the Frenzied Flame, find the Ronin's Armor Set where Shabriri was. Otherwise you can attack Shabriri for it (no known ramifications).",
+          "timestamp": 976
+        },
+        {
+          "id": "bell-bearing-3-zamor",
+          "title": "Pick Up Smithing-Stone Miner's Bell Bearing [3] in Zamor Ruins",
+          "tag": [
+            "item"
+          ],
+          "description": "In the Zamor Ruins nearby, find the Smithing-Stone Miner's Bell Bearing [3] (somewhat hidden location).",
+          "timestamp": 1001
+        },
+        {
+          "id": "freezing-lake-grace",
+          "title": "Reach Freezing Lake Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way northeast from Snow Valley Ruins to the Freezing Lake site of grace.",
+          "timestamp": 1030
+        },
+        {
+          "id": "equip-hoarfrost-stomp",
+          "title": "Equip Hoarfrost Stomp Ash of War",
+          "tag": [
+            "tip"
+          ],
+          "description": "Equip the Hoarfrost Stomp Ash of War to a weapon you're proficient with. Needed for the invisible bridge.",
+          "timestamp": 1038
+        },
+        {
+          "id": "invisible-bridge-heretical-rise",
+          "title": "Cross Invisible Bridge to Heretical Rise",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel north then west along the ridge to a broken bridge. A straight invisible bridge connects to Heretical Rise to the southeast. An invisible spiral staircase leads to the second floor (use falling snow or Hoarfrost Stomp to see it).",
+          "timestamp": 1047
+        },
+        {
+          "id": "heretical-rise-seal",
+          "title": "Step into Heretical Rise to Open Magic Seal",
+          "tag": [
+            "location"
+          ],
+          "description": "Stepping into the rise opens the magic seal near the entrance.",
+          "timestamp": 1076
+        },
+        {
+          "id": "founding-rain-of-stars",
+          "title": "Pick Up Founding Rain of Stars Legendary Sorcery",
+          "tag": [
+            "legendary-sorcery"
+          ],
+          "description": "At the top of Heretical Rise, pick up the Founding Rain of Stars. This should be the last legendary spell if following this guide.",
+          "timestamp": 1080
+        },
+        {
+          "id": "east-mountaintops-map",
+          "title": "Pick Up Eastern Mountaintops Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Travel south from Heretical Rise to the Giant's Gravepost area. Pick up the Eastern Mountaintops map.",
+          "timestamp": 1089
+        }
+      ]
+    },
+    {
+      "id": "phase-10-stargazer-corhyn",
+      "title": "Stargazer's Ruins & Corhyn/Goldmask",
+      "steps": [
+        {
+          "id": "stargazer-ruins",
+          "title": "Travel to Stargazer's Ruins",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to where the invisible bridge started. Head southwest past Snow Valley Ruins Overlook. Cross a bridge to Stargazer's Ruins.",
+          "timestamp": 1100
+        },
+        {
+          "id": "spirit-jellyfish-puzzle",
+          "title": "Summon Spirit Jellyfish – 'Fancy Spin' Gesture",
+          "tag": [
+            "gesture"
+          ],
+          "description": "Find a speaking Spirit Jellyfish. Summon your own Spirit Jellyfish ashes (from Roderika). Unlocks the 'Fancy Spin' gesture and opens the seal.",
+          "timestamp": 1114
+        },
+        {
+          "id": "primal-glintstone-blade",
+          "title": "Pick Up Primal Glintstone Blade Talisman",
+          "tag": [
+            "item"
+          ],
+          "description": "Enter the now-opened Stargazer's Ruins for the Primal Glintstone Blade Talisman.",
+          "timestamp": 1128
+        },
+        {
+          "id": "corhyn-goldmask-bridge-mtntops",
+          "title": "Speak with Corhyn and Goldmask on Second Bridge",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head southeast to a second bridge. Find Corhyn and Goldmask. Speak with each.",
+          "timestamp": 1127
+        },
+        {
+          "id": "tonic-to-corhyn",
+          "title": "Optional: Offer Tonic of Forgetfulness to Corhyn",
+          "tag": [
+            "quest"
+          ],
+          "description": "If you have the Tonic from Tanith, try giving it to Corhyn. He refuses but gives unique dialogue. You keep the Tonic. This causes him to stay here rather than move to Capital of Ash.",
+          "timestamp": 1138
+        }
+      ]
+    },
+    {
+      "id": "phase-11-mountaintops-more",
+      "title": "Mountaintops – Seppuku, Bell Bearing & Sacred Tear",
+      "steps": [
+        {
+          "id": "seppuku-ash-of-war",
+          "title": "Defeat Invisible Scarab – Seppuku Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "From Freezing Lake grace, head east-southeast. Spot an invisible treasure scarab. Defeat it for the Seppuku Ash of War.",
+          "timestamp": 1156
+        },
+        {
+          "id": "somberstone-bell-bearing-3",
+          "title": "Pick Up Somber-Stone Miner's Bell Bearing [3]",
+          "tag": [
+            "item"
+          ],
+          "description": "At the far southeast of the Freezing Lake, find the First Church of Marika. The Somber-Stone Miner's Bell Bearing [3] is outside on a body.",
+          "timestamp": 1169
+        },
+        {
+          "id": "sacred-tear-first-church-marika",
+          "title": "Pick Up Sacred Tear at First Church of Marika",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Pick up the Sacred Tear inside the First Church of Marika.",
+          "timestamp": 1181
+        }
+      ]
+    },
+    {
+      "id": "phase-12-guardians-garrison",
+      "title": "Guardian's Garrison & Church of Repose",
+      "steps": [
+        {
+          "id": "guardians-garrison",
+          "title": "Travel Through Guardian's Garrison",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Travel west to the Guardian's Garrison. Make your way through to the end.",
+          "timestamp": 1182
+        },
+        {
+          "id": "arghanthy-boss",
+          "title": "Defeat Chief Guardian Arghanthy – One-Eyed Shield",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the two dogs near Arghanthy first, then fight him. Drops the One-Eyed Shield.",
+          "timestamp": 1223
+        },
+        {
+          "id": "giants-prayerbook",
+          "title": "Pick Up Giant's Prayerbook",
+          "tag": [
+            "item"
+          ],
+          "description": "Climb the nearby tower to the top for the Giant's Prayerbook.",
+          "timestamp": 1234
+        },
+        {
+          "id": "giants-gravepost",
+          "title": "Cross Chain to Giant's Gravepost",
+          "tag": [
+            "location"
+          ],
+          "description": "Move south along the giant chain to reach the Giant's Gravepost.",
+          "timestamp": 1245
+        },
+        {
+          "id": "okina-invader",
+          "title": "Defeat Bloody Finger Okina – Rivers of Blood & Okina Mask",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Head southwest to the Church of Repose. Okina invades. Defeat him for the Okina Mask and Rivers of Blood katana.",
+          "timestamp": 1254
+        },
+        {
+          "id": "sacred-tear-church-repose",
+          "title": "Pick Up Last Sacred Tear at Church of Repose",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Inside the Church of Repose, find the last Sacred Tear needed to upgrade flasks to maximum potency (+12).",
+          "timestamp": 1262
+        }
+      ]
+    },
+    {
+      "id": "phase-13-castle-sol",
+      "title": "Castle Sol & Haligtree Medallion",
+      "steps": [
+        {
+          "id": "castle-sol-approach",
+          "title": "Travel to Castle Sol",
+          "tag": [
+            "location"
+          ],
+          "description": "Fast travel to Snow Valley Ruins Overlook. Head west then descend northeast slopes towards Castle Sol.",
+          "timestamp": 1279
+        },
+        {
+          "id": "stormhawk-axe-2",
+          "title": "Pick Up Second Stormhawk Axe",
+          "tag": [
+            "item"
+          ],
+          "description": "In Castle Sol, pick up the second Stormhawk Axe.",
+          "timestamp": 1296
+        },
+        {
+          "id": "eclipse-shotel",
+          "title": "Pick Up Eclipse Shotel (Legendary Armament) in Church of the Eclipse",
+          "tag": [
+            "legendary-armament"
+          ],
+          "description": "Make your way to the Church of the Eclipse within Castle Sol. Pick up the Eclipse Shotel.",
+          "timestamp": 1340
+        },
+        {
+          "id": "castle-sol-lift-shortcut",
+          "title": "Activate Lift Shortcut Near Boss Room",
+          "tag": [
+            "location"
+          ],
+          "description": "Activate the lift near the boss room to bypass the Spectral Knights. Easily reached from Castle Sol Main Gate grace.",
+          "timestamp": 1390
+        },
+        {
+          "id": "commander-niall",
+          "title": "Defeat Commander Niall",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat Commander Niall (similar to O'Neil but with Chill and two Spectral Banished Knights). Use a strong +10 summon. Bewitching Branch on a knight helps. Drops Veteran's Prosthesis.",
+          "timestamp": 1402
+        },
+        {
+          "id": "haligtree-medallion-left",
+          "title": "Pick Up Left Half of Haligtree Medallion",
+          "tag": [
+            "key-item"
+          ],
+          "description": "After defeating Niall, ascend the tower to the north using the lift. Retrieve the left half of the Haligtree Medallion.",
+          "timestamp": 1464
+        }
+      ]
+    },
+    {
+      "id": "phase-14-secret-medallion",
+      "title": "Using the Haligtree Medallion & Consecrated Snowfield",
+      "steps": [
+        {
+          "id": "hoist-secret-medallion",
+          "title": "Use Secret Medallion at Grand Lift of Rold",
+          "tag": [
+            "location"
+          ],
+          "description": "Fast travel to Grand Lift of Rold. Instead of the Rold Medallion, flip options and choose 'Hoist the Secret Medallion'. Teleports to Hidden Path to the Haligtree.",
+          "timestamp": 1488
+        },
+        {
+          "id": "hidden-path-run-through",
+          "title": "Run Through Hidden Path to Exit",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "This dungeon has invisible platforms (explorable later). For now, run straight to the exit and site of grace.",
+          "timestamp": 1509
+        },
+        {
+          "id": "snowfield-navigate-north",
+          "title": "Navigate Blizzard North to Consecrated Snowfield Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "From the cave opening, head almost directly north with a slight east tilt using your compass. Reach the Consecrated Snowfield site of grace.",
+          "timestamp": 1536
+        },
+        {
+          "id": "inner-snowfield-grace",
+          "title": "Navigate North to Inner Consecrated Snowfield Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head directly north. Skirt around rocky formations on the right side, drop down, then head northwest to the Inner Consecrated Snowfield grace.",
+          "timestamp": 1555
+        },
+        {
+          "id": "consecrated-snowfield-map",
+          "title": "Pick Up Consecrated Snowfield Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Head a little further north from the Inner grace to grab the map.",
+          "timestamp": 1587
+        }
+      ]
+    },
+    {
+      "id": "phase-15-snowfield-invaders",
+      "title": "Consecrated Snowfield – Invaders & Mohgwyn Transporter",
+      "steps": [
+        {
+          "id": "anastasia-final",
+          "title": "Defeat Anastasia Tarnished-Eater (Final) – Somber Ancient Dragon Stone",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Along the frozen river northwest, Anastasia invades for the final time. Drops a Somber Ancient Dragon Smithing Stone.",
+          "timestamp": 1597
+        },
+        {
+          "id": "sanguine-noble-invader",
+          "title": "Defeat Sanguine Noble – Sanguine Noble Armor Set",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Travel west. The Sanguine Noble invades near a large tree with red foliage. Drops the Sanguine Noble Armor Set.",
+          "timestamp": 1603
+        },
+        {
+          "id": "mohgwyn-transporter",
+          "title": "Find Transporter to Mohgwyn Palace",
+          "tag": [
+            "location"
+          ],
+          "description": "Near the west ridge, find the transporter to Mohgwyn Palace (accessible to all players).",
+          "timestamp": 1617
+        }
+      ]
+    },
+    {
+      "id": "phase-16-mohgwyn-palace",
+      "title": "Mohgwyn Palace – White Mask, Varre & Mohg",
+      "steps": [
+        {
+          "id": "eliminate-giant-crow",
+          "title": "Eliminate the Giant Crow on Nearby Landmass",
+          "tag": [
+            "enemy"
+          ],
+          "description": "Equip a crossbow two-handed. Sit at the grace and stand up. Move to the ledge, aim, and shoot the bird between tree branches to goad it off the cliff.",
+          "timestamp": 1634
+        },
+        {
+          "id": "nameless-white-mask",
+          "title": "Defeat Specific Nameless White Mask – War Surgeon Armor Set",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Head down the north path, stick left, find a west pathway, jump over a ledge. Travel south along the cliffside behind a massive tree. Defeat the specific White Mask invader for the White Mask and War Surgeon armor set (only this one of 3 invaders drops it).",
+          "timestamp": 1694
+        },
+        {
+          "id": "dynasty-mausoleum-entrance",
+          "title": "Reach Dynasty Mausoleum Entrance – Pick Up Map",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to Palace Approach. Travel northwest, curving counterclockwise to the Dynasty Mausoleum Entrance. Pick up the map on a body before the grace.",
+          "timestamp": 1705
+        },
+        {
+          "id": "dynasty-mausoleum-midpoint",
+          "title": "Reach Dynasty Mausoleum Midpoint Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head through the mausoleum to the midpoint site of grace.",
+          "timestamp": 1772
+        },
+        {
+          "id": "varre-invade-defeat",
+          "title": "Invade and Defeat White Mask Varre",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find the Red Summoning Sign near the midpoint grace. Invade and defeat White Mask Varre.",
+          "timestamp": 1805
+        },
+        {
+          "id": "varre-quest-ending",
+          "title": "Speak with Varre – Quest Ending, Varre's Bouquet",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Find Varre on the ground. Speak through all dialogue to complete his quest and receive Varre's Bouquet weapon.",
+          "timestamp": 1816
+        },
+        {
+          "id": "mohg-lord-of-blood",
+          "title": "Defeat Mohg, Lord of Blood (When Ready)",
+          "tag": [
+            "boss"
+          ],
+          "description": "Challenge Mohg when ready (difficult fight). Mix the Purifying Crystal Tear (from Eleanora in Part 4) into your Physick Flask to counter his curse. No longer locks out any content.",
+          "timestamp": 1824
+        }
+      ]
+    },
+    {
+      "id": "phase-17-golden-order-greatsword",
+      "title": "Golden Order Greatsword (Legendary Armament)",
+      "steps": [
+        {
+          "id": "cave-of-forlorn",
+          "title": "Enter Cave of the Forlorn (2 Stonesword Keys)",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Travel east from Inner Consecrated Snowfield along the frozen river. Find the Cave of the Forlorn. Use 2 Stonesword Keys to enter.",
+          "timestamp": 1852
+        },
+        {
+          "id": "cave-forlorn-navigate",
+          "title": "Navigate to Boss via Hidden Path",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Head through the right passage. Find two small glaciers on the left. Go behind the smaller one, climb up, leap to the other. Drop through the hole. Run past jellyfish, descend a second hole.",
+          "timestamp": 1870
+        },
+        {
+          "id": "misbegotten-crusader",
+          "title": "Defeat Misbegotten Crusader – Golden Order Greatsword (Legendary)",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Misbegotten Crusader for the Golden Order Greatsword (second to last legendary armament).",
+          "timestamp": 1914
+        }
+      ]
+    },
+    {
+      "id": "phase-18-latenna-quest-end",
+      "title": "Latenna's Quest Ending",
+      "steps": [
+        {
+          "id": "apostate-derelict-church",
+          "title": "Travel to Apostate Derelict Church (Northwest Corner)",
+          "tag": [
+            "location"
+          ],
+          "description": "From Inner Consecrated Snowfield, travel to the far northwest corner. Dodge the walking mausoleum's explosive projectiles and take it down. Enter the church.",
+          "timestamp": 1927
+        },
+        {
+          "id": "silver-mirrorshield",
+          "title": "Pick Up Silver Mirrorshield",
+          "tag": [
+            "item"
+          ],
+          "description": "Inside the church, find the Silver Mirrorshield.",
+          "timestamp": 1959
+        },
+        {
+          "id": "latenna-summon-sister",
+          "title": "Summon Latenna Near the Sleeping Albinauric",
+          "tag": [
+            "quest"
+          ],
+          "description": "Approach the giant sleeping Albinauric. Summon Latenna. She shares dialogue with her sister.",
+          "timestamp": 1966
+        },
+        {
+          "id": "latenna-somber-stone",
+          "title": "Speak with Latenna – Somber Ancient Dragon Smithing Stone",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "Speak with Latenna to receive a Somber Ancient Dragon Smithing Stone. Latenna's quest is complete.",
+          "timestamp": 1976
+        }
+      ]
+    },
+    {
+      "id": "phase-19-ordina-evergaol",
+      "title": "Ordina Evergaol Puzzle – Path to Haligtree",
+      "steps": [
+        {
+          "id": "ordina-grace",
+          "title": "Travel to Ordina, Liturgical Town",
+          "tag": [
+            "location"
+          ],
+          "description": "Return to Inner Consecrated Snowfield. Travel north to Ordina, Liturgical Town.",
+          "timestamp": 1980
+        },
+        {
+          "id": "ordina-plaque",
+          "title": "Read Plaque and Find Evergaol",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head north into town. Loop counterclockwise around the main structure. Read the plaque and find the Evergaol nearby.",
+          "timestamp": 1988
+        },
+        {
+          "id": "black-knife-armor",
+          "title": "Pick Up Black Knife Armor Set",
+          "tag": [
+            "item"
+          ],
+          "description": "Find the Black Knife Assassin armor set beneath the large staircase northeast of the Evergaol.",
+          "timestamp": 1999
+        },
+        {
+          "id": "evergaol-figure-1",
+          "title": "Light First Figure (Straight Ahead, Ladders)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Enter the Evergaol. Use Assassin's Gambit. Head straight forward, hop barriers, climb ladders to the first figure.",
+          "timestamp": 2003
+        },
+        {
+          "id": "evergaol-figure-2",
+          "title": "Light Second Figure (Northeast Rooftops)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Refresh Assassin's Gambit. Move northeast along rooftops. Defeat the archer near the second ladders before lighting the second figure.",
+          "timestamp": 2044
+        },
+        {
+          "id": "evergaol-figure-3",
+          "title": "Light Third Figure (Southwest, Climb Ruins)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Use Gambit again. Drop down, head southwest. Climb crumbled ruins and deal with the rooftop archer before heading northwest to the third figure.",
+          "timestamp": 2065
+        },
+        {
+          "id": "evergaol-figure-4",
+          "title": "Light Fourth Figure (Sprint to Final Figure)",
+          "tag": [
+            "quest"
+          ],
+          "description": "Use Gambit once more. Drop to the street and sprint to the final figure. An invisible assassin may try to stop you — move fast.",
+          "timestamp": 2092
+        },
+        {
+          "id": "haligtree-transporter",
+          "title": "Ascend Northeast Staircase – Transporter to Haligtree",
+          "tag": [
+            "location"
+          ],
+          "description": "After lighting all four figures, return to the entrance. The northeast staircase is now accessible. At the top, use the transporter to reach the Haligtree.",
+          "timestamp": 2111
+        }
+      ]
+    },
+    {
+      "id": "phase-20-warnings",
+      "title": "Before Part 7 – Important Warnings",
+      "steps": [
+        {
+          "id": "avoid-millicent-quest",
+          "title": "WARNING: Don't Complete Millicent's Quest Yet",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Feel free to explore the Haligtree but avoid Millicent and completing her quest — it involves an important choice covered in Part 7.",
+          "timestamp": 2121
+        },
+        {
+          "id": "avoid-fire-giant",
+          "title": "WARNING: Don't Defeat the Fire Giant or Burn the Erdtree",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Avoid defeating the Fire Giant and burning the Erdtree at the Forge of the Giants.",
+          "timestamp": 2132
+        }
+      ]
+    }
+  ]
+}

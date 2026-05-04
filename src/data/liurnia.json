@@ -1,0 +1,1672 @@
+{
+  "id": "liurnia-of-the-lakes",
+  "area": "Liurnia of the Lakes",
+  "description": "Complete walkthrough of Liurnia of the Lakes covering all quests in proper order, ensuring all choices and rewards are available. Includes Boc, Hyetta, Thops, Rya, Boggart, Varre, Nepheli, Latenna, Rogier, Ranni, Seluvis, Fia, and more.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=3tpRQFLSK_w&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=2&t=",
+  "phases": [
+    {
+      "id": "phase-1-intro-and-greyoll",
+      "title": "Greyoll Rune Farm",
+      "steps": [
+        {
+          "id": "greyoll-rune-farm",
+          "title": "Kill Greyoll Dragon for 75,000–100,000 Runes",
+          "tag": [
+            "farming",
+            "optional"
+          ],
+          "description": "Travel to Caelid near Fort Faroth (easily reached from Beastial Sanctum). Hit the large dragon Greyoll's tail with a weapon that has the Bloody Slash Ash of War applied. This kills the dragon in about 5 minutes and rewards 75,000 runes, or 100,000 runes if you use a Gold-Pickled Fowl Foot before the final blow.",
+          "mapGenieId": 166189,
+          "timestamp": 30
+        }
+      ]
+    },
+    {
+      "id": "phase-2-early-liurnia-npcs",
+      "title": "Early Liurnia NPCs",
+      "steps": [
+        {
+          "id": "boc-garment-adjustments",
+          "title": "Rest at Lake-Facing Cliffs – Boc Appears",
+          "tag": [
+            "quest"
+          ],
+          "description": "Rest at the Lake-Facing Cliffs site of grace. Boc should appear and will now offer to make adjustments to your garments, trading weight for defensive stats.",
+          "mapGenieId": 165682,
+          "timestamp": 61
+        },
+        {
+          "id": "hyetta-give-grape",
+          "title": "Give Hyetta a Shabriri Grape – 'As You Wish' Gesture",
+          "tag": [
+            "quest-start",
+            "gesture"
+          ],
+          "description": "Find Hyetta nearby the Lake-Facing Cliffs. She asks for a Shabriri Grape (picked up from the Stormveil Throne room). Give her the grape to receive the 'As You Wish' gesture.",
+          "mapGenieId": 169804,
+          "timestamp": 61
+        },
+        {
+          "id": "hyetta-first-dialogue",
+          "title": "Speak Through All of Hyetta's Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak through all of Hyetta's dialogue before moving on.",
+          "mapGenieId": 169804,
+          "timestamp": 61
+        },
+        {
+          "id": "church-of-irith-sacred-tear",
+          "title": "Pick Up Sacred Tear at Church of Irith",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Stop by the Church of Irith and grab the Sacred Tear.",
+          "mapGenieId": 164850,
+          "timestamp": 94
+        },
+        {
+          "id": "thops-donation",
+          "title": "Speak with Thops and Give a Small Donation",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Speak with Thops at the Church of Irith. Give him a small donation to open dialogue options about Raya Lucaria Academy and Sorceress Sellen. He also sells novice-level sorceries.",
+          "mapGenieId": 165848,
+          "timestamp": 94
+        }
+      ]
+    },
+    {
+      "id": "phase-3-evergaol-and-lakes",
+      "title": "Malefactor's Evergaol & Lake Exploration",
+      "steps": [
+        {
+          "id": "flame-of-fell-god",
+          "title": "Defeat Adan in Malefactor's Evergaol – Flame of the Fell God",
+          "tag": [
+            "boss"
+          ],
+          "description": "Use the spirit spring northwest to reach the Malefactor's Evergaol. Defeat Adan, Thief of Fire, to obtain the legendary incantation Flame of the Fell God.",
+          "mapGenieId": 166505,
+          "timestamp": 122
+        },
+        {
+          "id": "first-liurnia-map",
+          "title": "Pick Up First Liurnia Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Grab the first Liurnia map fragment on your way through the lakes.",
+          "mapGenieId": 164401,
+          "timestamp": 135
+        },
+        {
+          "id": "laskyar-ruins-grace",
+          "title": "Discover Laskyar Ruins Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel through the lakes to the Laskyar Ruins site of grace.",
+          "mapGenieId": 164147,
+          "timestamp": 135
+        },
+        {
+          "id": "patches-scenic-isle",
+          "title": "Speak with Patches at Scenic Isle",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Continue northwest to the Scenic Isle to meet Patches the Untethered. He offers unique dialogue and information.",
+          "mapGenieId": 166734,
+          "timestamp": 135
+        }
+      ]
+    },
+    {
+      "id": "phase-4-rya-boggart-quests",
+      "title": "Rya, Boggart & Boiled Prawn Decision",
+      "steps": [
+        {
+          "id": "rya-necklace-quest",
+          "title": "Speak with Rya – Agree to Retrieve Her Necklace",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Speak with Rya at the pavilion northeast of Scenic Isle. Agree to her request to retrieve her stolen necklace from Boggart.",
+          "mapGenieId": 166813,
+          "timestamp": 135
+        },
+        {
+          "id": "boggart-buy-necklace",
+          "title": "Buy Rya's Necklace from Boggart for 1,000 Runes",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Boggart the Blackguard boiling prawns outside a shack northwest of the pavilion. Do NOT attack him. Buy the necklace for 1,000 runes.",
+          "mapGenieId": 177671,
+          "timestamp": 135
+        },
+        {
+          "id": "boggart-important-choice",
+          "title": "Read About Boggart's Fate Before Proceeding",
+          "tag": [
+            "important-choice"
+          ],
+          "description": "Choice 1: Buy boiled prawns from Boggart now — he will die later as part of Dung Eater's quest. Choice 2: Hold off on buying prawns until a specific step in Dung Eater's quest — Boggart should survive, though some players report this can bug Dung Eater's quest. Currently no special rewards for keeping Boggart alive. The guide follows Choice 1.",
+          "mapGenieId": 166187,
+          "timestamp": 180
+        },
+        {
+          "id": "boggart-buy-prawn",
+          "title": "Choice 1: Buy a Boiled Prawn – 'Spread Out' Gesture",
+          "tag": [
+            "quest"
+          ],
+          "description": "If going with Choice 1, buy a single boiled prawn from Boggart. This gives the 'Spread Out' gesture and opens additional dialogue.",
+          "timestamp": 261
+        },
+        {
+          "id": "boggart-choice-2-note",
+          "title": "Choice 2 Note: Gesture Available Later",
+          "tag": [
+            "info"
+          ],
+          "description": "If choosing Choice 2 (keeping Boggart alive), you will still get the 'Spread Out' gesture later when it's safe to buy prawns.",
+          "timestamp": 261
+        },
+        {
+          "id": "return-necklace-to-rya",
+          "title": "Return Rya's Necklace – Volcano Manor Invitation",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Rya with her necklace. She gives thanks and offers an invitation to Volcano Manor (visited later).",
+          "mapGenieId": 166813,
+          "timestamp": 282
+        },
+        {
+          "id": "rya-full-dialogue",
+          "title": "Speak Through All of Rya's Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak through all of Rya's dialogue before moving on.",
+          "mapGenieId": 166813,
+          "timestamp": 282
+        }
+      ]
+    },
+    {
+      "id": "phase-5-diallos-map-varre",
+      "title": "Diallos, Map Fragments & Varre's Quest",
+      "steps": [
+        {
+          "id": "academy-gatetown-grace",
+          "title": "Discover Academy Gatetown Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head northeast to the Academy Gatetown site of grace.",
+          "mapGenieId": 164149,
+          "timestamp": 296
+        },
+        {
+          "id": "second-liurnia-map",
+          "title": "Pick Up Second Liurnia Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Pick up the second Liurnia Map Fragment near the Academy Gatetown grace.",
+          "mapGenieId": 164574,
+          "timestamp": 296
+        },
+        {
+          "id": "diallos-lanya",
+          "title": "Speak with Diallos Over Lanya's Corpse",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Diallos standing over the corpse of his servant Lanya, a short distance north. Speak through all of his dialogue.",
+          "mapGenieId": 167227,
+          "timestamp": 296
+        },
+        {
+          "id": "third-liurnia-map",
+          "title": "Pick Up Third Liurnia Map Fragment",
+          "tag": [
+            "map-fragment",
+            "optional"
+          ],
+          "description": "The third and final Liurnia map fragment is northwest, near the Northern Liurnia Lakeshore site of grace. You can get it now or later.",
+          "mapGenieId": 164402,
+          "timestamp": 316
+        },
+        {
+          "id": "bell-bearing-crystal-tunnel",
+          "title": "Get Smithing-Stone Miner's Bell Bearing [1]",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "Optionally visit the Raya Lucaria Crystal Tunnel for Smithing Stones [1]–[3] and the Smithing-Stone Miner's Bell Bearing [1].",
+          "mapGenieId": 165497,
+          "timestamp": 316
+        },
+        {
+          "id": "varre-rose-church-dialogue",
+          "title": "Speak with Varre at Rose Church – Choose 'They didn't seem right'",
+          "tag": [
+            "quest"
+          ],
+          "description": "Travel west past the Fallen Ruins of the Lakes to the Rose Church. Speak with White Mask Varre and choose 'They didn't seem right'.",
+          "mapGenieId": 166244,
+          "timestamp": 338
+        },
+        {
+          "id": "varre-festering-fingers",
+          "title": "Get 5 Festering Bloody Fingers from Varre",
+          "tag": [
+            "item"
+          ],
+          "description": "Speak with Varre again to receive 5 Festering Bloody Fingers.",
+          "timestamp": 338
+        },
+        {
+          "id": "varre-three-invasions",
+          "title": "Invade Other Players 3 Times with Festering Bloody Fingers",
+          "tag": [
+            "multiplayer"
+          ],
+          "description": "Use the Festering Bloody Fingers to invade 3 times (requires online). Win or lose doesn't matter — use Finger Severer immediately for the fastest method. Offline players won't miss anything too important.",
+          "timestamp": 338
+        },
+        {
+          "id": "varre-lord-of-blood-favor",
+          "title": "Speak with Varre – Receive Lord of Blood's Favor",
+          "tag": [
+            "quest"
+          ],
+          "description": "After 3 invasions, speak with Varre. He gives the Lord of Blood's Favor key item, instructing you to soak it in the blood of a maiden.",
+          "timestamp": 338
+        }
+      ]
+    },
+    {
+      "id": "phase-6-albinauric-village",
+      "title": "Village of the Albinaurics",
+      "steps": [
+        {
+          "id": "travel-to-albinauric-village",
+          "title": "Travel to Albinauric Village",
+          "tag": [
+            "location"
+          ],
+          "description": "From Scenic Isle, head west towards Albinauric Village, passing into the large poisonous cavern beneath Moonlight Altar.",
+          "mapGenieId": 165509,
+          "timestamp": 395
+        },
+        {
+          "id": "nepheli-albinauric-village",
+          "title": "Speak with Nepheli Under the Stone Bridge",
+          "tag": [
+            "quest"
+          ],
+          "description": "On the ramp leading into the village, underneath a stone bridge, find Nepheli. Speak through all of her dialogue.",
+          "mapGenieId": 166240,
+          "timestamp": 395
+        },
+        {
+          "id": "albinauric-village-grace",
+          "title": "Discover Village of the Albinaurics Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue to the Village of the Albinaurics site of grace.",
+          "mapGenieId": 164157,
+          "timestamp": 395
+        },
+        {
+          "id": "defeat-perfumer",
+          "title": "Defeat the Depraved Perfumer Near Albus",
+          "tag": [
+            "enemy"
+          ],
+          "description": "Defeat the depraved perfumer enemy east of the village grace to prevent putting Albus in danger.",
+          "timestamp": 395
+        },
+        {
+          "id": "albus-reveal",
+          "title": "Hit Albus the Jar Once to Reveal Him",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Albus disguised as a jar east of the village grace. Hit him once and only once to dispel the disguise.",
+          "mapGenieId": 167190,
+          "timestamp": 395
+        },
+        {
+          "id": "albus-haligtree-medallion",
+          "title": "Speak with Albus – Receive Right Half of Haligtree Medallion",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Speak through all of Albus's dialogue. Receive the Right Half of the Haligtree Medallion. He asks you to seek out Latenna.",
+          "mapGenieId": 167191,
+          "timestamp": 395
+        },
+        {
+          "id": "nepheli-summon-omenkiller",
+          "title": "Summon Nepheli for Omenkiller Boss Fight",
+          "tag": [
+            "quest"
+          ],
+          "description": "Continue through the village across the bridge. Find Nepheli's gold summoning sign and summon her.",
+          "timestamp": 395
+        },
+        {
+          "id": "omenkiller-boss",
+          "title": "Defeat the Omenkiller – Crucible Knot Talisman",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Omenkiller near the end of the village path. He drops the Crucible Knot Talisman.",
+          "mapGenieId": 166426,
+          "timestamp": 395
+        },
+        {
+          "id": "nepheli-confirm-left",
+          "title": "Reload and Confirm Nepheli Has Left the Bridge",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game and make sure Nepheli has left from beneath the bridge before moving on.",
+          "mapGenieId": 167192,
+          "timestamp": 395
+        }
+      ]
+    },
+    {
+      "id": "phase-7-roundtable-ensha",
+      "title": "Roundtable Hold – Ensha Invasion",
+      "steps": [
+        {
+          "id": "ensha-invasion",
+          "title": "Defeat Ensha at Roundtable Hold – Clinging Bone",
+          "tag": [
+            "boss"
+          ],
+          "description": "Prepare for combat, then return to Roundtable Hold. Ensha invades once you have the Haligtree Medallion half. Defeat him for the Clinging Bone fist weapon.",
+          "mapGenieId": 167506,
+          "timestamp": 480
+        },
+        {
+          "id": "ensha-royal-remains",
+          "title": "Pick Up Royal Remains Armor Set",
+          "tag": [
+            "item"
+          ],
+          "description": "Go to Ensha's original location outside Gideon's chamber. Pick up Ensha's Royal Remains armor set from the ground.",
+          "mapGenieId": 167505,
+          "timestamp": 480
+        },
+        {
+          "id": "gideon-about-ensha",
+          "title": "Ask Gideon About Ensha",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Speak with Gideon to learn more about what Ensha was doing.",
+          "mapGenieId": 169061,
+          "timestamp": 480
+        },
+        {
+          "id": "gideon-about-latenna",
+          "title": "Ask Gideon About Ensha a Second Time – Latenna's Location",
+          "tag": [
+            "quest"
+          ],
+          "description": "Ask Gideon about Ensha a second time. He reveals Latenna the Albinauric's whereabouts.",
+          "mapGenieId": 169061,
+          "timestamp": 480
+        }
+      ]
+    },
+    {
+      "id": "phase-8-roundtable-diallos-nepheli",
+      "title": "Roundtable Hold – Diallos & Nepheli Updates",
+      "steps": [
+        {
+          "id": "diallos-volcano-manor",
+          "title": "Speak with Diallos – Volcano Manor Invitation",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Diallos near the roundtable. He mentions receiving an invitation to Volcano Manor and his reasons for accepting.",
+          "mapGenieId": 167784,
+          "timestamp": 515
+        },
+        {
+          "id": "nepheli-despair",
+          "title": "Find Nepheli in Despair Near Hewg's Staircase",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head down the staircase near Hewg. Find Nepheli at the bottom in a state of despair.",
+          "mapGenieId": 171952,
+          "timestamp": 515
+        },
+        {
+          "id": "gideon-about-nepheli",
+          "title": "Ask Gideon About Nepheli's Despair",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go back to Gideon and ask him about Nepheli's despair.",
+          "mapGenieId": 169061,
+          "timestamp": 515
+        },
+        {
+          "id": "nepheli-full-dialogue",
+          "title": "Speak with Nepheli Until She Runs Out of Dialogue",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "After asking Gideon, speak with Nepheli multiple times until she has nothing new to say.",
+          "mapGenieId": 171952,
+          "timestamp": 515
+        }
+      ]
+    },
+    {
+      "id": "phase-9-lakeside-crystal-cave",
+      "title": "Lakeside Crystal Cave",
+      "steps": [
+        {
+          "id": "lakeside-crystal-cave-enter",
+          "title": "Enter the Lakeside Crystal Cave",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "From Scenic Isle, travel directly south to the entrance of the Lakeside Crystal Cave.",
+          "mapGenieId": 166448,
+          "timestamp": 556
+        },
+        {
+          "id": "bloodhound-knight-cave",
+          "title": "Defeat the Bloodhound Knight – Cerulean Amber Medallion",
+          "tag": [
+            "boss"
+          ],
+          "description": "Make your way through the cave to the boss room. Defeat the Bloodhound Knight to get the Cerulean Amber Medallion talisman.",
+          "mapGenieId": 168523,
+          "timestamp": 556
+        }
+      ]
+    },
+    {
+      "id": "phase-10-latenna",
+      "title": "Latenna at Slumbering Wolf Shack",
+      "steps": [
+        {
+          "id": "slumbering-wolf-shack",
+          "title": "Travel to Slumbering Wolf Shack",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue from the Lakeside Crystal Cave exit to the Slumbering Wolf Shack.",
+          "mapGenieId": 166439,
+          "timestamp": 612
+        },
+        {
+          "id": "latenna-show-medallion",
+          "title": "Show Latenna the Right Half of the Haligtree Medallion",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Latenna and her wolf companion Lobo. At first she's defensive — show her the Right Half of the Haligtree Medallion to soften her demeanor.",
+          "mapGenieId": 192641,
+          "timestamp": 612
+        },
+        {
+          "id": "latenna-agree",
+          "title": "Agree to Latenna's Request – Receive Latenna Spirit Ashes",
+          "tag": [
+            "spirit-summon"
+          ],
+          "description": "Agree to Latenna's request. She transforms into a spirit ash summon (Latenna the Albinauric) to accompany you.",
+          "mapGenieId": 192641,
+          "timestamp": 612
+        }
+      ]
+    },
+    {
+      "id": "phase-11-edgar-glintstone-key",
+      "title": "Edgar the Revenger & Academy Glintstone Key",
+      "steps": [
+        {
+          "id": "revengers-shack-grace",
+          "title": "Activate Revenger's Shack Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Pass by the Converted Fringe Tower and Minor Erdtree to reach the Revenger's Shack. Sprint to the site of grace and activate it before Edgar invades.",
+          "mapGenieId": 166411,
+          "timestamp": 630
+        },
+        {
+          "id": "edgar-revenger-defeat",
+          "title": "Defeat Edgar the Revenger",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Defeat Edgar the Revenger. He drops the Banished Knight's Halberd +8 and a Shabriri Grape. This invader is notoriously buggy — defeat him on the first attempt if possible.",
+          "mapGenieId": 166811,
+          "timestamp": 630
+        },
+        {
+          "id": "academy-glintstone-key-dragon",
+          "title": "Pick Up Academy Glintstone Key Behind Glintstone Dragon",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Head to the rocky formations west of Raya Lucaria. Behind the Glintstone Dragon, find an Academy Glintstone Key on the ground. Fight the dragon or just grab the key and run.",
+          "mapGenieId": 165269,
+          "timestamp": 630
+        },
+        {
+          "id": "thops-refuses-key",
+          "title": "Try Giving Thops the Glintstone Key – He Refuses",
+          "tag": [
+            "quest"
+          ],
+          "description": "Try giving Thops this key. He insists you keep it. A second key exists inside the academy.",
+          "mapGenieId": 165848,
+          "timestamp": 630
+        }
+      ]
+    },
+    {
+      "id": "phase-12-four-belfries",
+      "title": "The Four Belfries & Chapel of Anticipation",
+      "steps": [
+        {
+          "id": "four-belfries-grace",
+          "title": "Discover The Four Belfries Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head north of Revenger's Shack to The Four Belfries. Go to the top and discover the site of grace.",
+          "mapGenieId": 164162,
+          "timestamp": 699
+        },
+        {
+          "id": "imbued-sword-key",
+          "title": "Open Chest for Imbued Sword Key",
+          "tag": [
+            "item"
+          ],
+          "description": "Open the nearby chest at the top of The Four Belfries to get an Imbued Sword Key.",
+          "mapGenieId": 166456,
+          "timestamp": 699
+        },
+        {
+          "id": "chapel-anticipation-teleport",
+          "title": "Teleport to Chapel of Anticipation",
+          "tag": [
+            "location"
+          ],
+          "description": "Go to the east-most belfry (message reads 'Precipice of Anticipation'). Use the Imbued Sword Key to activate the transporter.",
+          "mapGenieId": 166462,
+          "timestamp": 699
+        },
+        {
+          "id": "grafted-scion-rematch",
+          "title": "Defeat the Grafted Scion (If You Lost Earlier)",
+          "tag": [
+            "boss"
+          ],
+          "description": "If you lost to the Grafted Scion at the start, fight it now. It drops the Ornamental Straight Sword and Golden Beast Crest Shield.",
+          "mapGenieId": 164433,
+          "timestamp": 699
+        },
+        {
+          "id": "stormhawk-king-item",
+          "title": "Pick Up Stormhawk King Key Item",
+          "tag": [
+            "key-item"
+          ],
+          "mapGenieId": 167207,
+          "description": "Go through the Chapel's side entrance to get the Stormhawk King key item. Do NOT give it to Nepheli yet — wait until after completing Seluvis's quest.",
+          "timestamp": 699
+        },
+        {
+          "id": "stormhawk-deenh",
+          "title": "Pick Up Stormhawk Deenh Spirit Summons",
+          "tag": [
+            "spirit-summon"
+          ],
+          "description": "Also pick up the Stormhawk Deenh spirit summons (good for low FP builds).",
+          "mapGenieId": 167298,
+          "timestamp": 699
+        }
+      ]
+    },
+    {
+      "id": "phase-13-varre-finish",
+      "title": "Finishing Varre's Quest",
+      "steps": [
+        {
+          "id": "soak-lord-of-blood-favor",
+          "title": "Soak Lord of Blood's Favor in Dead Maiden's Blood",
+          "tag": [
+            "quest"
+          ],
+          "description": "Drop into the Chapel of Anticipation and approach the dead maiden. Use her blood to soak the Lord of Blood's Favor.",
+          "mapGenieId": 169034,
+          "timestamp": 771
+        },
+        {
+          "id": "varre-give-soaked-favor",
+          "title": "Give Varre the Soaked Favor – Receive Bloody Finger",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to the Rose Church and give Varre the soaked Favor. He gives you the Bloody Finger (reusable invasion item).",
+          "mapGenieId": 166244,
+          "timestamp": 771
+        },
+        {
+          "id": "varre-pureblood-medal",
+          "title": "Speak with Varre – Receive Pureblood Knight's Medal",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak with Varre once more to get the Pureblood Knight's Medal. It teleports to Mohgwyn Palace when used.",
+          "mapGenieId": 177160,
+          "timestamp": 771
+        }
+      ]
+    },
+    {
+      "id": "phase-14-iji-hoarfrost",
+      "title": "Iji, Hoarfrost Stomp & Bellum Church",
+      "steps": [
+        {
+          "id": "road-to-manor-grace",
+          "title": "Discover Road to the Manor Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head northwest and discover the Road to the Manor site of grace.",
+          "mapGenieId": 164164,
+          "timestamp": 803
+        },
+        {
+          "id": "iji-dialogue",
+          "title": "Speak with Warcouncelor Iji – 'Blaidd Sent Me'",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Warcouncelor Iji nearby. Speak through all dialogue until the 'Blaidd sent me' option appears.",
+          "mapGenieId": 165592,
+          "timestamp": 803
+        },
+        {
+          "id": "iji-carian-filigreed",
+          "title": "Unlock Carian Filigreed Crest Talisman in Iji's Shop",
+          "tag": [
+            "item"
+          ],
+          "description": "The 'Blaidd sent me' option unlocks the Carian Filigreed Crest Talisman in Iji's shop. Iji also sells Somber Smithing Stones.",
+          "mapGenieId": 170422,
+          "timestamp": 803
+        },
+        {
+          "id": "caria-manor-gate-grace",
+          "title": "Discover Main Caria Manor Gate Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Head further north and discover the Main Caria Manor Gate site of grace. Hold off on going through the manor until after progressing Rogier's questline.",
+          "mapGenieId": 164165,
+          "timestamp": 803
+        },
+        {
+          "id": "hoarfrost-stomp",
+          "title": "Defeat Invisible Scarab – Hoarfrost Stomp Ash of War",
+          "tag": [
+            "item"
+          ],
+          "description": "Head east from the manor gate to a shallow pool of water. Defeat the invisible treasure scarab to get the Hoarfrost Stomp Ash of War.",
+          "mapGenieId": 166756,
+          "timestamp": 803
+        },
+        {
+          "id": "cross-stone-bridge",
+          "title": "Cross Stone Spire Bridge to West Liurnia",
+          "tag": [
+            "location"
+          ],
+          "description": "Continue east and find a horizontal stone spire serving as a bridge. Cross over to the west side of Liurnia.",
+          "timestamp": 803
+        },
+        {
+          "id": "bellum-church-sacred-tear",
+          "title": "Pick Up Sacred Tear at Bellum Church",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Make your way up to Bellum Church and pick up the Sacred Tear.",
+          "mapGenieId": 166627,
+          "timestamp": 803
+        },
+        {
+          "id": "grand-lift-dectus-grace",
+          "title": "Discover Grand Lift of Dectus Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel north towards the Grand Lift of Dectus. Discover the site of grace but avoid activating the lift.",
+          "mapGenieId": 165888,
+          "timestamp": 803
+        }
+      ]
+    },
+    {
+      "id": "phase-15-church-of-inhibition",
+      "title": "Church of Inhibition & Vyke",
+      "steps": [
+        {
+          "id": "extinguish-frenzy-flame",
+          "title": "Eliminate Frenzied Enemies at Tower Top",
+          "tag": [
+            "enemy"
+          ],
+          "description": "Reach the Frenzy-Flaming Tower and carefully eliminate all frenzied enemies at the top to extinguish the frenzy flame permanently.",
+          "mapGenieId": 167006,
+          "timestamp": 875
+        },
+        {
+          "id": "frenzied-flame-village",
+          "title": "Travel Through Frenzied Flame Village to Church of Inhibition",
+          "tag": [
+            "location"
+          ],
+          "description": "Head south to find the entrance into Frenzied Flame Village. Make your way through to arrive at the Church of Inhibition.",
+          "mapGenieId": 166709,
+          "timestamp": 875
+        },
+        {
+          "id": "vyke-invasion",
+          "title": "Defeat Vyke – Vyke's War Spear & Fingerprint Grape",
+          "tag": [
+            "invasion"
+          ],
+          "description": "Vyke invades as you approach the church. Defeat him for Vyke's War Spear and the Fingerprint Grape key item.",
+          "mapGenieId": 167188,
+          "timestamp": 875
+        },
+        {
+          "id": "church-inhibition-grace",
+          "title": "Activate Church of Inhibition Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Activate the site of grace inside the Church of Inhibition.",
+          "mapGenieId": 165518,
+          "timestamp": 875
+        },
+        {
+          "id": "church-inhibition-sacred-tear",
+          "title": "Pick Up Sacred Tear at Church of Inhibition",
+          "tag": [
+            "sacred-tear"
+          ],
+          "description": "Grab the Sacred Tear inside the Church of Inhibition.",
+          "mapGenieId": 167186,
+          "timestamp": 875
+        }
+      ]
+    },
+    {
+      "id": "phase-16-black-knife-catacombs",
+      "title": "Black Knife Catacombs",
+      "steps": [
+        {
+          "id": "catacombs-entrance",
+          "title": "Find Black Knife Catacombs Entrance",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "From near the Frenzy-Flaming Tower, move east to the cliffside tombstones near the Converted Fringe Tower. Maneuver down the tombstones to reach the entrance.",
+          "mapGenieId": 166481,
+          "timestamp": 934
+        },
+        {
+          "id": "catacombs-guillotine-ride",
+          "title": "Ride Guillotine Blade to Upper Floor",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "From the site of grace, head down the west staircase. Continue until reaching the guillotine traps. Ride one of the blades to reach the floor above.",
+          "timestamp": 934
+        },
+        {
+          "id": "catacombs-false-wall",
+          "title": "Hit False Wall to Reveal Secret Boss Room",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Make your way to the end of the path and hit the false wall hiding the boss room.",
+          "timestamp": 934
+        },
+        {
+          "id": "black-knife-assassin",
+          "title": "Defeat Black Knife Assassin – Black Knifeprint",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Black Knife Assassin to acquire the Black Knifeprint and the Assassin's Cerulean Dagger talisman.",
+          "mapGenieId": 166482,
+          "timestamp": 934
+        }
+      ]
+    },
+    {
+      "id": "phase-17-church-of-vows",
+      "title": "Church of Vows",
+      "steps": [
+        {
+          "id": "church-of-vows-miriel",
+          "title": "Meet Miriel the Turtle Pastor at Church of Vows",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Head southwest from the catacombs to the Church of Vows. Meet Miriel the Turtle Pastor, who shares lore about Elden Ring.",
+          "mapGenieId": 165650,
+          "timestamp": 993
+        },
+        {
+          "id": "gold-sewing-needle",
+          "title": "Pick Up Gold Sewing Needle from Chest",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Find the chest in the Church of Vows containing the Gold Sewing Needle. This will eventually be given to Boc, but not yet.",
+          "mapGenieId": 165648,
+          "timestamp": 993
+        }
+      ]
+    },
+    {
+      "id": "phase-18-rogier-knifeprint",
+      "title": "Rogier's Quest – Knifeprint & Fia",
+      "steps": [
+        {
+          "id": "rogier-give-knifeprint",
+          "title": "Show Rogier the Black Knifeprint",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold. Show Rogier the Black Knifeprint and allow him to hold onto it for further study.",
+          "mapGenieId": 168232,
+          "timestamp": 1022
+        },
+        {
+          "id": "rogier-reload-new-dialogue",
+          "title": "Reload and Speak with Rogier – Seek Out Ranni",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game and speak with Rogier again. Go through all new dialogue. He tasks you with seeking out Ranni the Witch.",
+          "mapGenieId": 168232,
+          "timestamp": 1022
+        },
+        {
+          "id": "fia-secret-rogier",
+          "title": "Speak with Fia in Secret About Rogier",
+          "tag": [
+            "quest"
+          ],
+          "description": "Talk to Fia in secret about Rogier. If the dialogue option doesn't appear, reload and try again. Receive a Sacrificial Twig and unique dialogue.",
+          "mapGenieId": 167503,
+          "timestamp": 1022
+        }
+      ]
+    },
+    {
+      "id": "phase-19-caria-manor",
+      "title": "Caria Manor Walkthrough",
+      "steps": [
+        {
+          "id": "caria-manor-enter",
+          "title": "Enter Caria Manor – Watch for Spider Hands",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Return to the Main Caria Manor Gate and begin making your way through, taking care to avoid the Spider Hands hiding in the ground.",
+          "mapGenieId": 165491,
+          "timestamp": 1057
+        },
+        {
+          "id": "manor-lower-level-grace",
+          "title": "Reach Manor Lower Level Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Make your way to the Manor Lower Level site of grace.",
+          "mapGenieId": 165494,
+          "timestamp": 1096
+        },
+        {
+          "id": "sword-of-night-and-flame",
+          "title": "Pick Up Sword of Night and Flame",
+          "tag": [
+            "legendary-armament"
+          ],
+          "description": "From the Manor Lower Level, head out the southeast archway along the inner castle walls. Along the northern wall, jump down onto a rooftop leading to the Sword of Night and Flame.",
+          "mapGenieId": 166764,
+          "timestamp": 1096
+        },
+        {
+          "id": "manor-upper-level",
+          "title": "Take Lift to Manor Upper Level",
+          "tag": [
+            "location"
+          ],
+          "description": "Fast travel back to Manor Lower Level. Walk along the southern wall to the lift that takes you to the upper level.",
+          "mapGenieId": 165493,
+          "timestamp": 1135
+        },
+        {
+          "id": "royal-knight-loretta",
+          "title": "Defeat Royal Knight Loretta",
+          "tag": [
+            "boss"
+          ],
+          "description": "Reach the Royal Moongazing Grounds and defeat Royal Knight Loretta. Obtain Loretta's Greatbow Sorcery and Loretta's Slash Ash of War.",
+          "mapGenieId": 165490,
+          "timestamp": 1135
+        }
+      ]
+    },
+    {
+      "id": "phase-20-ranni-rise",
+      "title": "Ranni's Rise & Starting Ranni's Quest",
+      "steps": [
+        {
+          "id": "travel-to-ranni-rise",
+          "title": "Travel to Ranni's Rise",
+          "tag": [
+            "location"
+          ],
+          "description": "Head out the northwest exit. Fight or run past the Glintstone Dragon. Discover the site of grace at Ranni's Rise.",
+          "mapGenieId": 165878,
+          "timestamp": 1165
+        },
+        {
+          "id": "ranni-first-visit",
+          "title": "Speak with Ranni – She Tells You to Begone",
+          "tag": [
+            "quest"
+          ],
+          "description": "Make your way to the top of Ranni's Rise. Because Rogier sent you, Ranni will treat you poorly and tell you to begone.",
+          "mapGenieId": 166221,
+          "timestamp": 1165
+        },
+        {
+          "id": "rogier-serve-ranni",
+          "title": "Tell Rogier About Ranni – He Says to Serve Her",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold and speak with Rogier about the encounter. He tells you to serve Ranni to earn her trust.",
+          "mapGenieId": 168232,
+          "timestamp": 1165
+        },
+        {
+          "id": "ranni-start-quest",
+          "title": "Return to Ranni and Start Her Quest",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Return to Ranni and start her quest.",
+          "mapGenieId": 166221,
+          "timestamp": 1165
+        },
+        {
+          "id": "ranni-allies-speak",
+          "title": "Speak with Ranni's Allies: Iji, Blaidd, Seluvis",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Go downstairs and speak with Ranni's allies: Iji, Blaidd, and Seluvis.",
+          "timestamp": 1165
+        },
+        {
+          "id": "ranni-return-speak",
+          "title": "Return to Ranni and Speak with Her",
+          "tag": [
+            "dialogue"
+          ],
+          "description": "Return to Ranni upstairs and speak with her.",
+          "mapGenieId": 166221,
+          "timestamp": 1165
+        },
+        {
+          "id": "ranni-slumber",
+          "title": "Reload – Ranni Enters Deep Slumber",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game. Ranni has gone into a deep slumber.",
+          "mapGenieId": 166221,
+          "timestamp": 1165
+        }
+      ]
+    },
+    {
+      "id": "phase-21-seluvis-pidia",
+      "title": "Seluvis's Quest & Pidia",
+      "steps": [
+        {
+          "id": "seluvis-agree-request",
+          "title": "Agree to Seluvis's Request – Receive Potion",
+          "tag": [
+            "quest-start"
+          ],
+          "description": "Go to Seluvis's Rise and agree to his request. He gives you a potion and asks you to make Nepheli drink it.",
+          "mapGenieId": 169060,
+          "timestamp": 1200
+        },
+        {
+          "id": "seluvis-warning",
+          "title": "Do NOT Give the Potion to Nepheli",
+          "tag": [
+            "warning"
+          ],
+          "description": "Do NOT give the potion to Nepheli — this turns her into a puppet and prevents completing her quest. Wait until Dung Eater has been released from his Sewer Gaol (covered in the next video).",
+          "timestamp": 1200
+        },
+        {
+          "id": "pidia-hidden-path",
+          "title": "Find the Hidden Path to Pidia",
+          "tag": [
+            "location"
+          ],
+          "description": "Near Seluvis's Rise, find a somewhat hidden path leading down to the balcony overlooking the Lower Caria Manor site of grace.",
+          "timestamp": 1221
+        },
+        {
+          "id": "pidia-shop",
+          "title": "Speak with Pidia, Carian Servant",
+          "tag": [
+            "shop"
+          ],
+          "description": "Find Pidia on the balcony. He sells useful items including a Celestial Dew and a Larval Tear.",
+          "mapGenieId": 167407,
+          "timestamp": 1221
+        }
+      ]
+    },
+    {
+      "id": "phase-22-rogier-finish",
+      "title": "Finishing Rogier's Questline",
+      "steps": [
+        {
+          "id": "rogier-final-dialogue",
+          "title": "Speak with Rogier – Final Dialogue",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold and speak with Rogier for final dialogue in which he apologizes.",
+          "mapGenieId": 168232,
+          "timestamp": 1250
+        },
+        {
+          "id": "rogier-unresponsive",
+          "title": "Reload – Rogier Becomes Unresponsive",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game. Rogier is now in an unresponsive state.",
+          "mapGenieId": 168232,
+          "timestamp": 1250
+        },
+        {
+          "id": "rogier-try-speak-3-times",
+          "title": "Try Speaking with Rogier and Reload 3 Times",
+          "tag": [
+            "quest"
+          ],
+          "description": "Try speaking with Rogier, then reload the game, a total of 3 times.",
+          "mapGenieId": 168232,
+          "timestamp": 1250
+        },
+        {
+          "id": "rogier-bell-bearing",
+          "title": "Pick Up Rogier's Bell Bearing",
+          "tag": [
+            "quest-end"
+          ],
+          "description": "After the third reload, Rogier drops his Bell Bearing.",
+          "mapGenieId": 177445,
+          "timestamp": 1250
+        },
+        {
+          "id": "rogier-spellblade-armor",
+          "title": "Pick Up Spellblade Armor Set",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Spellblade Armor set (strengthens glintstone sorcery weapon skills).",
+          "mapGenieId": 177446,
+          "timestamp": 1250
+        },
+        {
+          "id": "rogier-letter",
+          "title": "Pick Up Rogier's Letter",
+          "tag": [
+            "key-item"
+          ],
+          "description": "Pick up Rogier's Letter, which hints at the location of D's twin brother. Rogier's questline is now fully completed.",
+          "timestamp": 1250
+        }
+      ]
+    },
+    {
+      "id": "phase-23-hyetta-remaining",
+      "title": "Hyetta's Quest – All Remaining Steps",
+      "steps": [
+        {
+          "id": "hyetta-second-location",
+          "title": "Find Hyetta Near the Purified Ruins",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head east of Laskyar Ruins to find Hyetta at her second location, near the Purified Ruins.",
+          "mapGenieId": 166503,
+          "timestamp": 1287
+        },
+        {
+          "id": "hyetta-second-grape",
+          "title": "Give Hyetta the Second Shabriri Grape",
+          "tag": [
+            "quest"
+          ],
+          "description": "Offer the second Shabriri Grape (from Edgar the Revenger) to Hyetta. Go through all dialogue.",
+          "mapGenieId": 166503,
+          "timestamp": 1287
+        },
+        {
+          "id": "third-shabriri-grape-ruins",
+          "title": "Pick Up Third Shabriri Grape at Purified Ruins",
+          "tag": [
+            "item"
+          ],
+          "description": "Head to the ruins southeast of Hyetta. Destroy the wooden planks concealing a staircase and go down to find the third and final Shabriri Grape.",
+          "mapGenieId": 166632,
+          "timestamp": 1287
+        },
+        {
+          "id": "hyetta-gatetown-bridge",
+          "title": "Find Hyetta Near Gatetown Bridge",
+          "tag": [
+            "quest"
+          ],
+          "description": "Travel north along the Liurnia Highway to the Gatetown Bridge. Find Hyetta nearby.",
+          "mapGenieId": 166642,
+          "timestamp": 1316
+        },
+        {
+          "id": "hyetta-third-grape",
+          "title": "Give Hyetta the Third Shabriri Grape – Tell Her They Are Eyes",
+          "tag": [
+            "quest"
+          ],
+          "description": "Offer the third Shabriri Grape and inform Hyetta that the grapes are actually human eyes.",
+          "mapGenieId": 166642,
+          "timestamp": 1316
+        },
+        {
+          "id": "hyetta-finger-maiden",
+          "title": "Reload and Speak with Hyetta – She Declares Finger Maiden",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game and speak with Hyetta until she declares that she will be a Finger Maiden.",
+          "mapGenieId": 166642,
+          "timestamp": 1316
+        },
+        {
+          "id": "hyetta-bellum-church",
+          "title": "Find Hyetta at Bellum Church",
+          "tag": [
+            "quest"
+          ],
+          "description": "Fast travel to Bellum Church to find Hyetta.",
+          "mapGenieId": 167226,
+          "timestamp": 1337
+        },
+        {
+          "id": "hyetta-fingerprint-grape",
+          "title": "Give Hyetta the Fingerprint Grape",
+          "tag": [
+            "quest"
+          ],
+          "description": "She asks for a Fingerprint Grape (obtained from Vyke). Give it to her and go through all dialogue.",
+          "timestamp": 1337
+        }
+      ]
+    },
+    {
+      "id": "phase-24-yura-raya-lucaria",
+      "title": "Yura's Quest & Entering Raya Lucaria",
+      "steps": [
+        {
+          "id": "east-academy-gate",
+          "title": "Use Glintstone Key at East Academy Gate",
+          "tag": [
+            "location"
+          ],
+          "description": "From Bellum Church, head south to the East Academy Gate. Use the Glintstone Key to be transported to the entrance of Raya Lucaria.",
+          "mapGenieId": 165314,
+          "timestamp": 1353
+        },
+        {
+          "id": "raya-lucaria-entrance-grace",
+          "title": "Rest at Raya Lucaria Entrance Site of Grace",
+          "tag": [
+            "location"
+          ],
+          "description": "Rest at the site of grace at the Raya Lucaria entrance.",
+          "mapGenieId": 164422,
+          "timestamp": 1353
+        },
+        {
+          "id": "yura-summon-sign",
+          "title": "Find Yura's Red Summoning Sign",
+          "tag": [
+            "quest"
+          ],
+          "description": "Head northeast past the magic seal. Find Yura's red summoning sign a short distance ahead.",
+          "timestamp": 1353
+        },
+        {
+          "id": "yura-ravenmount-assassin",
+          "title": "Assist Yura in Defeating Ravenmount Assassin – Raptor of the Mists",
+          "tag": [
+            "quest"
+          ],
+          "description": "Use the sign and assist Yura in defeating the Bloody Finger Ravenmount Assassin. Acquire the Raptor of the Mists Ash of War.",
+          "mapGenieId": 166731,
+          "timestamp": 1353
+        },
+        {
+          "id": "yura-smithing-stone",
+          "title": "Speak with Yura – Receive Smithing Stone [5]",
+          "tag": [
+            "quest"
+          ],
+          "description": "After returning to your world, speak with Yura nearby. Receive a Smithing Stone [5]. Go through all dialogue.",
+          "mapGenieId": 166758,
+          "timestamp": 1353
+        },
+        {
+          "id": "yura-smithing-stone",
+          "title": "Speak with Yura – Receive Smithing Stone [5]",
+          "tag": [
+            "quest"
+          ],
+          "description": "After returning to your world, speak with Yura nearby. Receive a Smithing Stone [5]. Go through all dialogue.",
+          "mapGenieId": 166758,
+          "timestamp": 1353
+        },
+        {
+          "id": "broken-bridge-golden-seed",
+          "title": "Pick Up Golden Seed at end of bridge",
+          "tag": [
+            "item"
+          ],
+          "description": "At the foot of a golden tree, at the end of the broken bridge just outside the lift up to the Academy of Raya Lucaria.",
+          "mapGenieId": 165657
+        }
+      ]
+    },
+    {
+      "id": "phase-25-raya-lucaria-academy",
+      "title": "Raya Lucaria Academy Walkthrough",
+      "steps": [
+        {
+          "id": "raya-lucaria-to-schoolhouse",
+          "title": "Make Your Way Through the Academy to Schoolhouse Classroom",
+          "tag": [
+            "dungeon"
+          ],
+          "description": "Make your way through the Academy towards the Schoolhouse Classroom.",
+          "mapGenieId": 164429,
+          "timestamp": 1393
+        },
+        {
+          "id": "iron-maiden-warning",
+          "title": "Avoid Iron Maiden Abductor Near Schoolhouse",
+          "tag": [
+            "warning"
+          ],
+          "description": "There is an Iron Maiden Abductor in the pit near the Schoolhouse Classroom lift. If it eats you, it sends you to the underbelly of Volcano Manor — avoid this to prevent messing up quests.",
+          "timestamp": 1466
+        },
+        {
+          "id": "red-wolf-radagon",
+          "title": "Defeat Red Wolf of Radagon at Debate Parlor",
+          "tag": [
+            "boss"
+          ],
+          "description": "Defeat the Red Wolf of Radagon at the Debate Parlor.",
+          "mapGenieId": 165697,
+          "timestamp": 1487
+        },
+        {
+          "id": "radagon-icon",
+          "title": "Pick Up Radagon Icon",
+          "tag": [
+            "item"
+          ],
+          "description": "Head out the north exit, turn right after iron gates, turn right again, jump over railing, climb ladder. Jump through broken window, find the Radagon Icon in a chest on the right side.",
+          "mapGenieId": 165702,
+          "timestamp": 1520
+        }
+      ]
+    },
+    {
+      "id": "phase-26-thops-quest-finish",
+      "title": "Finishing Thops's Quest",
+      "steps": [
+        {
+          "id": "second-glintstone-key",
+          "title": "Pick Up Second Academy Glintstone Key",
+          "tag": [
+            "key-item"
+          ],
+          "description": "From the same exit, stick left and follow the path until dropping onto the roof of the Church of the Cuckoo. Jump through a window and land on a chandelier to grab the second Academy Glintstone Key.",
+          "mapGenieId": 165842,
+          "timestamp": 1550
+        },
+        {
+          "id": "twinsage-crown",
+          "title": "Defeat Crab for Twinsage Glintstone Crown",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "In the Church of the Cuckoo area, defeat a crab that drops the Twinsage Glintstone Crown.",
+          "mapGenieId": 165866,
+          "timestamp": 1550
+        },
+        {
+          "id": "azur-staff-shattering-crystal",
+          "title": "Pick Up Sorcerer Azur's Staff and Shattering Crystal",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "Nearby in the Church of the Cuckoo, find Sorcerer Azur's Staff and the Shattering Crystal Sorcery.",
+          "mapGenieId": 165896,
+          "timestamp": 1550
+        },
+        {
+          "id": "thops-give-key",
+          "title": "Give Thops a Glintstone Key – 'Erudition' Gesture",
+          "tag": [
+            "quest",
+            "gesture"
+          ],
+          "description": "Return to Thops at the Church of Irith and give him a Glintstone Key. Receive the 'Erudition' gesture.",
+          "timestamp": 1659
+        },
+        {
+          "id": "thops-final-bell-bearing",
+          "title": "Pick Up Thops's Bell Bearing at Schoolhouse Classroom",
+          "tag": [
+            "quest"
+          ],
+          "description": "Go to the Schoolhouse Classroom. Head out the northwest exit and around the corner to find Thops. Pick up his Bell Bearing.",
+          "mapGenieId": 165854,
+          "timestamp": 1659
+        },
+        {
+          "id": "thops-barrier-sorcery",
+          "title": "Pick Up Thops's Barrier Sorcery",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up Thops's Barrier Sorcery at Thops's final location.",
+          "mapGenieId": 165856,
+          "timestamp": 1659
+        },
+        {
+          "id": "thops-academy-staff",
+          "title": "Pick Up Academy Glintstone Staff",
+          "tag": [
+            "item"
+          ],
+          "description": "Pick up the Academy Glintstone Staff at Thops's final location.",
+          "mapGenieId": 165855,
+          "timestamp": 1659
+        },
+        {
+          "id": "thops-barrier-ash-of-war",
+          "title": "Defeat Scarab at Church of Irith – Thops's Barrier Ash of War",
+          "tag": [
+            "item",
+            "optional"
+          ],
+          "description": "Optionally return to the Church of Irith after Thops has left. Defeat the Scarab that drops Thops's Barrier Ash of War.",
+          "mapGenieId": 190871,
+          "timestamp": 1659
+        }
+      ]
+    },
+    {
+      "id": "phase-27-raya-lucaria-finish",
+      "title": "Finishing Raya Lucaria Academy",
+      "steps": [
+        {
+          "id": "rennala-boss",
+          "title": "Defeat Rennala, Queen of the Full Moon",
+          "tag": [
+            "boss"
+          ],
+          "description": "Enter the Grand Library and defeat Rennala, Queen of the Full Moon.",
+          "mapGenieId": 164430,
+          "timestamp": 1695
+        },
+        {
+          "id": "rebirth-unlock",
+          "title": "Interact with Rennala – Unlock Rebirth",
+          "tag": [
+            "mechanic"
+          ],
+          "description": "After defeating Rennala, interact with her at the Grand Library to undergo Rebirth. This requires a Larval Tear and allows you to redistribute attribute points.",
+          "mapGenieId": 165895,
+          "timestamp": 1767
+        }
+      ]
+    },
+    {
+      "id": "phase-28-siofra-river",
+      "title": "Siofra River – Blaidd & Ranni Quest Progress",
+      "steps": [
+        {
+          "id": "siofra-river-well",
+          "title": "Travel to Siofra River Well and Take the Lift Down",
+          "tag": [
+            "location"
+          ],
+          "description": "Travel to the Third Church of Marika in Limgrave. Head south to the Siofra River Well and take the lift down to Siofra River.",
+          "mapGenieId": 164010,
+          "timestamp": 1782
+        },
+        {
+          "id": "siofra-map-fragment",
+          "title": "Pick Up Siofra River Map Fragment",
+          "tag": [
+            "map-fragment"
+          ],
+          "description": "Find the map fragment at the Hallowhorn Grounds.",
+          "mapGenieId": 167498,
+          "timestamp": 1782
+        },
+        {
+          "id": "ghost-gloveworts",
+          "title": "Collect Ghost Gloveworts [1]–[3] Along the Way",
+          "tag": [
+            "item"
+          ],
+          "description": "Keep an eye out for Ghost Gloveworts along the way. They range from levels [1] to [3] in this area and upgrade spirit summons.",
+          "timestamp": 1782
+        },
+        {
+          "id": "blaidd-nokron-dialogue",
+          "title": "Speak with Blaidd About Nokron Eternal City",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Blaidd northeast of the Hallowhorn Grounds. Speak with him about Nokron Eternal City. He suggests asking Seluvis for more info.",
+          "mapGenieId": 167764,
+          "timestamp": 1862
+        },
+        {
+          "id": "ghost-glovewort-3-blaidd",
+          "title": "Pick Up Ghost Glovewort [3] Near Blaidd",
+          "tag": [
+            "item"
+          ],
+          "description": "Take the spirit spring near Blaidd to an elevated area. Find the Ghost Glovewort [3] behind a pillar.",
+          "mapGenieId": 172372,
+          "timestamp": 1862
+        },
+        {
+          "id": "seluvis-nokron-letter",
+          "title": "Ask Seluvis About Nokron – Receive Introduction Letter",
+          "tag": [
+            "quest",
+            "key-item"
+          ],
+          "description": "Go to Seluvis and ask about Nokron. This gives you Seluvis's Introduction key item.",
+          "mapGenieId": 165877,
+          "timestamp": 1862
+        },
+        {
+          "id": "sellen-radahn-info",
+          "title": "Give Sellen the Letter – Learn About Starscourge Radahn",
+          "tag": [
+            "quest"
+          ],
+          "description": "Take the letter to Sellen in Waypoint Ruins to learn about Starscourge Radahn.",
+          "mapGenieId": 164616,
+          "timestamp": 1862
+        },
+        {
+          "id": "blaidd-report-back",
+          "title": "Report Back to Blaidd – Radahn Festival",
+          "tag": [
+            "quest"
+          ],
+          "description": "Report back to Blaidd with what you've learned. He asks you to meet him at Redmane Castle in Caelid for the Radahn Festival.",
+          "mapGenieId": 167764,
+          "timestamp": 1862
+        },
+        {
+          "id": "iji-optional-dialogue",
+          "title": "Speak with Iji About Blaidd & Nokron",
+          "tag": [
+            "dialogue",
+            "optional"
+          ],
+          "description": "Optionally speak with Iji near Caria Manor to learn more about Blaidd and Nokron, Eternal City. Not required for any quest.",
+          "mapGenieId": 165592,
+          "timestamp": 1921
+        }
+      ]
+    },
+    {
+      "id": "phase-29-roundtable-fia-d",
+      "title": "Roundtable Hold – Enia, Fia & D's Death",
+      "steps": [
+        {
+          "id": "enia-talisman-pouch",
+          "title": "Speak with Finger Reader Enia – Third Talisman Slot",
+          "tag": [
+            "quest"
+          ],
+          "description": "Return to Roundtable Hold. With two Great Runes collected, speaking to Finger Reader Enia advances the main story and unlocks a third talisman slot.",
+          "mapGenieId": 170553,
+          "timestamp": 1931
+        },
+        {
+          "id": "fia-agree-held",
+          "title": "Agree to Be Held by Fia",
+          "tag": [
+            "quest"
+          ],
+          "description": "Find Fia and agree to be held.",
+          "mapGenieId": 167503,
+          "timestamp": 1943
+        },
+        {
+          "id": "fia-weathered-dagger",
+          "title": "Ask Fia a Favor – Receive Weathered Dagger",
+          "tag": [
+            "key-item"
+          ],
+          "description": "A new dialogue option 'May I ask a favor?' appears. This gives you the Weathered Dagger key item.",
+          "mapGenieId": 167503,
+          "timestamp": 1943
+        },
+        {
+          "id": "d-give-dagger",
+          "title": "Give D the Weathered Dagger",
+          "tag": [
+            "quest"
+          ],
+          "description": "Give D the Weathered Dagger. This results in his death.",
+          "mapGenieId": 167782,
+          "timestamp": 1943
+        },
+        {
+          "id": "d-death-room",
+          "title": "Reload and Find the Newly Opened Room",
+          "tag": [
+            "quest"
+          ],
+          "description": "Reload the game. Head down the hallway near Hewg to find a newly opened room with Fia standing over D's body.",
+          "mapGenieId": 170981,
+          "timestamp": 1943
+        },
+        {
+          "id": "twinned-armor-set",
+          "title": "Pick Up Twinned Armor Set",
+          "tag": [
+            "warning"
+          ],
+          "description": "Pick up the Twinned Armor Set from D's body. Do NOT sell any pieces — the entire set is required to fully complete Fia's questline.",
+          "mapGenieId": 170979,
+          "timestamp": 1943
+        },
+        {
+          "id": "fia-dialogue-final",
+          "title": "Speak Through All of Fia's Dialogue",
+          "tag": [
+            "quest"
+          ],
+          "description": "Speak through all of Fia's dialogue. She moves to her final location, which we'll visit later.",
+          "mapGenieId": 170981,
+          "timestamp": 1943
+        }
+      ]
+    }
+  ]
+}
