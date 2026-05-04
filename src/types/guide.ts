@@ -4,7 +4,7 @@ export interface QuestStep {
   description: string;
   tag: string[];
   timestamp?: number;
-  mapGenieId?: number;
+  mapGenieId?: number | null;
 }
 
 export interface QuestPhase {
