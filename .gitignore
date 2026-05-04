@@ -16,6 +16,9 @@ toDo.md
 # Claude Code local config
 .claude/
 
+# Local scripts
+convert-tags.cjs
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
