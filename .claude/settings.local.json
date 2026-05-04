@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"d:\\\\Repositories\\\\elden-ring-quest-tracker\\\\elden-ring-quest-tracker\\\\src\" -Recurse -Include \"*.ts\", \"*.tsx\")",
-      "Bash(Select-Object -ExpandProperty FullName)"
-    ]
-  }
-}
