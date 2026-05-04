@@ -3,6 +3,7 @@ import { QUEST_DATA } from './data/questData';
 import { LandingPage } from './components/pages/LandingPage';
 import { RegionPage } from './components/pages/RegionPage';
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 export default function App() {
   const { progress, currentRegion, toggleStep, resetProgress, selectRegion, goBack } = useAppStore();
@@ -13,6 +14,7 @@ export default function App() {
   return (
     <>
       <Analytics />
+      <SpeedInsights />
       {currentRegion ? (
         <RegionPage
           region={currentRegion}
