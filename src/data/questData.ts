@@ -5,7 +5,7 @@ import caelidAltusJson from './caelid-altus.json';
 import mtgelmirJson from './mtgelmir.json';
 import volmanorleyndell from './volcanomanor-leyndell.json'
 import mtntops from './mountaintops.json'
-import haligree from './haligree.json'
+import haligtree from "./haligtree.json";
 import farumazula from './farumazula.json'
 import preng from './cleanuppreng.json'
 
@@ -14,11 +14,11 @@ const REGION_DATA = [
   { json: liurniaJson, part: 2 },
   { json: caelidAltusJson, part: 3 },
   { json: mtgelmirJson, part: 4 },
-  { json: volmanorleyndell, part: 5},
-  { json: mtntops, part: 6},
-  { json: haligree, part: 7},
-  { json: farumazula, part: 8},
-  { json: preng, part: 9}
+  { json: volmanorleyndell, part: 5 },
+  { json: mtntops, part: 6 },
+  { json: haligtree, part: 7 },
+  { json: farumazula, part: 8 },
+  { json: preng, part: 9 },
 ] as const;
 
 export const QUEST_DATA: QuestData = {
