@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { QUEST_DATA } from '../data/questData';
+import { QUEST_DATA, DLC_QUEST_DATA } from '../data/questData';
 import type { QuestRegion } from '../types/guide';
 
 interface AppState {
@@ -35,7 +35,8 @@ export const useAppStore = create<AppState>((set) => ({
   },
 
   selectRegion: (id) => {
-    const region = QUEST_DATA.regions.find((r) => r.id === id) ?? null;
+    const all = [...QUEST_DATA.regions, ...DLC_QUEST_DATA.regions];
+    const region = all.find((r) => r.id === id) ?? null;
     set({ currentRegion: region });
   },
 

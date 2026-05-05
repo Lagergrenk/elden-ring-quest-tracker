@@ -1,0 +1,1200 @@
+{
+  "id": "dlc-gravesite-plain-and-belurat",
+  "area": "Gravesite Plain, Cerulean Coast, Belurat & Castle Ensis",
+  "description": "Shadow of the Erdtree DLC Part 1. Covers entering the Shadow Realm, collecting early Scadutree Fragments and Revered Spirit Ashes, meeting all initial NPCs, Belurat Gaol, Ruined Forge Lava Intake, Ellac River, Cerulean Coast, Dragon's Pit, Lamenter's Gaol, Belurat Tower Settlement legacy dungeon, Castle Ensis, Castle Ensis skip, and critical early Scadu Altus steps including Forager Brood Cookbooks.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=MGQjdnhtfOc&list=PL5octn-l9KEX31HGPCZRqUt_a0mJcYN-a&index=11&t=",
+  "phases": [
+    {
+      "id": "phase-1-entering-shadow-realm",
+      "title": "Mohgwyn Dynasty Mausoleum – Entering the Shadow Realm",
+      "steps": [
+        {
+          "id": "leda-cocoon",
+          "title": "Speak with Needle Knight Leda at the Cocoon of the Empyrean",
+          "tag": ["quest-start"],
+          "description": "Travel to the Cocoon of the Empyrean in Mohgwyn Dynasty Mausoleum. Meet Needle Knight Leda. Speak with her for an introduction.",
+          "mapGenieId": null,
+          "timestamp": 109
+        },
+        {
+          "id": "touch-miquella-arm",
+          "title": "Touch Miquella's Withered Arm to Enter the Shadow Realm",
+          "tag": ["quest"],
+          "description": "Touch the withered arm of Miquella to enter the Shadow Realm.",
+          "mapGenieId": null,
+          "timestamp": 120
+        }
+      ]
+    },
+    {
+      "id": "phase-2-gravesite-plain-start",
+      "title": "Gravesite Plain – Map & Blackgaol Knight",
+      "steps": [
+        {
+          "id": "gravesite-plain-map",
+          "title": "Pick Up Gravesite Plain Map and Hefty Cracked Pot",
+          "tag": ["map-fragment", "item"],
+          "description": "Head northeast to pick up the Gravesite Plain Map and first Hefty Cracked Pot.",
+          "mapGenieId": null,
+          "timestamp": 124
+        },
+        {
+          "id": "blackgaol-knight",
+          "title": "Defeat Blackgaol Knight at Western Nameless Mausoleum – Armor of Solitude Set",
+          "tag": ["boss", "optional"],
+          "description": "Head west to the Western Nameless Mausoleum. Defeat the Blackgaol Knight for the Greatsword of Solitude and Armor of Solitude Set. Can be tough without Shadow Realm Blessings — do it whenever ready.",
+          "mapGenieId": null,
+          "timestamp": 186
+        }
+      ]
+    },
+    {
+      "id": "phase-3-early-blessings",
+      "title": "Gravesite Plain – Early Scadutree Fragments & Spirit Ashes",
+      "steps": [
+        {
+          "id": "church-consolation-fragments",
+          "title": "Pick Up 2 Scadutree Fragments at Church of Consolation",
+          "tag": ["scadutree-fragment"],
+          "description": "Head east down the road to the Church of Consolation. Defeat the Knight enemy for a Black Steel Greathammer. Pick up 2 Scadutree Fragments near the statue behind him.",
+          "mapGenieId": null,
+          "timestamp": 218
+        },
+        {
+          "id": "blessing-of-marika",
+          "title": "Pick Up Blessing of Marika in Northwest Cave",
+          "tag": ["item", "optional"],
+          "description": "Optionally enter the cave to the northwest of the church to grab a Blessing of Marika (legendary one-time use consumable).",
+          "mapGenieId": null,
+          "timestamp": 273
+        },
+        {
+          "id": "headless-statue-spirit-ash",
+          "title": "Pick Up Revered Spirit Ash at Headless Statue (Cliffside)",
+          "tag": ["revered-spirit-ash"],
+          "description": "Head southwest around the fissure, then northeast. Find a headless statue near the cliffside with a Revered Spirit Ash. Identical statues with ashes are found throughout the Shadow Realm.",
+          "mapGenieId": null,
+          "timestamp": 326
+        },
+        {
+          "id": "pot-bearer-fragment-1",
+          "title": "Defeat Pot-Bearer Near Tombstones – Scadutree Fragment",
+          "tag": ["scadutree-fragment"],
+          "description": "Head north along the cliff wall to a cluster of solid tombstones. Defeat the dark shade holding a glimmering pot to get a Scadutree Fragment.",
+          "mapGenieId": null,
+          "timestamp": 342
+        },
+        {
+          "id": "scorched-ruins-grace",
+          "title": "Discover Scorched Ruins Site of Grace",
+          "tag": ["location"],
+          "description": "Head southwest and discover the Scorched Ruins site of grace.",
+          "mapGenieId": null,
+          "timestamp": 367
+        }
+      ]
+    },
+    {
+      "id": "phase-4-three-path-cross",
+      "title": "Gravesite Plain – Three-Path Cross & Hefty Furnace Pot Recipe",
+      "steps": [
+        {
+          "id": "three-path-cross-grace",
+          "title": "Discover Three-Path Cross Site of Grace (Avoid Furnace Golem)",
+          "tag": ["location"],
+          "description": "Head northwest past the Furnace Golem (avoid it for now). Rest at the Three-Path Cross grace immediately so the Golem doesn't attack near NPCs.",
+          "mapGenieId": null,
+          "timestamp": 372
+        },
+        {
+          "id": "scadutree-fragment-cross",
+          "title": "Pick Up Scadutree Fragment at Miquella's Cross",
+          "tag": ["scadutree-fragment"],
+          "description": "Pick up the Scadutree Fragment near Miquella's Cross if not already done.",
+          "mapGenieId": null,
+          "timestamp": 424
+        },
+        {
+          "id": "run-down-travelers-rest",
+          "title": "Pick Up Greater Potentate's Cookbook 2 at Run-Down Traveler's Rest",
+          "tag": ["item"],
+          "description": "Head northwest beneath the Ellac Greatbridge. Find the Run-Down Traveler's Rest with Furnace Visages and the Greater Potentate's Cookbook 2 (teaches Hefty Furnace Pots). One ingredient is only available in Scadu Altus.",
+          "mapGenieId": null,
+          "timestamp": 441
+        },
+        {
+          "id": "abandoned-village-spirit-ash",
+          "title": "Pick Up Revered Spirit Ash at Abandoned Ailing Village",
+          "tag": ["revered-spirit-ash"],
+          "description": "Head north to the Abandoned Ailing Village. Find a headless statue with a Revered Spirit Ash in an alcove near the northeast edge.",
+          "mapGenieId": null,
+          "timestamp": 478
+        },
+        {
+          "id": "ailment-talisman",
+          "title": "Pick Up Ailment Talisman",
+          "tag": ["item"],
+          "description": "Just above the Revered Spirit Ash, pick up the Ailment Talisman.",
+          "mapGenieId": null,
+          "timestamp": 527
+        },
+        {
+          "id": "abandoned-village-grace",
+          "title": "Discover Abandoned Ailing Village Site of Grace",
+          "tag": ["location"],
+          "description": "Discover the grace near the base of the village, then fast travel back to the Three-Path Cross.",
+          "mapGenieId": null,
+          "timestamp": 531
+        }
+      ]
+    },
+    {
+      "id": "phase-5-npcs-three-path",
+      "title": "Gravesite Plain – NPC Meetings (Freyja, Hornsent)",
+      "steps": [
+        {
+          "id": "blessing-level-check",
+          "title": "Blessings Should Be at Scadutree 2, Spirit Ash 2",
+          "tag": ["info"],
+          "description": "At this point both blessings should be at level 2.",
+          "mapGenieId": null,
+          "timestamp": 543
+        },
+        {
+          "id": "interact-miquella-cross-three-path",
+          "title": "Interact with Miquella's Cross at Three-Path Cross",
+          "tag": ["quest"],
+          "description": "Interact with Miquella's Cross if not already done.",
+          "mapGenieId": null,
+          "timestamp": 552
+        },
+        {
+          "id": "freyja-dialogue",
+          "title": "Speak with Redmane Freyja Until Dialogue Exhausted",
+          "tag": ["quest"],
+          "description": "Speak with Redmane Freyja nearby until she starts repeating herself.",
+          "mapGenieId": null,
+          "timestamp": 555
+        },
+        {
+          "id": "hornsent-dialogue",
+          "title": "Speak with Hornsent – Receive Cross Map",
+          "tag": ["quest"],
+          "description": "Speak with Hornsent. He gives the Cross Map. Exhaust his dialogue.",
+          "mapGenieId": null,
+          "timestamp": 569
+        },
+        {
+          "id": "freyja-extra-line",
+          "title": "Speak with Freyja Again for One More Line",
+          "tag": ["dialogue"],
+          "description": "After speaking with Hornsent, Freyja has one more new line of dialogue.",
+          "mapGenieId": null,
+          "timestamp": 581
+        }
+      ]
+    },
+    {
+      "id": "phase-6-npcs-main-gate",
+      "title": "Gravesite Plain – NPC Meetings (Ansbach, Moore)",
+      "steps": [
+        {
+          "id": "main-gate-cross-grace",
+          "title": "Discover Main Gate Cross Site of Grace",
+          "tag": ["location"],
+          "description": "Ride down the western path to the Main Gate Cross site of grace.",
+          "mapGenieId": null,
+          "timestamp": 583
+        },
+        {
+          "id": "main-gate-fragment",
+          "title": "Pick Up Scadutree Fragment and Interact with Miquella's Cross",
+          "tag": ["scadutree-fragment"],
+          "description": "Collect the Scadutree Fragment and interact with Miquella's Cross at the Main Gate.",
+          "mapGenieId": null,
+          "timestamp": 619
+        },
+        {
+          "id": "ansbach-dialogue",
+          "title": "Speak with Sir Ansbach Until Dialogue Exhausted",
+          "tag": ["quest"],
+          "description": "Speak with Sir Ansbach and exhaust all dialogue.",
+          "mapGenieId": null,
+          "timestamp": 628
+        },
+        {
+          "id": "moore-buy-item",
+          "title": "Buy an Item from Moore to Unlock 'Talk to Moore'",
+          "tag": ["quest"],
+          "description": "Speak with Moore and purchase an item to unlock the 'Talk to Moore' option.",
+          "mapGenieId": null,
+          "timestamp": 635
+        },
+        {
+          "id": "ansbach-about-moore",
+          "title": "Ask Ansbach About the Person in Verdigris Armor",
+          "tag": ["dialogue"],
+          "description": "Speak to Ansbach once more and ask about the person in verdigris armor to learn about Moore.",
+          "mapGenieId": null,
+          "timestamp": 647
+        }
+      ]
+    },
+    {
+      "id": "phase-7-more-blessings",
+      "title": "Gravesite Plain – More Blessings, Thiollier & Forager Cookbooks",
+      "steps": [
+        {
+          "id": "cliffroad-terminus-grace",
+          "title": "Discover Cliffroad Terminus Site of Grace",
+          "tag": ["location"],
+          "description": "From Main Gate Cross, head southeast up the cliffside to the Cliffroad Terminus grace.",
+          "mapGenieId": null,
+          "timestamp": 656
+        },
+        {
+          "id": "pot-bearer-cliffroad",
+          "title": "Defeat Pot-Bearer Near Tombstones – Scadutree Fragment",
+          "tag": ["scadutree-fragment"],
+          "description": "Head southwest down the road. Defeat the glimmering pot-bearer near tombstones for a Scadutree Fragment.",
+          "mapGenieId": null,
+          "timestamp": 703
+        },
+        {
+          "id": "revered-ash-prospect-town",
+          "title": "Pick Up Revered Spirit Ash Beyond Prospect Town",
+          "tag": ["revered-spirit-ash"],
+          "description": "Move east to find a Revered Spirit Ash beyond Prospect Town.",
+          "mapGenieId": null,
+          "timestamp": 732
+        },
+        {
+          "id": "forager-cookbook-2",
+          "title": "Get Forager Brood Cookbook 2 from Friendly Pest",
+          "tag": ["item", "missable"],
+          "description": "Head south to find a friendly Kindred of Rot (Pest). Interact to get the Forager Brood Cookbook 2. These cookbooks become unavailable at some point in the DLC.",
+          "mapGenieId": null,
+          "timestamp": 764
+        },
+        {
+          "id": "church-benediction-talisman",
+          "title": "Pick Up Blessed Blue Dew Talisman at Church of Benediction",
+          "tag": ["item", "optional"],
+          "description": "Head south along the ridge. Pick up Greater Potentate's Cookbook 5 along the way. At the Church of Benediction, get the Blessed Blue Dew Talisman.",
+          "mapGenieId": null,
+          "timestamp": 782
+        },
+        {
+          "id": "oathseeker-armor",
+          "title": "Pick Up Oathseeker Knight Armor Set and Pata Gauntlet-Swords",
+          "tag": ["item", "optional"],
+          "description": "Exit the church's northern opening to find the Oathseeker Knight Armor Set and Pata Gauntlet-Swords.",
+          "mapGenieId": null,
+          "timestamp": 824
+        },
+        {
+          "id": "castle-front-fragment",
+          "title": "Pick Up Scadutree Fragment at Castle Front (Across Ellac Greatbridge)",
+          "tag": ["scadutree-fragment"],
+          "description": "Fast travel to Three-Path Cross. Head northeast across the Ellac Greatbridge. Pick up the Scadutree Fragment near a statue on the other side.",
+          "mapGenieId": null,
+          "timestamp": 838
+        },
+        {
+          "id": "castle-front-grace",
+          "title": "Discover Castle Front Site of Grace",
+          "tag": ["location"],
+          "description": "Discover the Castle Front site of grace just beyond the fragment.",
+          "mapGenieId": null,
+          "timestamp": 861
+        },
+        {
+          "id": "pillar-path-fragment",
+          "title": "Pick Up Scadutree Fragment at Pillar Path Cross",
+          "tag": ["scadutree-fragment"],
+          "description": "Head southeast along the road, take the less prominent path splitting east. Follow it to the Pillar Path Cross and pick up the Scadutree Fragment. Blessings should be at Scadutree 4, Spirit Ash 3.",
+          "mapGenieId": null,
+          "timestamp": 874
+        }
+      ]
+    },
+    {
+      "id": "phase-8-thiollier",
+      "title": "Gravesite Plain – Thiollier's Quest Step",
+      "steps": [
+        {
+          "id": "thiollier-intro",
+          "title": "Speak with Thiollier at Pillar Path Cross – Opens Poison Shop",
+          "tag": ["quest-start"],
+          "description": "Find Thiollier at the Pillar Path Cross. Speak through introductory dialogue to open his shop.",
+          "mapGenieId": null,
+          "timestamp": 910
+        },
+        {
+          "id": "moore-black-syrup",
+          "title": "Get Black Syrup from Moore via 'Talk to Moore'",
+          "tag": ["quest"],
+          "description": "Interact with Moore at the Main Gate Cross. Choose 'Talk to Moore' to receive the Black Syrup key item.",
+          "mapGenieId": null,
+          "timestamp": 934
+        },
+        {
+          "id": "thiollier-concoction",
+          "title": "Give Thiollier Black Syrup – Get Thiollier's Concoction",
+          "tag": ["quest"],
+          "description": "Return to Thiollier. Choose 'Give black syrup', then 'Ask about black syrup', then 'I'm weary of life'. Receive Thiollier's Concoction. Important for another quest. If used accidentally, buy more for 30,000 runes.",
+          "mapGenieId": null,
+          "timestamp": 945
+        }
+      ]
+    },
+    {
+      "id": "phase-9-belurat-gaol",
+      "title": "Belurat Gaol",
+      "steps": [
+        {
+          "id": "belurat-gaol-enter",
+          "title": "Enter Belurat Gaol (West of Greatbridge North Grace)",
+          "tag": ["dungeon"],
+          "description": "Fast travel to the Greatbridge, North grace. Head west across the pond into the Belurat Gaol.",
+          "mapGenieId": null,
+          "timestamp": 990
+        },
+        {
+          "id": "belurat-gaol-hefty-pot-1",
+          "title": "Pick Up Hefty Cracked Pot (Hanging Jar Platform)",
+          "tag": ["item"],
+          "description": "Follow the main path through crumbling stairs and bridges. In the large chamber, platform down hanging jars. Drop to the western jar, jump to the wooden platform with a chest containing a Hefty Cracked Pot.",
+          "mapGenieId": null,
+          "timestamp": 1035
+        },
+        {
+          "id": "belurat-gaol-cookbook-11",
+          "title": "Pick Up Greater Potentate's Cookbook 11",
+          "tag": ["item"],
+          "description": "In the jar maze, move west then southeast. Before the main exit, turn southwest over jars. Pick up the Greater Potentate's Cookbook 11.",
+          "mapGenieId": null,
+          "timestamp": 1109
+        },
+        {
+          "id": "belurat-gaol-hefty-pot-2",
+          "title": "Pick Up Hefty Cracked Pot (Jar Cluster – Sprint Jump)",
+          "tag": ["item"],
+          "description": "Veer south on top of jars. Sprint-jump to a nearby cluster for the second Hefty Cracked Pot.",
+          "mapGenieId": null,
+          "timestamp": 1125
+        },
+        {
+          "id": "belurat-gaol-hefty-pot-3",
+          "title": "Pick Up Hefty Cracked Pot (Third Jar Cluster)",
+          "tag": ["item"],
+          "description": "Drop down, head west over broken jars, follow the cave wall path. Climb on top of a new cluster of jars for the third Hefty Cracked Pot.",
+          "mapGenieId": null,
+          "timestamp": 1135
+        },
+        {
+          "id": "belurat-gaol-forgotten-ash",
+          "title": "Pick Up Forgotten Ash of War",
+          "tag": ["item"],
+          "description": "Drop down and grab the Forgotten Ash of War nearby.",
+          "mapGenieId": null,
+          "timestamp": 1142
+        },
+        {
+          "id": "belurat-gaol-greatjar-head",
+          "title": "Pick Up Greatjar Head Armor (Hanging Jar Altar)",
+          "tag": ["item"],
+          "description": "Jump the gap, drop onto a hanging jar which rises. Platform across more jars to reach an altar with the Greatjar Head armor.",
+          "mapGenieId": null,
+          "timestamp": 1165
+        },
+        {
+          "id": "belurat-gaol-boss",
+          "title": "Defeat Demi-Human Swordmaster Onze – Yosh Spirit Ashes",
+          "tag": ["boss"],
+          "description": "Continue to the boss chamber. Defeat Demi-Human Swordmaster Onze for the Demi-Human Swordsman Yosh Spirit Ashes.",
+          "mapGenieId": null,
+          "timestamp": 1212
+        }
+      ]
+    },
+    {
+      "id": "phase-10-ruined-forge",
+      "title": "Ruined Forge Lava Intake",
+      "steps": [
+        {
+          "id": "ruined-forge-enter",
+          "title": "Enter Ruined Forge Lava Intake",
+          "tag": ["dungeon"],
+          "description": "From Castle Front grace, head southeast through the valley to the Ruined Forge Lava Intake.",
+          "mapGenieId": null,
+          "timestamp": 1265
+        },
+        {
+          "id": "ruined-forge-cookbook-13",
+          "title": "Pick Up Greater Potentate's Cookbook 13",
+          "tag": ["item"],
+          "description": "Head south into the lava room. Drop west, turn around to find the cookbook.",
+          "mapGenieId": null,
+          "timestamp": 1289
+        },
+        {
+          "id": "ruined-forge-lever",
+          "title": "Pull Lever to Lower Intake Pipe",
+          "tag": ["dungeon"],
+          "description": "Climb rubble southwest, jump the gap. Go down the ladder northwest to reach the lever. Pull it to lower the intake pipe into the lava.",
+          "mapGenieId": null,
+          "timestamp": 1306
+        },
+        {
+          "id": "ruined-forge-altar",
+          "title": "Sprint-Jump to Intake Pipe – Anvil Hammer & Ancient Dragon Smithing Stone",
+          "tag": ["item"],
+          "description": "Drop down, pick up the Smithscript Dagger, sprint-jump to the pipe. Climb up and jump off southeast to the forge altar. Get the Anvil Hammer and Ancient Dragon Smithing Stone.",
+          "mapGenieId": null,
+          "timestamp": 1322
+        }
+      ]
+    },
+    {
+      "id": "phase-11-ellac-river",
+      "title": "Ellac River – Talisman & Bell Bearings",
+      "steps": [
+        {
+          "id": "ellac-river-enter",
+          "title": "Enter Ellac River Cave",
+          "tag": ["location"],
+          "description": "From the Ruined Forge, head northeast to the Miranda Flower region. Angle west to the Ellac River Cave entrance.",
+          "mapGenieId": null,
+          "timestamp": 1355
+        },
+        {
+          "id": "ellac-revered-ash",
+          "title": "Pick Up Revered Spirit Ash Before Ellac River Grace",
+          "tag": ["revered-spirit-ash"],
+          "description": "Head southwest through the cave. Grab the Revered Spirit Ash just before the Ellac River Cave grace.",
+          "mapGenieId": null,
+          "timestamp": 1421
+        },
+        {
+          "id": "two-headed-turtle-talisman",
+          "title": "Pick Up Two-Headed Turtle Talisman (Behind Waterfall)",
+          "tag": ["item"],
+          "description": "Exit the cave west, head north up the river. Find a small cave hidden behind a waterfall with the Two-Headed Turtle Talisman.",
+          "mapGenieId": null,
+          "timestamp": 1448
+        },
+        {
+          "id": "mushroom-seller-bell-1",
+          "title": "Shoot Down Pot – Mushroom-Seller's Bell Bearing 1",
+          "tag": ["item"],
+          "description": "Head west to a cliff edge. Shoot down a pot hanging from a stony protrusion for the Mushroom-Seller's Bell Bearing 1.",
+          "mapGenieId": null,
+          "timestamp": 1520
+        },
+        {
+          "id": "ellac-downstream",
+          "title": "Navigate Ellac River Downstream (Platforming)",
+          "tag": ["dungeon"],
+          "description": "Fast travel back to Ellac River Cave grace. Continue south through platforming sections (careful of fall damage) and Gravebirds. Pick up Greater Potentate's Cookbook 12 along the way.",
+          "mapGenieId": null,
+          "timestamp": 1553
+        },
+        {
+          "id": "mushroom-seller-bell-2",
+          "title": "Shoot Down Pot – Mushroom-Seller's Bell Bearing 2",
+          "tag": ["item"],
+          "description": "By the waterfall, shoot down another pot hanging from a stone pillar. Move to the base to pick up Mushroom-Seller's Bell Bearing 2.",
+          "mapGenieId": null,
+          "timestamp": 1614
+        },
+        {
+          "id": "forager-cookbook-3",
+          "title": "Get Forager Brood Cookbook 3 from Friendly Pest",
+          "tag": ["item", "missable"],
+          "description": "Exit the cave east through the woods. Near the edge, interact with a friendly Pest for the Forager Brood Cookbook 3.",
+          "mapGenieId": null,
+          "timestamp": 1654
+        }
+      ]
+    },
+    {
+      "id": "phase-12-cerulean-coast",
+      "title": "Cerulean Coast – Map, Crosses & Blessings",
+      "steps": [
+        {
+          "id": "cerulean-coast-grace",
+          "title": "Discover Cerulean Coast Site of Grace",
+          "tag": ["location"],
+          "description": "Head southwest across the woods, past the Furnace Golem, to the Cerulean Coast grace.",
+          "mapGenieId": null,
+          "timestamp": 1684
+        },
+        {
+          "id": "cerulean-coast-map",
+          "title": "Pick Up Southern Shore Map",
+          "tag": ["map-fragment"],
+          "description": "Head south toward the map. Watch out for the Ghostflame Dragon.",
+          "mapGenieId": null,
+          "timestamp": 1723
+        },
+        {
+          "id": "cerulean-coast-cross",
+          "title": "Interact with Cerulean Coast Cross of Miquella (Unique Message)",
+          "tag": ["quest"],
+          "description": "Southeast of the map, interact with the Cerulean Coast Cross. It carries a unique message.",
+          "mapGenieId": null,
+          "timestamp": 1766
+        },
+        {
+          "id": "ansbach-cross-report",
+          "title": "Tell Ansbach About the Unique Cross",
+          "tag": ["quest"],
+          "description": "Travel to Main Gate Cross. Speak with Ansbach about the unique Cross of Miquella.",
+          "mapGenieId": null,
+          "timestamp": 1794
+        },
+        {
+          "id": "hefty-pot-5-troll",
+          "title": "Defeat Pot-Throwing Troll – Hefty Cracked Pot 5",
+          "tag": ["item"],
+          "description": "Return to the coast. Head south. Defeat the troll that throws giant pots for the fifth Hefty Cracked Pot.",
+          "mapGenieId": null,
+          "timestamp": 1810
+        },
+        {
+          "id": "st-trina-cookbook-2",
+          "title": "Pick Up St. Trina Disciple's Cookbook 2",
+          "tag": ["item"],
+          "description": "Near the enormous fissure, pick up the cookbook from a body near the east edge.",
+          "mapGenieId": null,
+          "timestamp": 1849
+        },
+        {
+          "id": "fissure-grace",
+          "title": "Descend into the Fissure – Discover Grace (Sealed Path)",
+          "tag": ["location"],
+          "description": "Carefully descend the west side of the fissure. There's a grace at the bottom. The deeper path is sealed by Miquella — return later.",
+          "mapGenieId": null,
+          "timestamp": 1891
+        },
+        {
+          "id": "cerulean-coast-west-fragment",
+          "title": "Pick Up Scadutree Fragment (Valley Northwest of Cerulean Coast West)",
+          "tag": ["scadutree-fragment"],
+          "description": "From Cerulean Coast grace, head west to Cerulean Coast West grace. Go northeast past the stone coffin into a valley. Find the fragment in a small alcove along the northern rock face.",
+          "mapGenieId": null,
+          "timestamp": 1986
+        },
+        {
+          "id": "demi-human-queen-marigga",
+          "title": "Defeat Demi-Human Queen Marigga – Star-Lined Sword",
+          "tag": ["boss"],
+          "description": "Continue northwest to an isolated coast section. Defeat Marigga for the Star-Lined Sword.",
+          "mapGenieId": null,
+          "timestamp": 2062
+        },
+        {
+          "id": "great-grave-glovewort-coast",
+          "title": "Pick Up Great Grave Glovewort (Stone Coffin)",
+          "tag": ["item"],
+          "description": "Climb the nearby stone coffin for a Great Grave Glovewort.",
+          "mapGenieId": null,
+          "timestamp": 2068
+        }
+      ]
+    },
+    {
+      "id": "phase-13-dancer-mausoleum",
+      "title": "Southern Nameless Mausoleum – Dancer's Set",
+      "steps": [
+        {
+          "id": "underground-cave-glovewort",
+          "title": "Pick Up Great Grave Glovewort (Underground Cave)",
+          "tag": ["item", "optional"],
+          "description": "From Cerulean Coast West grace, head southeast. Near a gnarled tree, drop into an underground cave. Go northeast for a Great Grave Glovewort.",
+          "mapGenieId": null,
+          "timestamp": 2102
+        },
+        {
+          "id": "perfumed-oil-ranah",
+          "title": "Pick Up Perfumed Oil of Ranah",
+          "tag": ["item"],
+          "description": "Go southwest through the cave to a small island. Climb south for the reusable Perfumed Oil of Ranah.",
+          "mapGenieId": null,
+          "timestamp": 2197
+        },
+        {
+          "id": "dancer-of-ranah",
+          "title": "Defeat Dancer of Ranah – Dancer's Armor Set & Dancing Blade",
+          "tag": ["boss"],
+          "description": "Continue southeast to the Southern Nameless Mausoleum. Defeat the Dancer of Ranah for the Dancing Blade of Ranah and Dancer's Armor Set.",
+          "mapGenieId": null,
+          "timestamp": 2221
+        }
+      ]
+    },
+    {
+      "id": "phase-14-igon-dragons-pit",
+      "title": "Pillar Path & Dragon's Pit",
+      "steps": [
+        {
+          "id": "pillar-path-waypoint-grace",
+          "title": "Discover Pillar Path Waypoint Site of Grace",
+          "tag": ["location"],
+          "description": "Head southeast from Castle Front grace along the main road. Pick up the Swift Spear along the way. Discover the Pillar Path Waypoint grace.",
+          "mapGenieId": null,
+          "timestamp": 2293
+        },
+        {
+          "id": "igon-quest-start",
+          "title": "Speak with Igon (Do Not Attack)",
+          "tag": ["quest-start"],
+          "description": "Find screaming NPC Igon on the ground nearby. Speak to start his quest. Do not attack him.",
+          "mapGenieId": null,
+          "timestamp": 2293
+        },
+        {
+          "id": "suppressing-pillar-stone",
+          "title": "Pick Up Ancient Dragon Smithing Stone at Suppressing Pillar",
+          "tag": ["item", "optional"],
+          "description": "Optionally head south to the Suppressing Pillar for an Ancient Dragon Smithing Stone and a monument inscription.",
+          "mapGenieId": null,
+          "timestamp": 2307
+        },
+        {
+          "id": "ancient-dragon-man-invader",
+          "title": "Defeat Ancient Dragon-Man Invader",
+          "tag": ["invasion"],
+          "description": "Head southwest from the waypoint, past Igon, along the dragon statue path. The Ancient Dragon-Man invades (no drops).",
+          "mapGenieId": null,
+          "timestamp": 2345
+        },
+        {
+          "id": "dragons-pit-enter",
+          "title": "Enter the Dragon's Pit",
+          "tag": ["dungeon"],
+          "description": "Continue down the path to reach the Dragon's Pit entrance.",
+          "mapGenieId": null,
+          "timestamp": 2368
+        },
+        {
+          "id": "dragons-pit-boss",
+          "title": "Defeat Ancient Dragon-Man Boss – Dragon-Hunter's Great Katana",
+          "tag": ["boss"],
+          "description": "Follow the brazier-lit path south. Jump into the pit to reach the boss. Defeat the Ancient Dragon-Man for the Dragon-Hunter's Great Katana.",
+          "mapGenieId": null,
+          "timestamp": 2407
+        },
+        {
+          "id": "foot-of-jagged-peak",
+          "title": "Continue South to Foot of the Jagged Peak",
+          "tag": ["location"],
+          "description": "Continue south through heavy doors to reach the Foot of the Jagged Peak. Read Igon's message on the ledge.",
+          "mapGenieId": null,
+          "timestamp": 2425
+        },
+        {
+          "id": "jagged-peak-drake",
+          "title": "Defeat Jagged Peak Drake",
+          "tag": ["boss"],
+          "description": "Go down into the nearby pit. Defeat the Jagged Peak Drake.",
+          "mapGenieId": null,
+          "timestamp": 2467
+        },
+        {
+          "id": "grand-altar-dragon-communion",
+          "title": "Reach Grand Altar of Dragon Communion – Pick Up Igon's Cookbook 1",
+          "tag": ["location", "item"],
+          "description": "Head south through the valley to the Grand Altar. Pick up Igon's Cookbook 1 from inside a crumbling stone tower before the grace.",
+          "mapGenieId": null,
+          "timestamp": 2509
+        },
+        {
+          "id": "dragon-communion-priestess",
+          "title": "Speak with Dragon Communion Priestess (Do NOT Give Thiollier's Concoction at Night)",
+          "tag": ["quest", "warning"],
+          "description": "Speak with the Priestess. Devour draconic essence for an Ancient Dragon's Blessing. Ask about Bayle. Do NOT give Thiollier's Concoction if she's sleeping at night — it locks an ending.",
+          "mapGenieId": null,
+          "timestamp": 2531
+        }
+      ]
+    },
+    {
+      "id": "phase-15-charos-hidden-grave",
+      "title": "Charo's Hidden Grave",
+      "steps": [
+        {
+          "id": "charos-grace",
+          "title": "Reach Charo's Hidden Grave Site of Grace",
+          "tag": ["location"],
+          "description": "Head southwest from the Grand Altar, down into a valley of red flowers. Continue west past a Tibia Mariner to the grace.",
+          "mapGenieId": null,
+          "timestamp": 2565
+        },
+        {
+          "id": "charos-hippo-fragment",
+          "title": "Defeat Undead Hippo – Scadutree Fragment",
+          "tag": ["scadutree-fragment"],
+          "description": "Continue west past Gravebird and Miranda Flower areas to a small pond. Defeat the undead hippo for a Scadutree Fragment.",
+          "mapGenieId": null,
+          "timestamp": 2632
+        }
+      ]
+    },
+    {
+      "id": "phase-16-lamenters-gaol",
+      "title": "Lamenter's Gaol",
+      "steps": [
+        {
+          "id": "lamenters-gaol-enter",
+          "title": "Enter Lamenter's Gaol",
+          "tag": ["dungeon"],
+          "description": "Head west, jump a gap, turn east down the river. Near the bottom turn northwest to the Lamenter's Gaol.",
+          "mapGenieId": null,
+          "timestamp": 2704
+        },
+        {
+          "id": "lamenters-upper-key",
+          "title": "Pick Up Gaol Upper Level Key",
+          "tag": ["key-item"],
+          "description": "Travel down the main path, jump through a hole in the east rock wall. Enter the second cell on the right for the chest with the Upper Level Key.",
+          "mapGenieId": null,
+          "timestamp": 2718
+        },
+        {
+          "id": "lamentation-pate",
+          "title": "Pick Up 'Lamentation' Prattling Pate",
+          "tag": ["item"],
+          "description": "Cross the chasm east to grab the 'Lamentation' Prattling Pate before doubling back.",
+          "mapGenieId": null,
+          "timestamp": 2742
+        },
+        {
+          "id": "lamenters-unlock-upper",
+          "title": "Unlock Gaol Door with Upper Level Key",
+          "tag": ["dungeon"],
+          "description": "Retrace steps back to the tunnel. Head south and unlock the door with the Upper Level Key.",
+          "mapGenieId": null,
+          "timestamp": 2761
+        },
+        {
+          "id": "chilling-perfume-bottle",
+          "title": "Pick Up Chilling Perfume Bottle",
+          "tag": ["item"],
+          "description": "Slide down the ladder. Enter the first cell east for the Chilling Perfume Bottle.",
+          "mapGenieId": null,
+          "timestamp": 2773
+        },
+        {
+          "id": "lamenters-hefty-pot",
+          "title": "Pick Up Hefty Cracked Pot (Bone Mound)",
+          "tag": ["item"],
+          "description": "After the floor crumbles, go up north stairs, take second path to a room of jars. Find a Hefty Cracked Pot atop a mound of bones.",
+          "mapGenieId": null,
+          "timestamp": 2820
+        },
+        {
+          "id": "lamenters-lower-key",
+          "title": "Pick Up Gaol Lower Level Key",
+          "tag": ["key-item"],
+          "description": "Pick up the Gaol Lower Level Key from the chest south of the Hefty Pot.",
+          "mapGenieId": null,
+          "timestamp": 2837
+        },
+        {
+          "id": "lamenting-visage-torch",
+          "title": "Pick Up Lamenting Visage Torch (Illusory Wall + Lower Key)",
+          "tag": ["item"],
+          "description": "Climb out of the pit, return to the main staircase. Enter the first path (initially skipped). Attack/roll into the illusory wall. Open the gaol door with the Lower Key to get the Lamenting Visage Torch.",
+          "mapGenieId": null,
+          "timestamp": 2858
+        },
+        {
+          "id": "lamenters-boss",
+          "title": "Defeat the Lamenter Boss – Lamenter's Mask (Transformation Item)",
+          "tag": ["boss"],
+          "description": "Make your way to the top of the stairs. Unlock the final gaol door with the Lower Key. Slide down to the boss. Defeat the Lamenter (turns invisible halfway, summons duplicates). Drops the Lamenter's Mask. Reusable transformation item — dying is the only way to revert.",
+          "mapGenieId": null,
+          "timestamp": 2904
+        }
+      ]
+    },
+    {
+      "id": "phase-17-belurat-settlement",
+      "title": "Belurat, Tower Settlement",
+      "steps": [
+        {
+          "id": "belurat-entrance-spirit-ashes",
+          "title": "Pick Up 2 Revered Spirit Ashes at Entrance Statue",
+          "tag": ["revered-spirit-ash"],
+          "description": "Enter Belurat Tower Settlement northwest of Main Gate Cross. Past the spider scorpion at the top of stairs, head west to a statue with 2 Revered Spirit Ashes.",
+          "mapGenieId": null,
+          "timestamp": 2949
+        },
+        {
+          "id": "belurat-settlement-grace",
+          "title": "Discover Belurat, Tower Settlement Site of Grace",
+          "tag": ["location"],
+          "description": "Ascend past the spider scorpions (stick left or use Assassin's Gambit). Discover the grace at the top.",
+          "mapGenieId": null,
+          "timestamp": 3027
+        },
+        {
+          "id": "small-private-altar-grace",
+          "title": "Discover Small Private Altar Site of Grace",
+          "tag": ["location"],
+          "description": "Head southeast into the settlement. Turn northeast into the Small Private Altar for another grace.",
+          "mapGenieId": null,
+          "timestamp": 3037
+        },
+        {
+          "id": "fire-knight-queelign",
+          "title": "Defeat Fire Knight Queelign Invader – Crusade Insignia Talisman",
+          "tag": ["invasion"],
+          "description": "Head north past the Horned Warrior, east into the courtyard. Near the central tree, grab the Shriek of Sorrow Ash of War and trigger Queelign's invasion. Defeat him for the Crusade Insignia Talisman.",
+          "mapGenieId": null,
+          "timestamp": 3051
+        },
+        {
+          "id": "storeroom-key",
+          "title": "Pick Up Storeroom Key",
+          "tag": ["key-item"],
+          "description": "Jump up crumbled rooftops west, move northwest through a narrow alley to a waterway. Enter the small building downstream and climb the ladder for the Storeroom Key.",
+          "mapGenieId": null,
+          "timestamp": 3108
+        },
+        {
+          "id": "well-depths-key",
+          "title": "Pick Up Well Depths Key",
+          "tag": ["key-item"],
+          "description": "Exit the building south. Run along the rooftop edge and jump to a walkway leading to a small room with the Well Depths Key.",
+          "mapGenieId": null,
+          "timestamp": 3123
+        },
+        {
+          "id": "belurat-shortcut-lift",
+          "title": "Open Shortcut Lift Back to Settlement Grace",
+          "tag": ["location"],
+          "description": "Double back north, then head west and south down stairs to a lift. Pull the lever below to open a shortcut to the Belurat Tower Settlement grace.",
+          "mapGenieId": null,
+          "timestamp": 3142
+        }
+      ]
+    },
+    {
+      "id": "phase-18-belurat-keys-grandam",
+      "title": "Belurat – Using Keys & Hornsent Grandam",
+      "steps": [
+        {
+          "id": "well-depths-optional",
+          "title": "Use Well Depths Key (Poison Area – No Critical Items)",
+          "tag": ["dungeon", "optional"],
+          "description": "From the settlement grace, head east past the fountain, west to a deep well. Climb down and use the key on the northwest door. Explore if desired — no critical items inside.",
+          "mapGenieId": null,
+          "timestamp": 3164
+        },
+        {
+          "id": "hornsent-grandam",
+          "title": "Speak with Hornsent Grandam (Storeroom Key)",
+          "tag": ["quest"],
+          "description": "From the Small Private Altar, exit southwest. Past the two shades, use the Storeroom Key. Speak with Hornsent Grandam. She insults you — needs another item before she's useful.",
+          "mapGenieId": null,
+          "timestamp": 3194
+        }
+      ]
+    },
+    {
+      "id": "phase-19-belurat-upper",
+      "title": "Belurat – Upper Settlement & Boss",
+      "steps": [
+        {
+          "id": "bone-bow-spider-room",
+          "title": "Pick Up Bone Bow (Spider Scorpion Room)",
+          "tag": ["item", "optional"],
+          "description": "From the shortcut lift, enter the west chamber for the Bone Bow. Arachnophobe warning — spider scorpions.",
+          "mapGenieId": null,
+          "timestamp": 3219
+        },
+        {
+          "id": "belurat-miquella-cross",
+          "title": "Interact with Miquella's Cross (Unique Message) – Scadutree Fragment",
+          "tag": ["quest", "scadutree-fragment"],
+          "description": "Climb rubble east, enter hidden room (watch for Man-Fly ambush). Interact with the Cross of Miquella (unique message). Pick up Scadutree Fragment.",
+          "mapGenieId": null,
+          "timestamp": 3260
+        },
+        {
+          "id": "dried-bouquet-talisman",
+          "title": "Pick Up Dried Bouquet Talisman",
+          "tag": ["item"],
+          "description": "Exit south. Pick up the Dried Bouquet Talisman at the nearby altar.",
+          "mapGenieId": null,
+          "timestamp": 3279
+        },
+        {
+          "id": "belurat-pot-bearer-ash",
+          "title": "Defeat Pot-Bearer – Revered Spirit Ash",
+          "tag": ["revered-spirit-ash"],
+          "description": "Jump into the pit, head east. Use Assassin's Gambit, climb ladder. Head west, defeat the pot-bearer south for a Revered Spirit Ash.",
+          "mapGenieId": null,
+          "timestamp": 3295
+        },
+        {
+          "id": "belurat-second-revered-ash",
+          "title": "Pick Up Revered Spirit Ash (Before Spiral Staircase)",
+          "tag": ["revered-spirit-ash"],
+          "description": "Cross the bridge west. Pick up another Revered Spirit Ash before heading up the spiral staircase.",
+          "mapGenieId": null,
+          "timestamp": 3322
+        },
+        {
+          "id": "stagefront-grace",
+          "title": "Discover Stagefront Site of Grace",
+          "tag": ["location"],
+          "description": "Reach the Stagefront grace at the top. Blessings should be at Scadutree 6, Spirit Ash 5.",
+          "mapGenieId": null,
+          "timestamp": 3347
+        },
+        {
+          "id": "summon-freyja",
+          "title": "Summon Redmane Freyja (Gold Sign)",
+          "tag": ["quest", "optional"],
+          "description": "Optionally use the Gold Sign to summon Freyja as an ally.",
+          "mapGenieId": null,
+          "timestamp": 3364
+        },
+        {
+          "id": "divine-beast-dancing-lion",
+          "title": "Defeat Divine Beast Dancing Lion – Remembrance & Divine Beast Head",
+          "tag": ["boss"],
+          "description": "Defeat the final boss of Belurat. Drops the Remembrance of the Dancing Lion and legendary Divine Beast Head armor.",
+          "mapGenieId": null,
+          "timestamp": 3375
+        },
+        {
+          "id": "post-boss-revered-ash",
+          "title": "Pick Up Revered Spirit Ash (Beyond Lift)",
+          "tag": ["revered-spirit-ash"],
+          "description": "Discover the new grace. Take the southeast lift. Beyond the double doors, pick up a Revered Spirit Ash.",
+          "mapGenieId": null,
+          "timestamp": 3407
+        },
+        {
+          "id": "leda-tower-message",
+          "title": "Read Needle Knight Leda's Tower of Shadow Message",
+          "tag": ["quest"],
+          "description": "Head up the large stairs to find Leda's Tower of Shadow message.",
+          "mapGenieId": null,
+          "timestamp": 3417
+        }
+      ]
+    },
+    {
+      "id": "phase-20-grandam-hornsent-quest",
+      "title": "NPC Quest Progression – Hornsent Grandam, Freyja, Ansbach",
+      "steps": [
+        {
+          "id": "grandam-divine-beast-head",
+          "title": "Equip Divine Beast Head – Speak with Hornsent Grandam",
+          "tag": ["quest"],
+          "description": "Go to the Small Private Altar. Return to the Grandam. Equip the Divine Beast Head and speak with her. Exhaust dialogue for the Watchful Spirit Incantation.",
+          "mapGenieId": null,
+          "timestamp": 3425
+        },
+        {
+          "id": "grandam-scorpion-stew",
+          "title": "Rest and Return for Scorpion Stew",
+          "tag": ["quest"],
+          "description": "Rest at the nearby grace. Return to the Grandam for a bowl of Scorpion Stew (one at a time, only if you don't have one).",
+          "mapGenieId": null,
+          "timestamp": 3459
+        },
+        {
+          "id": "hornsent-give-stew",
+          "title": "Give Hornsent the Scorpion Stew – Receive Furnace Visages",
+          "tag": ["quest"],
+          "description": "Bring the stew to Hornsent at Three-Path Cross. Give it and speak through all dialogue. He gives Furnace Visages.",
+          "mapGenieId": null,
+          "timestamp": 3472
+        },
+        {
+          "id": "freyja-additional-dialogue",
+          "title": "Ask Freyja About Her Helm Damage and 'That Other Man'",
+          "tag": ["dialogue"],
+          "description": "Speak with Freyja. Ask about the damage to her helm and about 'that other man' (Hornsent).",
+          "mapGenieId": null,
+          "timestamp": 3496
+        },
+        {
+          "id": "ansbach-settlement-cross",
+          "title": "Tell Ansbach About the Unique Cross in the Settlement",
+          "tag": ["quest"],
+          "description": "Because we interacted with a unique cross in Belurat, tell Ansbach about it.",
+          "mapGenieId": null,
+          "timestamp": 3504
+        }
+      ]
+    },
+    {
+      "id": "phase-21-castle-ensis",
+      "title": "Castle Ensis",
+      "steps": [
+        {
+          "id": "castle-ensis-cross",
+          "title": "Reach Miquella's Cross in Castle Ensis – Scadutree Fragment",
+          "tag": ["scadutree-fragment"],
+          "description": "From Castle Front grace, head northeast across the bridge and angle north. Reach the cross and nearby grace. Pick up the fragment. Also read Leda's Castle Cross message.",
+          "mapGenieId": null,
+          "timestamp": 3513
+        },
+        {
+          "id": "castle-ensis-gate-bypass",
+          "title": "Bypass Castle Gate (Drop into Pit, Exit Cave, Hop Waterfall Stones)",
+          "tag": ["dungeon"],
+          "description": "To get around the gate: drop into the pit southwest past the soldier. Exit the cave and hop across stones protruding from a waterfall. Climb the ladder northwest to emerge on the other side.",
+          "mapGenieId": null,
+          "timestamp": 3580
+        },
+        {
+          "id": "moonrithyll-knight",
+          "title": "Defeat Moonrithyll, Carian Knight – Get His Sword",
+          "tag": ["boss"],
+          "description": "Continue southeast through the castle. Defeat Moonrithyll guarding the chapel entrance for his sword.",
+          "mapGenieId": null,
+          "timestamp": 3645
+        },
+        {
+          "id": "rellanas-cameo",
+          "title": "Pick Up Rellana's Cameo Talisman",
+          "tag": ["item"],
+          "description": "On the altar ahead in the chapel, pick up Rellana's Cameo Talisman.",
+          "mapGenieId": null,
+          "timestamp": 3651
+        },
+        {
+          "id": "castle-lord-chamber-grace",
+          "title": "Reach Castle-Lord's Chamber Site of Grace",
+          "tag": ["location"],
+          "description": "Exit southeast, open iron gates, run atop ramparts to the Castle-Lord's Chamber grace.",
+          "mapGenieId": null,
+          "timestamp": 3665
+        },
+        {
+          "id": "rellana-boss",
+          "title": "Defeat Rellana, Twin Moon Knight – Remembrance",
+          "tag": ["boss", "optional"],
+          "description": "Summon Leda at the gold sign outside. Defeat Rellana (not required for any quest or DLC completion). Drops Remembrance of the Twin Moon Knight (Rellana's Twin Blades or Twin Moons spell).",
+          "mapGenieId": null,
+          "timestamp": 3713
+        }
+      ]
+    },
+    {
+      "id": "phase-22-castle-ensis-skip",
+      "title": "Castle Ensis Skip – Alternate Path to Scadu Altus",
+      "steps": [
+        {
+          "id": "ensis-skip-spiritsprings",
+          "title": "Use Spiritsprings to Reach Scadu Altus (From Castle Front)",
+          "tag": ["location"],
+          "description": "From Castle Front grace, head southeast through the valley to the Miranda Flower region. Find a sealed spiritspring. Destroy rocks east to unseal it. Pick up Talisman of the Dread from the wooden shack. Take two spiritsprings up to Behind the Fort of Reprimand grace in Scadu Altus.",
+          "mapGenieId": null,
+          "timestamp": 3786
+        },
+        {
+          "id": "moorth-highway-south-grace",
+          "title": "Discover Moorth Highway, South Site of Grace",
+          "tag": ["location"],
+          "description": "Jump over the fort wall northeast. Move around the fort northwest. Discover the Moorth Highway, South grace.",
+          "mapGenieId": null,
+          "timestamp": 3925
+        }
+      ]
+    },
+    {
+      "id": "phase-23-scadu-altus-critical",
+      "title": "Scadu Altus – Map & Critical Missable Steps",
+      "steps": [
+        {
+          "id": "scadu-altus-map",
+          "title": "Pick Up Scadu Altus Map",
+          "tag": ["map-fragment"],
+          "description": "Follow Moorth Highway northwest. Pick up Repeating Crossbow under the Ghostflame Dragon. Discover Moorth Ruins grace (east side of road, near a Miquella Cross). Continue to the road intersection for the map.",
+          "mapGenieId": null,
+          "timestamp": 3945
+        },
+        {
+          "id": "shadow-keep-warning",
+          "title": "Do NOT Approach the Shadow Keep from the North or Move NE of Bridge Leading to Village",
+          "tag": ["warning"],
+          "description": "Approaching the Shadow Keep from north of the map location, or moving northeast of the Bridge Leading to the Village grace, locks you out of a unique item (Forager Brood Cookbook 7).",
+          "mapGenieId": null,
+          "timestamp": 3993
+        },
+        {
+          "id": "highroad-cross-grace",
+          "title": "Discover Highroad Cross Site of Grace",
+          "tag": ["location"],
+          "description": "Head south from the map and discover the Highroad Cross grace.",
+          "mapGenieId": null,
+          "timestamp": 4030
+        },
+        {
+          "id": "warming-stone-check",
+          "title": "Ensure You Have a Warming Stone",
+          "tag": ["tip"],
+          "description": "Check that you have a Warming Stone (found throughout the base game, e.g. west of Church of Irith in Liurnia).",
+          "mapGenieId": null,
+          "timestamp": 4037
+        },
+        {
+          "id": "forager-cookbook-4",
+          "title": "Drop Warming Stone Near Friendly Pest – Forager Brood Cookbook 4",
+          "tag": ["item", "missable"],
+          "description": "Head northwest from Highroad Cross to the north side of the Church of the Crusade. Find a friendly Pest curled up near the cliff. Drop a Warming Stone near it. It gets up and forages. Reload the game, then interact with it for the Forager Brood Cookbook 4.",
+          "mapGenieId": null,
+          "timestamp": 4063
+        },
+        {
+          "id": "scaduview-cross",
+          "title": "Interact with Miquella's Scaduview Cross (Unique Message)",
+          "tag": ["quest"],
+          "description": "Fast travel to Moorth Highway South. Head north through the tunnel, east along the rock wall. Destroy rocks to unseal a spiritspring. Take it up and run southeast to a ledge with Miquella's Scaduview Cross (unique message). Pick up the Scadutree Fragment.",
+          "mapGenieId": null,
+          "timestamp": 4135
+        },
+        {
+          "id": "ansbach-all-crosses",
+          "title": "Tell Ansbach About All Unique Crosses – He Makes a Revelation",
+          "tag": ["quest"],
+          "description": "Fast travel to Main Gate Cross. Tell Ansbach about all unique crosses. Speak once more for his revelation.",
+          "mapGenieId": null,
+          "timestamp": 4217
+        },
+        {
+          "id": "forager-cookbook-7-moore",
+          "title": "Get Forager Brood Cookbook 7 from Moore (Critical Missable Item)",
+          "tag": ["item", "missable"],
+          "description": "Interact with Moore and choose 'Talk to Moore'. Because you have the Forager Brood Cookbook 4, Moore gives you the Forager Brood Cookbook 7. Not obtainable after approaching the Shadow Keep.",
+          "mapGenieId": null,
+          "timestamp": 4239
+        }
+      ]
+    },
+    {
+      "id": "phase-24-warnings",
+      "title": "Before Part 2 – Exploration Advice",
+      "steps": [
+        {
+          "id": "avoid-shadow-keep",
+          "title": "Avoid the Shadow Keep and the Jagged Peak Until Part 2",
+          "tag": ["warning"],
+          "description": "Avoid the Shadow Keep (north of map) and the Jagged Peak (east of Dragon's Pit Terminus). Everything else south of Scadu Altus is fair game to explore.",
+          "mapGenieId": null,
+          "timestamp": 4250
+        }
+      ]
+    }
+  ]
+}

@@ -8,10 +8,10 @@ import { ProgressPill } from '../ui/ProgressPill';
 import { ExternalLink } from '../ui/ExternalLink';
 import BackToTop from '../ui/BackToTop';
 import { HERO_FONT_SIZE } from '../../constants/ui';
-import { QUEST_DATA } from '../../data/questData';
 
 interface LandingPageProps {
   regions: QuestRegion[];
+  dlcRegions: QuestRegion[];
   progress: Record<string, boolean>;
   overallDone: number;
   overallTotal: number;
@@ -21,6 +21,7 @@ interface LandingPageProps {
 
 export const LandingPage: FC<LandingPageProps> = ({
   regions,
+  dlcRegions,
   progress,
   overallDone,
   overallTotal,
@@ -29,6 +30,7 @@ export const LandingPage: FC<LandingPageProps> = ({
 }) => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [showReset, setShowReset] = useState(false);
+  const regionsLength = regions.length + dlcRegions.length
   const overallPct = overallTotal ? Math.round((overallDone / overallTotal) * 100) : 0;
 
   return (
@@ -51,11 +53,14 @@ export const LandingPage: FC<LandingPageProps> = ({
           Quest Tracker
         </h1>
         <p className="font-garamond text-[15.5px] text-taupe-dark mb-6 leading-[1.65] max-w-140">
-          Follow every questline, NPC interaction, and missable event across all {QUEST_DATA.regions.length} regions — in the correct order. Based on the video series by
+          Follow every questline, NPC interaction, and missable event across all{" "}
+          {regionsLength} regions — in the correct order. Based on the video
+          series by
           <ExternalLink
             href="https://www.youtube.com/@ItsShatter"
-            customStyle="font-garamond text-[15px] text-taupe underline underline-offset-2 hover:text-parchment-muted transition-colors duration-200 ml-1">
-              ItsShatter ↗
+            customStyle="font-garamond text-[15px] text-taupe underline underline-offset-2 hover:text-parchment-muted transition-colors duration-200 ml-1"
+          >
+            ItsShatter ↗
           </ExternalLink>
         </p>
 
@@ -93,7 +98,14 @@ export const LandingPage: FC<LandingPageProps> = ({
         <div className="font-cinzel text-[10px] text-umber-dark tracking-[0.12em] mb-3.5 mt-5">
           REGIONS DLC ERDTREE
         </div>
-        {/** HERE WE WILL SET A NEW REGION CARD WITH DLC REGIONS*/}
+        {dlcRegions.map((region) => (
+          <RegionCard
+            key={region.id}
+            region={region}
+            progress={progress}
+            onClick={() => onSelectRegion(region.id)}
+          />
+        ))}
       </div>
 
       {menuOpen && (
