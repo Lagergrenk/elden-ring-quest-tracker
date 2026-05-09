@@ -3,10 +3,8 @@ import type { QuestStep } from '../../types/guide';
 import { TagBadge } from './TagBadge';
 import { ChevronDown } from 'lucide-react';
 import { CheckboxIcon } from '../ui/CheckboxIcon';
-import { useAppStore } from '../../store/useAppStore';
 import { ExternalLink } from '../ui/ExternalLink';
 import { MAP_GENIE_BASE_URL } from '../../constants/mapGenie';
-import { toArray } from '../../utils/questStats';
 
 const CHECKED_OPACITY = 0.52;
 const ICON_SIZE = 18;
@@ -15,11 +13,11 @@ interface StepItemProps {
   step: QuestStep;
   checked: boolean;
   onToggle: () => void;
+  youtubeUrl: string;
 }
 
-export const StepItem: FC<StepItemProps> = ({ step, checked, onToggle }) => {
+export const StepItem: FC<StepItemProps> = ({ step, checked, onToggle, youtubeUrl }) => {
   const [open, setOpen] = useState(false);
-  const { currentRegion } = useAppStore();
 
   return (
     <div
@@ -46,7 +44,7 @@ export const StepItem: FC<StepItemProps> = ({ step, checked, onToggle }) => {
             >
               {step.title}
             </span>
-            {toArray(step.tag).map((t) => (
+            {step.tag.map((t) => (
               <TagBadge key={t} tag={t} />
             ))}
           </div>
@@ -66,15 +64,15 @@ export const StepItem: FC<StepItemProps> = ({ step, checked, onToggle }) => {
             {step.description}
           </p>
           <div className="flex items-center gap-4 mt-2.5">
-            {step.timestamp && currentRegion && (
+            {step.timestamp && (
               <ExternalLink
-                href={`${currentRegion.youtubeUrl}${step.timestamp}s`}
+                href={`${youtubeUrl}${step.timestamp}s`}
                 stopPropagation
               >
                 ▶ WATCH TIMESTAMP
               </ExternalLink>
             )}
-            {step.mapGenieId && toArray(step.mapGenieId).map((id, i, arr) => (
+            {step.mapGenieId && step.mapGenieId.map((id, i, arr) => (
               <ExternalLink key={id} href={`${MAP_GENIE_BASE_URL}${id}`} stopPropagation>
                 ⊕ MAPGENIE{arr.length > 1 ? ` ${i + 1}` : ''}
               </ExternalLink>

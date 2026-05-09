@@ -1,6 +1,7 @@
 import { useEffect, useState, type FC } from 'react';
 import type { QuestRegion } from '../../types/guide';
 import { SectionAccordion } from '../features/SectionAccordion';
+import { StepItem } from '../features/StepItem';
 import { ProgressPill } from '../ui/ProgressPill';
 import { ChevronLeft, RotateCcw } from 'lucide-react';
 import { useOpenSection } from '../../hooks/useOpenSection';
@@ -91,7 +92,17 @@ export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep
           onToggleStep={onToggleStep}
           open={openSectionId === section.id}
           onOpenChange={(isOpen) => setOpenSectionId(isOpen ? section.id : null)}
-        />
+        >
+          {section.steps.map((step) => (
+            <StepItem
+              key={step.id}
+              step={step}
+              checked={!!progress[step.id]}
+              onToggle={() => onToggleStep(step.id)}
+              youtubeUrl={region.youtubeUrl}
+            />
+          ))}
+        </SectionAccordion>
       ))}
       <BackToTop  />
 

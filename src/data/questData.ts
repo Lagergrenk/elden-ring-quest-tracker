@@ -1,4 +1,5 @@
-import type { QuestData } from '../types/guide';
+import type { QuestData, QuestRegion, QuestStep } from '../types/guide';
+
 import limgrave from "./base-game/part1-limgrave.json";
 import liurnia from "./base-game/part2-liurnia.json";
 import caelidaltus from "./base-game/part3-caelid-altus.json";
@@ -12,6 +13,36 @@ import postgamengplus from "./base-game/part9-post-game-ng-plus.json";
 import gravesitebelurat from "./dlc/dlc-part1-gravesite-belurat.json"
 
 import opsbeginnerstrat from "./routes/op-beginner-strat.json"
+
+type RawStep = Omit<QuestStep, 'tag' | 'mapGenieId'> & {
+  tag: string | string[];
+  mapGenieId?: number | number[] | null;
+};
+
+type RawPhase = { id: string; title: string; steps: RawStep[] };
+
+type RawRegion = Omit<QuestRegion, 'phases' | 'part'> & { phases: RawPhase[] };
+
+function normalizeStep(step: RawStep): QuestStep {
+  return {
+    ...step,
+    tag: Array.isArray(step.tag) ? step.tag : [step.tag],
+    mapGenieId: step.mapGenieId == null
+      ? undefined
+      : Array.isArray(step.mapGenieId) ? step.mapGenieId : [step.mapGenieId],
+  };
+}
+
+function normalizeRegion(json: RawRegion, part: number): QuestRegion {
+  return {
+    ...json,
+    part,
+    phases: json.phases.map((phase) => ({
+      ...phase,
+      steps: phase.steps.map(normalizeStep),
+    })),
+  };
+}
 
 const REGION_DATA = [
   { json: limgrave, part: 1 },
@@ -27,25 +58,16 @@ const REGION_DATA = [
 
 const ERDTREE_DLC_DATA = [{ json: gravesitebelurat, part: 1 }] as const;
 
-const ROUTES_DATA = [{ json: opsbeginnerstrat, part: 1}] as const;
+const ROUTES_DATA = [{ json: opsbeginnerstrat, part: 1 }] as const;
 
 export const QUEST_DATA: QuestData = {
-  regions: REGION_DATA.map(({ json, part }) => ({
-    ...json,
-    part,
-  })),
+  regions: REGION_DATA.map(({ json, part }) => normalizeRegion(json as RawRegion, part)),
 };
 
 export const DLC_QUEST_DATA: QuestData = {
-  regions: ERDTREE_DLC_DATA.map(({ json, part }) => ({
-    ...json,
-    part,
-  })),
+  regions: ERDTREE_DLC_DATA.map(({ json, part }) => normalizeRegion(json as RawRegion, part)),
 };
 
 export const ROUTES_ITEM_DATA: QuestData = {
-  regions: ROUTES_DATA.map(({ json, part }) => ({
-    ...json,
-    part,
-  })),
+  regions: ROUTES_DATA.map(({ json, part }) => normalizeRegion(json as RawRegion, part)),
 };

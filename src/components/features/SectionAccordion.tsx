@@ -1,6 +1,5 @@
-import type { FC } from 'react';
+import type { FC, ReactNode } from 'react';
 import type { QuestPhase } from '../../types/guide';
-import { StepItem } from './StepItem';
 import { ChevronDown } from 'lucide-react';
 import { ProgressPill } from '../ui/ProgressPill';
 import { CheckboxIcon } from '../ui/CheckboxIcon';
@@ -13,6 +12,7 @@ interface SectionAccordionProps {
   onToggleStep: (stepId: string) => void;
   open: boolean;
   onOpenChange: (open: boolean) => void;
+  children: ReactNode;
 }
 
 export const SectionAccordion: FC<SectionAccordionProps> = ({
@@ -21,6 +21,7 @@ export const SectionAccordion: FC<SectionAccordionProps> = ({
   onToggleStep,
   open,
   onOpenChange,
+  children,
 }) => {
   const doneSteps = section.steps.filter(s => progress[s.id]).length;
   const totalSteps = section.steps.length;
@@ -78,14 +79,7 @@ export const SectionAccordion: FC<SectionAccordionProps> = ({
       {/* Steps */}
       {open && (
         <div className="pr-4 pb-1.5 pl-11 border-t border-[rgba(184,150,58,0.08)]">
-          {section.steps.map((step) => (
-            <StepItem
-              key={step.id}
-              step={step}
-              checked={!!progress[step.id]}
-              onToggle={() => onToggleStep(step.id)}
-            />
-          ))}
+          {children}
         </div>
       )}
     </div>

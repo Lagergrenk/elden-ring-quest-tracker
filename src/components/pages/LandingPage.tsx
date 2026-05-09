@@ -1,5 +1,5 @@
 import { useState, type FC } from 'react';
-import type { QuestRegion } from '../../types/guide';
+import type { QuestRegion, RegionGroup } from '../../types/guide';
 import { Navbar } from '../layout/Navbar';
 import { MenuOverlay } from '../layout/MenuOverlay';
 import { ResetDialog } from '../ui/ResetDialog';
@@ -10,7 +10,7 @@ import BackToTop from '../ui/BackToTop';
 import { HERO_FONT_SIZE } from '../../constants/ui';
 
 interface LandingPageProps {
-  questRegions: QuestRegion[][];
+  groups: RegionGroup[];
   progress: Record<string, boolean>;
   overallDone: number;
   overallTotal: number;
@@ -20,7 +20,7 @@ interface LandingPageProps {
 }
 
 export const LandingPage: FC<LandingPageProps> = ({
-  questRegions,
+  groups,
   progress,
   overallDone,
   overallTotal,
@@ -30,8 +30,7 @@ export const LandingPage: FC<LandingPageProps> = ({
 }) => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [showReset, setShowReset] = useState(false);
-  const [regions, dlcRegions, opBeginnerStrat] = questRegions;
-  const regionsLength = questRegions.reduce((sum, arr) => sum + arr.length, 0);
+  const regionsLength = groups.reduce((sum, g) => sum + g.regions.length, 0);
   const overallPct = overallTotal ? Math.round((overallDone / overallTotal) * 100) : 0;
 
   return (
@@ -84,43 +83,21 @@ export const LandingPage: FC<LandingPageProps> = ({
           />
         </div>
 
-        <div className="font-cinzel text-[10px] text-umber-dark tracking-[0.12em] mb-3.5">
-          REGIONS BASE GAME
-        </div>
-        {regions.map((region) => (
-          <RegionCard
-            key={region.id}
-            region={region}
-            progress={progress}
-            onClick={() => onSelectRegion(region.id)}
-            onResetRegion={() => onResetRegion(region)}
-          />
-        ))}
-
-        <div className="font-cinzel text-[10px] text-umber-dark tracking-[0.12em] mb-3.5 mt-5">
-          REGIONS DLC ERDTREE
-        </div>
-        {dlcRegions.map((region) => (
-          <RegionCard
-            key={region.id}
-            region={region}
-            progress={progress}
-            onClick={() => onSelectRegion(region.id)}
-            onResetRegion={() => onResetRegion(region)}
-          />
-        ))}
-
-        <div className="font-cinzel text-[10px] text-umber-dark tracking-[0.12em] mb-3.5 mt-5">
-          OPTIMIZED STARTING STRAT
-        </div>
-        {opBeginnerStrat.map((region) => (
-          <RegionCard
-            key={region.id}
-            region={region}
-            progress={progress}
-            onClick={() => onSelectRegion(region.id)}
-            onResetRegion={() => onResetRegion(region)}
-          />
+        {groups.map((group, i) => (
+          <div key={group.label}>
+            <div className={`font-cinzel text-[10px] text-umber-dark tracking-[0.12em] mb-3.5 ${i > 0 ? 'mt-5' : ''}`}>
+              {group.label}
+            </div>
+            {group.regions.map((region) => (
+              <RegionCard
+                key={region.id}
+                region={region}
+                progress={progress}
+                onClick={() => onSelectRegion(region.id)}
+                onResetRegion={() => onResetRegion(region)}
+              />
+            ))}
+          </div>
         ))}
       </div>
 

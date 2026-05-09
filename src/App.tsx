@@ -4,24 +4,23 @@ import { LandingPage } from './components/pages/LandingPage';
 import { RegionPage } from './components/pages/RegionPage';
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
+import type { RegionGroup } from './types/guide';
+
+const REGION_GROUPS: RegionGroup[] = [
+  { label: 'REGIONS BASE GAME',      regions: QUEST_DATA.regions },
+  { label: 'REGIONS DLC ERDTREE',    regions: DLC_QUEST_DATA.regions },
+  { label: 'OPTIMIZED STARTING STRAT', regions: ROUTES_ITEM_DATA.regions },
+];
+
+const ALL_TRACKED_REGIONS = [...QUEST_DATA.regions, ...DLC_QUEST_DATA.regions];
 
 export default function App() {
   const { progress, currentRegion, toggleStep, resetProgress, resetRegionProgress, selectRegion, goBack } = useAppStore();
 
-  const allRegions = [...QUEST_DATA.regions, ...DLC_QUEST_DATA.regions];
-
-  const totalSteps = allRegions.flatMap((r) =>
+  const totalSteps = ALL_TRACKED_REGIONS.flatMap((r) =>
     r.phases.flatMap((p) => p.steps),
   ).length;
   const completedSteps = Object.keys(progress).length;
-
-  const allRegionsArray = [
-    QUEST_DATA.regions,
-    DLC_QUEST_DATA.regions,
-    ROUTES_ITEM_DATA.regions
-  ];
-
-  
 
   return (
     <>
@@ -37,7 +36,7 @@ export default function App() {
         />
       ) : (
         <LandingPage
-          questRegions={allRegionsArray}
+          groups={REGION_GROUPS}
           progress={progress}
           overallDone={completedSteps}
           overallTotal={totalSteps}
