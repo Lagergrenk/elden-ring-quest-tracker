@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { QUEST_DATA, DLC_QUEST_DATA } from '../data/questData';
+import { QUEST_DATA, DLC_QUEST_DATA, ROUTES_ITEM_DATA } from '../data/questData';
 import type { QuestRegion } from '../types/guide';
 
 interface AppState {
@@ -7,6 +7,7 @@ interface AppState {
   currentRegion: QuestRegion | null;
   toggleStep: (stepId: string) => void;
   resetProgress: () => void;
+  resetRegionProgress: (region: QuestRegion) => void;
   selectRegion: (id: string) => void;
   goBack: () => void;
 }
@@ -34,8 +35,18 @@ export const useAppStore = create<AppState>((set) => ({
     set({ progress: {} });
   },
 
+  resetRegionProgress: (region) =>
+    set((state) => {
+      const stepIds = new Set(region.phases.flatMap((p) => p.steps.map((s) => s.id)));
+      const next = Object.fromEntries(
+        Object.entries(state.progress).filter(([id]) => !stepIds.has(id))
+      );
+      localStorage.setItem('er_quest_progress', JSON.stringify(next));
+      return { progress: next };
+    }),
+
   selectRegion: (id) => {
-    const all = [...QUEST_DATA.regions, ...DLC_QUEST_DATA.regions];
+    const all = [...QUEST_DATA.regions, ...DLC_QUEST_DATA.regions, ...ROUTES_ITEM_DATA.regions];
     const region = all.find((r) => r.id === id) ?? null;
     set({ currentRegion: region });
   },

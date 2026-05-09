@@ -11,6 +11,8 @@ import postgamengplus from "./base-game/part9-post-game-ng-plus.json";
 
 import gravesitebelurat from "./dlc/dlc-part1-gravesite-belurat.json"
 
+import opsbeginnerstrat from "./routes/op-beginner-strat.json"
+
 const REGION_DATA = [
   { json: limgrave, part: 1 },
   { json: liurnia, part: 2 },
@@ -25,6 +27,8 @@ const REGION_DATA = [
 
 const ERDTREE_DLC_DATA = [{ json: gravesitebelurat, part: 1 }] as const;
 
+const ROUTES_DATA = [{ json: opsbeginnerstrat, part: 1}] as const;
+
 export const QUEST_DATA: QuestData = {
   regions: REGION_DATA.map(({ json, part }) => ({
     ...json,
@@ -34,6 +38,13 @@ export const QUEST_DATA: QuestData = {
 
 export const DLC_QUEST_DATA: QuestData = {
   regions: ERDTREE_DLC_DATA.map(({ json, part }) => ({
+    ...json,
+    part,
+  })),
+};
+
+export const ROUTES_ITEM_DATA: QuestData = {
+  regions: ROUTES_DATA.map(({ json, part }) => ({
     ...json,
     part,
   })),

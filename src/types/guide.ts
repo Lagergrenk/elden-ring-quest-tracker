@@ -2,9 +2,9 @@ export interface QuestStep {
   id: string;
   title: string;
   description: string;
-  tag: string[];
+  tag: string | string[];
   timestamp?: number;
-  mapGenieId?: number | null;
+  mapGenieId?: number | number[] | null;
 }
 
 export interface QuestPhase {

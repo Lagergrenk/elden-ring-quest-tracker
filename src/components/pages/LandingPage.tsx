@@ -10,27 +10,28 @@ import BackToTop from '../ui/BackToTop';
 import { HERO_FONT_SIZE } from '../../constants/ui';
 
 interface LandingPageProps {
-  regions: QuestRegion[];
-  dlcRegions: QuestRegion[];
+  questRegions: QuestRegion[][];
   progress: Record<string, boolean>;
   overallDone: number;
   overallTotal: number;
   onSelectRegion: (id: string) => void;
   onReset: () => void;
+  onResetRegion: (region: QuestRegion) => void;
 }
 
 export const LandingPage: FC<LandingPageProps> = ({
-  regions,
-  dlcRegions,
+  questRegions,
   progress,
   overallDone,
   overallTotal,
   onSelectRegion,
   onReset,
+  onResetRegion,
 }) => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [showReset, setShowReset] = useState(false);
-  const regionsLength = regions.length + dlcRegions.length
+  const [regions, dlcRegions, opBeginnerStrat] = questRegions;
+  const regionsLength = questRegions.reduce((sum, arr) => sum + arr.length, 0);
   const overallPct = overallTotal ? Math.round((overallDone / overallTotal) * 100) : 0;
 
   return (
@@ -92,6 +93,7 @@ export const LandingPage: FC<LandingPageProps> = ({
             region={region}
             progress={progress}
             onClick={() => onSelectRegion(region.id)}
+            onResetRegion={() => onResetRegion(region)}
           />
         ))}
 
@@ -104,6 +106,20 @@ export const LandingPage: FC<LandingPageProps> = ({
             region={region}
             progress={progress}
             onClick={() => onSelectRegion(region.id)}
+            onResetRegion={() => onResetRegion(region)}
+          />
+        ))}
+
+        <div className="font-cinzel text-[10px] text-umber-dark tracking-[0.12em] mb-3.5 mt-5">
+          OPTIMIZED STARTING STRAT
+        </div>
+        {opBeginnerStrat.map((region) => (
+          <RegionCard
+            key={region.id}
+            region={region}
+            progress={progress}
+            onClick={() => onSelectRegion(region.id)}
+            onResetRegion={() => onResetRegion(region)}
           />
         ))}
       </div>

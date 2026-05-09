@@ -6,6 +6,7 @@ import { CheckboxIcon } from '../ui/CheckboxIcon';
 import { useAppStore } from '../../store/useAppStore';
 import { ExternalLink } from '../ui/ExternalLink';
 import { MAP_GENIE_BASE_URL } from '../../constants/mapGenie';
+import { toArray } from '../../utils/questStats';
 
 const CHECKED_OPACITY = 0.52;
 const ICON_SIZE = 18;
@@ -45,7 +46,7 @@ export const StepItem: FC<StepItemProps> = ({ step, checked, onToggle }) => {
             >
               {step.title}
             </span>
-            {step.tag.map((t) => (
+            {toArray(step.tag).map((t) => (
               <TagBadge key={t} tag={t} />
             ))}
           </div>
@@ -73,14 +74,11 @@ export const StepItem: FC<StepItemProps> = ({ step, checked, onToggle }) => {
                 ▶ WATCH TIMESTAMP
               </ExternalLink>
             )}
-            {step.mapGenieId && (
-              <ExternalLink
-                href={`${MAP_GENIE_BASE_URL}${step.mapGenieId}`}
-                stopPropagation
-              >
-                ⊕ MAPGENIE
+            {step.mapGenieId && toArray(step.mapGenieId).map((id, i, arr) => (
+              <ExternalLink key={id} href={`${MAP_GENIE_BASE_URL}${id}`} stopPropagation>
+                ⊕ MAPGENIE{arr.length > 1 ? ` ${i + 1}` : ''}
               </ExternalLink>
-            )}
+            ))}
           </div>
         </div>
       )}

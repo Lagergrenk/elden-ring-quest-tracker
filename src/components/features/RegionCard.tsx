@@ -1,6 +1,6 @@
 import { useState, type FC } from 'react';
 import type { QuestRegion } from '../../types/guide';
-import { ChevronRight } from 'lucide-react';
+import { ChevronRight, RotateCcw } from 'lucide-react';
 import { ProgressPill } from '../ui/ProgressPill';
 import { getRegionStats } from '../../utils/questStats';
 
@@ -11,9 +11,10 @@ interface RegionCardProps {
   region: QuestRegion;
   progress: Record<string, boolean>;
   onClick: () => void;
+  onResetRegion?: () => void;
 }
 
-export const RegionCard: FC<RegionCardProps> = ({ region, progress, onClick }) => {
+export const RegionCard: FC<RegionCardProps> = ({ region, progress, onClick, onResetRegion }) => {
   const { total, done } = getRegionStats(region, progress);
   const pct = total ? Math.round((done / total) * 100) : 0;
   const [hovered, setHovered] = useState(false);
@@ -70,7 +71,18 @@ export const RegionCard: FC<RegionCardProps> = ({ region, progress, onClick }) =
           </span>
         </div>
       </div>
-      <ChevronRight style={{ opacity: hovered ? CHEVRON_HOVERED_OPACITY : CHEVRON_DEFAULT_OPACITY }} />
+      <div className="flex items-center gap-2">
+        {done > 0 && onResetRegion && (
+          <button
+            onClick={(e) => { e.stopPropagation(); onResetRegion(); }}
+            className="p-1 rounded text-umber hover:text-bronze transition-colors duration-150"
+            title="Reset region progress"
+          >
+            <RotateCcw size={14} />
+          </button>
+        )}
+        <ChevronRight style={{ opacity: hovered ? CHEVRON_HOVERED_OPACITY : CHEVRON_DEFAULT_OPACITY }} />
+      </div>
     </div>
   );
 };

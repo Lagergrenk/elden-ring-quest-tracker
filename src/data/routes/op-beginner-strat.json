@@ -1,0 +1,545 @@
+{
+  "id": "op-beginner-route",
+  "area": "Optimized Early-Game Route",
+  "description": "An optimized no-combat route to collect all essential early-game items: enough Smithing Stones to upgrade a regular weapon to +19, Somber Smithing Stones for a unique weapon to +9, 11 Flasks with +7 Sacred Tears, Golden Seeds, key items like the Dectus Medallion halves and Radagon's Soreseal, and enough runes to reach level 40+. All without fighting anything.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=JxTXbWffCYI&t=",
+  "phases": [
+    {
+      "id": "phase-1-limgrave-start",
+      "title": "Limgrave – Starting Out",
+      "steps": [
+        {
+          "id": "keepsake-golden-seed",
+          "title": "Create Character – Choose Golden Seed as Keepsake",
+          "tag": ["tip"],
+          "description": "During character creation, choose the Golden Seed as your keepsake.",
+          "timestamp": 41
+        },
+        {
+          "id": "church-elleh-smithing-1",
+          "title": "Pick Up Smithing Stone [1] at Church of Elleh",
+          "tag": ["item"],
+          "description": "Head to the Church of Elleh and pick up Smithing Stone [1].",
+          "mapGenieId": 164447,
+          "timestamp": 44
+        },
+        {
+          "id": "gatefront-torrent-map-knife",
+          "title": "Get Torrent, Map Fragment & Whetstone Knife at Gatefront",
+          "tag": ["item"],
+          "description": "Travel to Gatefront to get Torrent, the Map Fragment, and the Whetstone Knife.",
+          "mapGenieId": [163926, 163927, 164087],
+          "timestamp": 51
+        },
+        {
+          "id": "church-elleh-bell",
+          "title": "Return to Church of Elleh – Get Spirit Calling Bell",
+          "tag": ["item"],
+          "description": "Return to the Church of Elleh to collect the Spirit Calling Bell.",
+          "timestamp": 58
+        },
+        {
+          "id": "beach-gold-pickled",
+          "title": "Pick Up Gold-Pickled Fowl Foot on the Beach",
+          "tag": ["item"],
+          "description": "Head down to the beach to collect a Gold-Pickled Fowl Foot.",
+          "mapGenieId": 165628,
+          "timestamp": 61
+        },
+        {
+          "id": "stormgate-golden-seed",
+          "title": "Pick Up Golden Seed Past Stormgate",
+          "tag": ["item"],
+          "description": "Return to Gatefront and pass through the Stormgate to get a Golden Seed.",
+          "mapGenieId": 163957,
+          "timestamp": 67
+        },
+        {
+          "id": "stormgate-smithing-1",
+          "title": "Pick Up Nearby Smithing Stone [1]",
+          "tag": ["item"],
+          "description": "Pick up the nearby Smithing Stone [1].",
+          "mapGenieId": 163954,
+          "timestamp": 73
+        },
+        {
+          "id": "stormhill-shack-grace",
+          "title": "Activate Stormhill Shack Site of Grace",
+          "tag": ["location"],
+          "description": "Activate the Stormhill Shack site of grace.",
+          "mapGenieId": 164054,
+          "timestamp": 80
+        }
+      ]
+    },
+    {
+      "id": "phase-2-limgrave-east",
+      "title": "Limgrave – Runes & Smithing Stones",
+      "steps": [
+        {
+          "id": "east-runes",
+          "title": "Collect Runes East of Stormhill Shack",
+          "tag": ["farming"],
+          "description": "Head east and collect all the runes in this area.",
+          "mapGenieId": 165102,
+          "timestamp": 80
+        },
+        {
+          "id": "cracked-statue-smithing",
+          "title": "Lure Giant to Break Cracked Statue – Smithing Stones",
+          "tag": ["item"],
+          "description": "Find the cracked statue further east. Lure a giant to break it and collect the Smithing Stones inside.",
+          "mapGenieId": 165604,
+          "timestamp": 87
+        },
+        {
+          "id": "extra-smithing-1",
+          "title": "Pick Up Another Smithing Stone [1]",
+          "tag": ["item"],
+          "description": "Collect another Smithing Stone [1] from a nearby location.",
+          "mapGenieId": 165114,
+          "timestamp": 92
+        },
+        {
+          "id": "bridge-smithing-1",
+          "title": "Pick Up Smithing Stone [1] at Bridge (Teleport from Gatefront)",
+          "tag": ["item"],
+          "description": "Teleport to Gatefront and travel to a bridge for another Smithing Stone [1].",
+          "mapGenieId": 164450,
+          "timestamp": 97
+        },
+        {
+          "id": "somber-1-hill",
+          "title": "Pick Up Somber Smithing Stone [1]",
+          "tag": ["item"],
+          "description": "A little ahead to the right, find Somber Smithing Stone [1].",
+          "mapGenieId": 165860,
+          "timestamp": 104
+        },
+        {
+          "id": "gold-pickled-2",
+          "title": "Pick Up Gold-Pickled Fowl Foot (Up the Hill East)",
+          "tag": ["item"],
+          "description": "Face east, head up the hill for another Gold-Pickled Fowl Foot.",
+          "mapGenieId": 164455,
+          "timestamp": 109
+        },
+        {
+          "id": "fallen-structure-runes",
+          "title": "Collect Runes and Fevor's Cookbook at Fallen Structure",
+          "tag": ["item"],
+          "description": "Head north to the fallen structure forming a bridge. Collect runes and Fevor's Cookbook (contains the Sleep Pot recipe).",
+          "mapGenieId": 165622,
+          "timestamp": 116
+        }
+      ]
+    },
+    {
+      "id": "phase-3-third-church-fort-haight",
+      "title": "Limgrave – Third Church, Fort Haight & Weeping Peninsula",
+      "steps": [
+        {
+          "id": "third-church-physick-tear",
+          "title": "Pick Up Wondrous Physick Flask and Sacred Tear",
+          "tag": ["item", "sacred-tear"],
+          "description": "Head to the Third Church of Marika. Pick up the Flask of Wondrous Physick and the Sacred Tear.",
+          "mapGenieId": [164723,164140],
+          "timestamp": 127
+        },
+        {
+          "id": "fort-haight-seed-medallion",
+          "title": "Pick Up Golden Seed and Left Half of Dectus Medallion at Fort Haight",
+          "tag": ["item", "key-item"],
+          "description": "Travel to Fort Haight. Grab the Golden Seed in front of the fort. Head inside and climb the tower for the Left Half of the Dectus Medallion.",
+          "mapGenieId": [164181, 164496],
+          "timestamp": 137
+        },
+        {
+          "id": "bridge-sacrifice-items",
+          "title": "Pick Up Smithing Stone [1], Stonesword Key & Runes at Bridge of Sacrifice",
+          "tag": ["item"],
+          "description": "Head to the Bridge of Sacrifice. Collect runes (watch for wolves), a Smithing Stone, and a Stonesword Key. Activate the grace.",
+          "mapGenieId": [166520, 164635, 164634, 163964],
+          "timestamp": 147
+        },
+        {
+          "id": "morning-star-smithing-2",
+          "title": "Pick Up Morning Star and Smithing Stone [2]",
+          "tag": ["item"],
+          "description": "Head south. Get the Morning Star from the broken caravan and Smithing Stone [2] nearby.",
+          "mapGenieId": [164651, 164649],
+          "timestamp": 158
+        },
+        {
+          "id": "weeping-map-seed-somber-2",
+          "title": "Pick Up Map Fragment, Golden Seed & Somber Stone [2]",
+          "tag": ["item", "map-fragment"],
+          "description": "Continue south for the Map Fragment and Golden Seed. Then head to pick up Somber Smithing Stone [2].",
+          "mapGenieId": [164643, 165134, 164755],
+          "timestamp": 166
+        },
+        {
+          "id": "sacred-tears-weeping",
+          "title": "Pick Up 3 Sacred Tears (Callu Church, Church of Pilgrimage, Fourth Church)",
+          "tag": ["sacred-tear"],
+          "description": "Head west from Castle Morne Rampart up the hill for a Sacred Tear. Teleport to Bridge of Sacrifice, go west to Church of Pilgrimage for another (plus Blood Grease). Then Fourth Church of Marika for a third Sacred Tear.",
+          "mapGenieId": [164844, 165431, 165429, 165408],
+          "timestamp": 178
+        }
+      ]
+    },
+    {
+      "id": "phase-4-caelid",
+      "title": "Caelid – Dectus Medallion & Radagon's Soreseal",
+      "steps": [
+        {
+          "id": "teleport-beastial-sanctum",
+          "title": "Teleport to Beastial Sanctum via Portal",
+          "tag": ["location"],
+          "description": "Teleport to the Third Church of Marika. Use the portal behind it to reach the Beastial Sanctum in Caelid.",
+          "mapGenieId": 165596,
+          "timestamp": 202
+        },
+        {
+          "id": "caelid-golden-seed",
+          "title": "Pick Up Golden Seed Southeast of Sanctum",
+          "tag": ["item"],
+          "description": "Head southeast and collect a Golden Seed.",
+          "mapGenieId": 164368,
+          "timestamp": 209
+        },
+        {
+          "id": "caelid-runes",
+          "title": "Collect Runes Near Minor Erdtree",
+          "tag": ["farming"],
+          "description": "Cross the bridge past the big dragon. Go around the Minor Erdtree to collect runes. Activate Lenne's Rise grace along the way.",
+          "mapGenieId": [168090, 164394],
+          "timestamp": 217
+        },
+        {
+          "id": "fort-faroth-dectus-right",
+          "title": "Pick Up Right Half of Dectus Medallion at Fort Faroth",
+          "tag": ["key-item"],
+          "description": "Head to the Minor Erdtree, use the spiritspring to reach Fort Faroth. Climb the ladder inside to get the Right Half of the Dectus Medallion.",
+          "mapGenieId": 166653,
+          "timestamp": 236
+        },
+        {
+          "id": "radagons-soreseal",
+          "title": "Pick Up Radagon's Soreseal Talisman",
+          "tag": ["item"],
+          "description": "Jump down, collect a Golden Rune, jump the gap, dodge the big rat, and collect Radagon's Soreseal. Best early-game talisman (+5 to Vigor, Endurance, Strength, and Dexterity).",
+          "mapGenieId": 166506,
+          "timestamp": 248
+        },
+        {
+          "id": "smithing-7-8",
+          "title": "Pick Up Smithing Stones [7] and [8]",
+          "tag": ["item"],
+          "description": "From Fort Faroth, head west toward a white formation. Climb up to collect Smithing Stones [7] and [8].",
+          "mapGenieId": [168750, 168751],
+          "timestamp": 266
+        },
+        {
+          "id": "church-plague-tear-seeds",
+          "title": "Pick Up Sacred Tear and 2 Golden Seeds",
+          "tag": ["sacred-tear", "item"],
+          "description": "Use the spiritspring down. Head to the Church of Plague for a Sacred Tear. Then pick up two more Golden Seeds nearby.",
+          "mapGenieId": [165584, 165726, 164369],
+          "timestamp": 278
+        },
+        {
+          "id": "somber-8-9",
+          "title": "Pick Up Somber Stones [8] and [9]",
+          "tag": ["item"],
+          "description": "Teleport to Fort Faroth. Head to Dragonbarrow near the Divine Tower of Caelid. Chase a Scarab off the edge for Somber Stone [8]. Go down and around for Somber Stone [9].",
+          "mapGenieId": [166021, 168892],
+          "timestamp": 290
+        }
+      ]
+    },
+    {
+      "id": "phase-5-liurnia",
+      "title": "Liurnia – Sacred Tear, Rya & Academy",
+      "steps": [
+        {
+          "id": "church-irith-tear",
+          "title": "Pick Up Sacred Tear at Church of Irith",
+          "tag": ["sacred-tear"],
+          "description": "Teleport to Stormhill. Go around Stormveil Castle to the Church of Irith for the Sacred Tear.",
+          "mapGenieId": 164850,
+          "timestamp": 304
+        },
+        {
+            "id": "portal-south-raya-lucaria-gate",
+            "title": "Unlock South Raya Lucaria Gate Site of Grace",
+            "tag": ["location"],
+            "description": "Use the portal to South Raya Lucaria Gate and unlock the site of grace.",
+            "mapGenieId": [166429, 164150],
+            "timestamp": 314
+        },
+        {
+          "id": "rya-quest-shortcut",
+          "title": "Complete Rya's Necklace Quest (Volcano Manor Invitation)",
+          "tag": ["quest"],
+          "description": "Activate the Laskyar grace. Use the portal in nearby ruins to teleport to South Raya Lucaria Gate. Activate grace. Talk to Rya, exhaust dialogue. Buy her necklace from Blackguard (1,000 runes). Return it for the Volcano Manor invitation.",
+          "mapGenieId": [164147, 166413, 177671],
+          "timestamp": 322
+        },
+        {
+          "id": "liurnia-smithing-2-seed",
+          "title": "Pick Up Smithing Stones [2] and Golden Seed",
+          "tag": ["item"],
+          "description": "Head east for Smithing Stones behind a statue. Get the Golden Seed from Academy Gate Town and a Smithing Stone guarded by a crab.",
+          "mapGenieId": [174455, 165193, 165274],
+          "timestamp": 332
+        },
+        {
+          "id": "liurnia-runes-smithing-2",
+          "title": "Collect Runes and More Smithing Stones [2]",
+          "tag": ["item", "farming"],
+          "description": "Under the bridge, collect runes guarded by flowers. Head west for Smithing Stones [2] under a statue. Go southwest for more Smithing Stones [2].",
+          "mapGenieId": [166848, 168269, 166192],
+          "timestamp": 344
+        },
+        {
+          "id": "academy-key-enter",
+          "title": "Pick Up Academy Key and Enter Raya Lucaria",
+          "tag": ["key-item"],
+          "description": "Go north behind the dragon for the Academy Key. Teleport to South Raya Lucaria Gate and use the key. Travel past the blue seal for a Golden Seed at the broken bridge.",
+          "mapGenieId": [165269, 164150, 165657],
+          "timestamp": 362
+        },
+        {
+          "id": "academy-somber-3",
+          "title": "Pick Up Somber Smithing Stone [3]",
+          "tag": ["item"],
+          "description": "Use the elevator to go up, open the gate. Activate the grace. Go back behind the wall for Somber Stone [3].",
+          "mapGenieId": [164425, 165663],
+          "timestamp": 379
+        },
+        {
+          "id": "classroom-grace-smithing-5",
+          "title": "Reach Classroom Grace – Pick Up Smithing Stone [5]",
+          "tag": ["item"],
+          "description": "Make your way through the graveyard to the big wheel elevator. Go up and activate the Classroom grace. Go back down the elevator all the way to the bottom. Quickly collect Smithing Stone [5].",
+          "mapGenieId": [164429, 165897],
+          "timestamp": 395
+        }
+      ]
+    },
+    {
+      "id": "phase-6-volcano-manor",
+      "title": "Volcano Manor – Smithing Stones via Abduction",
+      "steps": [
+        {
+          "id": "abductor-to-volcano",
+          "title": "Get Abducted to Volcano Manor",
+          "tag": ["location"],
+          "description": "At the bottom of the wheel elevator, get abducted by the Iron Maiden to Volcano Manor.",
+          "mapGenieId": 170464,
+          "timestamp": 399
+        },
+        {
+          "id": "volcano-smithing-6-runes",
+          "title": "Pick Up Smithing Stone [6] and Golden Runes",
+          "tag": ["item"],
+          "description": "Move forward, roll off the edge while hugging the wall. Heal immediately. Jump over cages to reach the rooftop for Smithing Stone [6]. Collect the Golden Rune on top of the fountain.",
+          "mapGenieId": [174385, 174384],
+          "timestamp": 417
+        },
+        {
+          "id": "volcano-somber-6-5",
+          "title": "Pick Up Somber Stones [6] and [5]",
+          "tag": ["item"],
+          "description": "Jump over roofs to reach a body with Somber Stone [6]. Go back, use the elevator up to the next floor for Somber Stone [5].",
+          "mapGenieId": [211736, 217446, 175523],
+          "timestamp": 433
+        },
+        {
+          "id": "volcano-more-smithing-6",
+          "title": "Pick Up More Smithing Stones [6] and Golden Rune",
+          "tag": ["item"],
+          "description": "Past the Blackflame Monk, raise the bridge. Cross it and jump down for a Golden Rune and more Smithing Stones [6].",
+          "mapGenieId": [174383, 176063],
+          "timestamp": 448
+        },
+        {
+          "id": "volcano-final-smithing-6",
+          "title": "Pick Up Smithing Stone [6] (Pillar Route)",
+          "tag": ["item"],
+          "description": "Use Memory of Grace back to the start. Go up and left instead of jumping down. Navigate past bats. Activate grace, jump down on pillars to find another Smithing Stone [6].",
+          "mapGenieId": 171374,
+          "timestamp": 473
+        }
+      ]
+    },
+    {
+      "id": "phase-7-altus-plateau",
+      "title": "Altus Plateau – Sacred Tear, Seeds & Sealed Tunnel",
+      "steps": [
+        {
+          "id": "bellum-church-tear",
+          "title": "Pick Up Sacred Tear at Bellum Church",
+          "tag": ["sacred-tear"],
+          "description": "Teleport to Main Academy Gate. Interact with the seal to teleport across the bridge. Collect the Sacred Tear at Bellum Church.",
+          "mapGenieId": 166627,
+          "timestamp": 495
+        },
+        {
+          "id": "grand-lift-dectus",
+          "title": "Use Dectus Medallion at Grand Lift",
+          "tag": ["location"],
+          "description": "Head to the Grand Lift of Dectus. Use your complete Medallion to ascend to Altus Plateau.",
+          "mapGenieId": 164180,
+          "timestamp": 505
+        },
+        {
+          "id": "rya-volcano-manor",
+          "title": "Find Rya – Get Taken to Volcano Manor (Talk to Tanith)",
+          "tag": ["quest"],
+          "description": "If Rya completed her quest, she waits at the Grand Lift (or at ruins near Erdtree-Gazing Hill). Ask her to take you to Volcano Manor. Talk to Lady Tanith.",
+          "mapGenieId": [169808, 176450, 167573],
+          "timestamp": 509
+        },
+        {
+          "id": "volcano-manor-smithing-6",
+          "title": "Pick Up Smithing Stone [6] at Volcano Manor Stairs",
+          "tag": ["item"],
+          "description": "Go up the stairs at Volcano Manor for Smithing Stone [6]. The invader upstairs returns to his world if you go back down.",
+          "mapGenieId": 168637,
+          "timestamp": 532
+        },
+        {
+          "id": "altus-golden-seed-runes",
+          "title": "Pick Up Golden Seed and Runes at Erdtree-Gazing Hill",
+          "tag": ["item"],
+          "description": "Teleport to Altus Plateau. Head north to Erdtree-Gazing Hill for a Golden Seed. Collect runes heading through the chasm.",
+          "mapGenieId": [166527, 170430, 170429, 166542],
+          "timestamp": 537
+        },
+        {
+            "id": "altus-chasm-seed",
+            "title": "Pick Up Golden Seed in Chasm and Continue to Collect Runes",
+            "tag": ["item"],
+            "description": "Continue the path inside the casm to pick up the golden runes, after that continue on to the collection of golden runes.",
+            "mapGenieId": [167985, 171200],
+            "timestamp": 550
+        },
+        {
+          "id": "cracked-statue-smithing-6",
+          "title": "Break Cracked Statue Near Craftsman's Shack – Smithing Stones [6]",
+          "tag": ["item"],
+          "description": "Activate the Craftsman's Shack grace. Go back to the cracked statue and lure the Runebear to break it for Smithing Stones [6].",
+          "mapGenieId": [166759, 171198],
+          "timestamp": 561
+        },
+        {
+          "id": "altus-three-golden-seeds",
+          "title": "Pick Up 3 Golden Seeds in Altus Plateau",
+          "tag": ["item"],
+          "description": "Teleport to Altus Plateau and pick up Golden Seeds from three locations.",
+          "mapGenieId": [166995, 166523, 166423, 166522],
+          "timestamp": 574
+        },
+        {
+          "id": "sealed-tunnel-bell-bearing",
+          "title": "Navigate Sealed Tunnel – Miner's Bell Bearing [2]",
+          "tag": ["dungeon", "item"],
+          "description": "Enter the Sealed Tunnel. Through the illusory wall, drop down for Smithing Stone [5]. Open the chest for Miner's Bell Bearing [2] (unlimited Smithing Stones [3] and [4]).",
+          "mapGenieId": [165471, 215419, 166643],
+          "timestamp": 585
+        },
+        {
+          "id": "sealed-tunnel-more-stones",
+          "title": "Collect More Smithing Stones [5] and [6] in Sealed Tunnel",
+          "tag": ["item"],
+          "description": "Continue through the tunnel: Smithing Stone [5], Gold-Pickled Fowl Foot on a root, Smithing Stones [6] (use abductor to break cracked statue). More Smithing Stones [5] past illusory walls.",
+          "mapGenieId": 215419,
+          "timestamp": 598
+        }
+      ]
+    },
+    {
+      "id": "phase-8-sellia-crystal-tunnel",
+      "title": "Caelid – Sellia Crystal Tunnel",
+      "steps": [
+        {
+          "id": "sellia-trap-teleport",
+          "title": "Teleport to Sellia Crystal Tunnel via Trap Chest",
+          "tag": ["location"],
+          "description": "Teleport to The First Step. Head east to ruins. Go down and activate the trap to teleport to Sellia Crystal Tunnel.",
+          "mapGenieId": [163930, 164856, 164376],
+          "timestamp": 644
+        },
+        {
+          "id": "sellia-smithing-5-batch",
+          "title": "Collect Multiple Smithing Stones [5]",
+          "tag": ["item"],
+          "description": "Go left and down to collect 3 Smithing Stones [5] close together. Head back up for one behind crates. Jump over the roof for more of the dungeon. Collect additional Smithing Stones [5] throughout.",
+          "mapGenieId": 166793,
+          "timestamp": 653
+        },
+        {
+          "id": "sellia-somber-4",
+          "title": "Pick Up Somber Smithing Stones [4] and More Smithing Stones [5]",
+          "tag": ["item"],
+          "description": "Go up the ladder for Somber Stone [4]. Cross and lower the shortcut ladder. Pick up another Somber Stone [4] and two more Smithing Stones [5]. Collect one final Smithing Stone [5] up to the left.",
+          "mapGenieId": 166793,
+          "timestamp": 672
+        }
+      ]
+    },
+    {
+      "id": "phase-9-wrong-warp",
+      "title": "Liurnia & Crumbling Farum Azula – Wrong Warp for Somber [7]",
+      "steps": [
+        {
+          "id": "four-belfries-key",
+          "title": "Pick Up Imbued Key at Four Belfries",
+          "tag": ["item"],
+          "description": "Travel to the Four Belfries in Liurnia. Collect the Imbued Key from the chest.",
+          "mapGenieId": 166456,
+          "timestamp": 718
+        },
+        {
+          "id": "wrong-warp-execute",
+          "title": "Perform Wrong Warp to Crumbling Farum Azula",
+          "tag": ["tip"],
+          "description": "Go to the bottom tower (note must read 'Crumbling Lands'). Use the key and go through the portal. Open map and teleport to Roundtable Hold. Alt+F4 just as the loading bar fills. Next login you'll be in Farum Azula. Back up your save immediately.",
+          "timestamp": 718
+        },
+        {
+          "id": "farum-azula-graces",
+          "title": "Unlock Two Sites of Grace in Farum Azula",
+          "tag": ["location"],
+          "description": "Jump down to the balcony, go down stairs. Dash through enemies and unlock the first grace quickly (dying sends you to Roundtable Hold). Go past the big dragon to the second grace.",
+          "mapGenieId": [167380, 167380],
+          "timestamp": 743
+        },
+        {
+          "id": "somberstone-bell-4-somber-7-9",
+          "title": "Pick Up Somberstone Bell Bearing [4], Somber [7] and [9]",
+          "tag": ["item"],
+          "description": "Follow the route through Farum Azula to obtain the Somberstone Bell Bearing [4] along with Somber Stones [7] and [9].",
+          "mapGenieId": [167385, 170194, 170193],
+          "timestamp": 770
+        }
+      ]
+    },
+    {
+      "id": "phase-10-rune-farm",
+      "title": "Caelid – Rune Farm",
+      "steps": [
+        {
+          "id": "greyoll-rune-farm",
+          "title": "Kill Greyoll Dragon at Fort Faroth for 96,000+ Runes",
+          "tag": ["farming"],
+          "description": "Go to Fort Faroth in Caelid. Equip the Morning Star and use Blood Grease. Hit the big dragon. Just before she dies, use a Gold-Pickled Fowl Foot for +30% runes. Over 96,000 runes total.",
+          "mapGenieId": 166189,
+          "timestamp": 806
+        }
+      ]
+    }
+  ]
+}

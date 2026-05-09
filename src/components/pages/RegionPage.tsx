@@ -1,33 +1,36 @@
-import { useEffect, type FC } from 'react';
+import { useEffect, useState, type FC } from 'react';
 import type { QuestRegion } from '../../types/guide';
 import { SectionAccordion } from '../features/SectionAccordion';
 import { ProgressPill } from '../ui/ProgressPill';
-import { ChevronLeft } from 'lucide-react';
+import { ChevronLeft, RotateCcw } from 'lucide-react';
 import { useOpenSection } from '../../hooks/useOpenSection';
 import { HERO_FONT_SIZE } from '../../constants/ui';
 import { QUEST_DATA } from '../../data/questData';
 import BackToTop from '../ui/BackToTop';
 import { getRegionStats } from '../../utils/questStats';
+import { ConfirmDialog } from '../ui/ConfirmDialog';
 
 interface RegionPageProps {
   region: QuestRegion;
   progress: Record<string, boolean>;
   onToggleStep: (stepId: string) => void;
   onBack: () => void;
+  onResetRegion: () => void;
 }
 
 
 
-export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep, onBack }) => {
+export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep, onBack, onResetRegion }) => {
   const { total, done } = getRegionStats(region, progress);
   const { openSectionId, setOpenSectionId } = useOpenSection(region, progress);
+  const [showConfirm, setShowConfirm] = useState(false);
 
   useEffect(() => { window.scrollTo(0, 0); }, []);
 
   return (
     <div className="max-w-190 mx-auto px-5 pb-20">
       {/* Back */}
-      <div className="pt-5">
+      <div className="pt-5 flex justify-between items-center">
         <button
           onClick={onBack}
           className="bg-transparent border-0 text-taupe font-mono-dm text-[11px] tracking-[0.08em] cursor-pointer flex items-center gap-1.5 py-1 px-0 transition-colors duration-200 hover:text-parchment-muted"
@@ -35,6 +38,15 @@ export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep
           <ChevronLeft className="shrink-0" />
           BACK TO REGIONS
         </button>
+        {done > 0 && (
+          <button
+            onClick={() => setShowConfirm(true)}
+            className="bg-transparent border-0 text-umber font-mono-dm text-[11px] tracking-[0.08em] cursor-pointer flex items-center gap-1.5 py-1 px-0 transition-colors duration-200 hover:text-bronze"
+          >
+            <RotateCcw size={13} />
+            RESET REGION
+          </button>
+        )}
       </div>
 
       {/* Region header */}
@@ -82,6 +94,16 @@ export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep
         />
       ))}
       <BackToTop  />
+
+      {showConfirm && (
+        <ConfirmDialog
+          title="Reset Region Progress?"
+          message={`This will clear all completed steps in ${region.area}. This cannot be undone.`}
+          confirmLabel="RESET"
+          onConfirm={() => { onResetRegion(); setShowConfirm(false); }}
+          onCancel={() => setShowConfirm(false)}
+        />
+      )}
     </div>
   );
 };
