@@ -1,11 +1,13 @@
 import { create } from 'zustand';
-import { QUEST_DATA, DLC_QUEST_DATA, ROUTES_ITEM_DATA } from '../data/questData';
 import type { QuestRegion } from '../types/guide';
+
+const PROGRESS_STORAGE_KEY = 'er_quest_progress';
 
 interface AppState {
   progress: Record<string, boolean>;
-  currentRegion: QuestRegion | null;
+  currentRegionId: string | null;
   toggleStep: (stepId: string) => void;
+  toggleSteps: (stepIds: string[]) => void;
   resetProgress: () => void;
   resetRegionProgress: (region: QuestRegion) => void;
   selectRegion: (id: string) => void;
@@ -13,25 +15,35 @@ interface AppState {
 }
 
 function loadProgress(): Record<string, boolean> {
-  try { return JSON.parse(localStorage.getItem('er_quest_progress') ?? '{}'); }
+  try { return JSON.parse(localStorage.getItem(PROGRESS_STORAGE_KEY) ?? '{}'); }
   catch { return {}; }
 }
 
 export const useAppStore = create<AppState>((set) => ({
   progress: loadProgress(),
-  currentRegion: null,
+  currentRegionId: null,
 
   toggleStep: (stepId) =>
     set((state) => {
       const next = { ...state.progress };
       if (next[stepId]) delete next[stepId];
       else next[stepId] = true;
-      localStorage.setItem('er_quest_progress', JSON.stringify(next));
+      localStorage.setItem(PROGRESS_STORAGE_KEY, JSON.stringify(next));
+      return { progress: next };
+    }),
+
+  toggleSteps: (stepIds) =>
+    set((state) => {
+      const next = { ...state.progress };
+      const allDone = stepIds.every((id) => next[id]);
+      if (allDone) stepIds.forEach((id) => delete next[id]);
+      else stepIds.forEach((id) => { next[id] = true; });
+      localStorage.setItem(PROGRESS_STORAGE_KEY, JSON.stringify(next));
       return { progress: next };
     }),
 
   resetProgress: () => {
-    localStorage.removeItem('er_quest_progress');
+    localStorage.removeItem(PROGRESS_STORAGE_KEY);
     set({ progress: {} });
   },
 
@@ -41,15 +53,11 @@ export const useAppStore = create<AppState>((set) => ({
       const next = Object.fromEntries(
         Object.entries(state.progress).filter(([id]) => !stepIds.has(id))
       );
-      localStorage.setItem('er_quest_progress', JSON.stringify(next));
+      localStorage.setItem(PROGRESS_STORAGE_KEY, JSON.stringify(next));
       return { progress: next };
     }),
 
-  selectRegion: (id) => {
-    const all = [...QUEST_DATA.regions, ...DLC_QUEST_DATA.regions, ...ROUTES_ITEM_DATA.regions];
-    const region = all.find((r) => r.id === id) ?? null;
-    set({ currentRegion: region });
-  },
+  selectRegion: (id) => set({ currentRegionId: id }),
 
-  goBack: () => set({ currentRegion: null }),
+  goBack: () => set({ currentRegionId: null }),
 }));

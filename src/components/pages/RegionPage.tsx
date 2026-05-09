@@ -15,13 +15,14 @@ interface RegionPageProps {
   region: QuestRegion;
   progress: Record<string, boolean>;
   onToggleStep: (stepId: string) => void;
+  onToggleSteps: (stepIds: string[]) => void;
   onBack: () => void;
   onResetRegion: () => void;
 }
 
 
 
-export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep, onBack, onResetRegion }) => {
+export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep, onToggleSteps, onBack, onResetRegion }) => {
   const { total, done } = getRegionStats(region, progress);
   const { openSectionId, setOpenSectionId } = useOpenSection(region, progress);
   const [showConfirm, setShowConfirm] = useState(false);
@@ -89,7 +90,7 @@ export const RegionPage: FC<RegionPageProps> = ({ region, progress, onToggleStep
           key={section.id}
           section={section}
           progress={progress}
-          onToggleStep={onToggleStep}
+          onToggleSteps={onToggleSteps}
           open={openSectionId === section.id}
           onOpenChange={(isOpen) => setOpenSectionId(isOpen ? section.id : null)}
         >

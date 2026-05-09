@@ -9,7 +9,7 @@ const CHECKBOX_ICON_SIZE = 15;
 interface SectionAccordionProps {
   section: QuestPhase;
   progress: Record<string, boolean>;
-  onToggleStep: (stepId: string) => void;
+  onToggleSteps: (stepIds: string[]) => void;
   open: boolean;
   onOpenChange: (open: boolean) => void;
   children: ReactNode;
@@ -18,7 +18,7 @@ interface SectionAccordionProps {
 export const SectionAccordion: FC<SectionAccordionProps> = ({
   section,
   progress,
-  onToggleStep,
+  onToggleSteps,
   open,
   onOpenChange,
   children,
@@ -28,8 +28,9 @@ export const SectionAccordion: FC<SectionAccordionProps> = ({
   const allDone = doneSteps === totalSteps;
 
   const handleToggleAll = () => {
-    (allDone ? section.steps : section.steps.filter(s => !progress[s.id]))
-      .forEach(s => onToggleStep(s.id));
+    const ids = (allDone ? section.steps : section.steps.filter(s => !progress[s.id]))
+      .map(s => s.id);
+    onToggleSteps(ids);
   };
 
   return (
